@@ -130,6 +130,9 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/0Yj99ss/VNEWS.png" ,VNews
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="antg" group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/tPvj88L/An-ninh-th-gi-i-HD-2015-removebg-preview.png", An Ninh Thế Giới
+#EXTVLCOPT:http-user-agent="KIIP"
+https://e2.endpoint.cdn.sctvonline.vn/hls/antg/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 
 
 #EXTINF:-1 tvg-id="htvccanhachd"tvg-logo="https://i.ibb.co/rybkPst/HCTVCANHAC.png" group-title="HTVC - KIPTV",HTVC Ca Nhạc
@@ -227,7 +230,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8?kiptv|Referer=http
 #EXTINF:0 tvg-id="boxmovie1" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Box Movie 1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/j5HcXvW/holywood.png",Hollywood Classics
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="drfithd" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/chBqNVp/dr-fit.png",DR.Fit
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="woman" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/k17TsNx/woman.png",Woman
