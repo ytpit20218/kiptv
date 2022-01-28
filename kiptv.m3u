@@ -29,7 +29,7 @@ https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
-#EXTINF:0 tvg-id="vtv7hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/J7FX52M/vtv7.png" tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
+#EXTINF:0 tvg-id="vtv7hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/J7FX52M/vtv7.png"  tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
@@ -127,7 +127,7 @@ https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="nhandan"group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/JqJd7PY/NHANDAN.png",NHÂN DÂN HD
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="THỜI SỰ - KIPTV " tvg-logo="https://i.ibb.co/0Yj99ss/VNEWS.png" ,VNews
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/0Yj99ss/VNEWS.png" ,VNews
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 
@@ -393,7 +393,15 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8?kiptv|Referer=http
 #EXTVLCOPT:http-user-agent="KIIP"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 
-
+#EXTINF:-1 tvg-id=""group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ZJMTwjc/ANT-HD-logo-2017-removebg.png", BPTV3 - 
+#EXTVLCOPT:http-user-agent="KIIP"
+https://livecdn.fptplay.net/sda/ant_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id=""group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/88LbpTw/SKY-Shop-Logo-removebg-preview.png",Skymart - DN9
+#EXTVLCOPT:http-user-agent="KIIP"
+https://livecdn.fptplay.net/sda/skymart_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id=""group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/rFGPKFL/qh-logo-color.png", Quê Hương Homeshopping 
+#EXTVLCOPT:http-user-agent="KIIP"
+https://livecdn.fptplay.net/sdb/quehuongshop_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/KhfdJDs/THVL1-HD.png" tvg-chno="41" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDEtNzIwcCIsImV4cCI6MTYzMjA1NzkzOX0.ZjZ3z2_rhWMYzMCmJp3paek9drRsC67UM4uJupr9bVs-/thvl1-720p/chunks_dvr_range-${start}-900.m3u8",Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
