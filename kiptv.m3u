@@ -5,6 +5,19 @@ http://gg.gg/xfc8x
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , List này làm ra cho cộng đồng, vui lòng không sao chép dưới mọi hình thức
 https://log5uwsgbvliv.vcdn.cloud/live/thunghiem/chunklist_3.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 1
+https://pprex49o5aliv.vcdn.cloud/live/box-channel/chunklist_2.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 2
+https://pprex49o5aliv.vcdn.cloud/live/box-hits/chunklist_2.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 3
+https://pprex49o5aliv.vcdn.cloud/live/man-tv/chunklist_2.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 3
+https://pprex49o5aliv.vcdn.cloud/live/woman-tv/chunklist_2.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 4
+https://pprex49o5aliv.vcdn.cloud/live/box-movie-1/chunklist_2.m3u8
+
+
+
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
