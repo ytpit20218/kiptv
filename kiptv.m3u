@@ -612,7 +612,18 @@ https://fujitv1.mov3.co/hls/fujitv.m3u8
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMtFPHZ/jp-shop-channe-5122.jpg" group-title="NHẬT BẢN", SHOP CHANNEL JAPAN
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="NHẬT BẢN",TV Tokyo
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RhJVKbM/NHK-BS1.png" group-title="NHẬT BẢN",NHK BS1
+http://203.162.235.41:16909
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMXCLsP/1200px-NHK-General-TV-logo-svg.png" group-title="NHẬT BẢN",NHK G
+http://203.162.235.41:16903
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CWVVV89/1-200-GGP3023-W.png" group-title="NHẬT BẢN",NHK E
+http://203.162.235.41:16901
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDQKZGR/E4c594f6-3687-40d8-b8b7-af85a0378c97-removebg.png" group-title="NHẬT BẢN", WOW WOW Cinema
+http://203.162.235.41:16916
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MhJQL0c/kisspng-logo-nhk-bs-premium-nhk-bs-2-nhk-bs1-bs-logo-www-galleryhip-com-the-hippest-pics-5bfac98cb7a.jpg" group-title="NHẬT BẢN",NHK BSP
+http://203.162.235.41:16910
 
 
 #EXTINF:0 group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/HVH6LkG/Arirang.png", Arirang
