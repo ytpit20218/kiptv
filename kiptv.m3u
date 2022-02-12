@@ -646,6 +646,8 @@ http://50.7.74.29:8880/hls/j00043/index.m3u8
 http://50.7.74.29:8880/hls/j00024/index.m3u8
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="NHẬT BẢN",Kids Station (720p HLS)
 http://50.7.74.29:8880/hls/j00023/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0qXMPvG/atx.png" group-title="NHẬT BẢN", AT-X Luồng 2
+http://50.7.74.29:8880/hls/j00052/index.m3u8
 
 
 #EXTINF:0 group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/HVH6LkG/Arirang.png", Arirang
