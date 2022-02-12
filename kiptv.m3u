@@ -849,6 +849,23 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist
 #EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 4
 #EXTVLCOPT:http-user-agent="kiptv"
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://cakhia10.tv/
+#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 5
+#EXTVLCOPT:http-user-agent="kiptv"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia10.tv/
+#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 6
+#EXTVLCOPT:http-user-agent="kiptv"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m504nd/playlist.m3u8|Referer=https://cakhia10.tv/
+#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 7
+#EXTVLCOPT:http-user-agent="kiptv"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/chunklist.m3u8|Referer=https://cakhia10.tv/
+#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 8
+#EXTVLCOPT:http-user-agent="kiptv"
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://cakhia10.tv/
+#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 8
+#EXTVLCOPT:http-user-agent="kiptv"
+
+
+
 #EXTINF:0 tvg-logo="" group-title="Link Tiengruoi",90 phút link 1
 https://jq9sucdqmfliv.vcdn.cloud/may3SD/may3SD@456.m3u8
 #EXTINF:0 tvg-logo="" group-title="Link Tiengruoi",90 phút link 2
