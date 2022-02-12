@@ -837,7 +837,14 @@ https://live.tuyenquangtv.vn/hls/radio.m3u8
 #EXTINF:-1 tvg-id="YÊN BÁI" tvg-logo="https://quangcaoradio.info/wp-content/uploads/2018/07/bang-gia-yen-bai.jpg" group-title="RADIO" , YÊN BÁI
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 
-
+#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 1
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/chunklist.m3u8|Referer=https://cakhia10.tv/
+#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 2
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://cakhia10.tv/
+#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 3
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia10.tv/
+#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 4
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://cakhia10.tv/
 #EXTINF:0 tvg-logo="" group-title="Link Tiengruoi",90 phút link 1
 https://jq9sucdqmfliv.vcdn.cloud/may3SD/may3SD@456.m3u8
 #EXTINF:0 tvg-logo="" group-title="Link Tiengruoi",90 phút link 2
