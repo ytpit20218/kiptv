@@ -630,7 +630,16 @@ http://50.7.74.29:8880/hls/j00030/index.m3u8
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png" group-title="NHẬT BẢN",Animax Nhật Bổn
 http://50.7.74.29:8880/hls/j00026/index.m3u8
-
+#EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" group-title="NHẬT BẢN",WOWOWプライム (720p HLS) 
+http://50.7.74.29:8880/hls/j00029/index.m3u8
+#EXTINF:-1 tvg-id="WowowLive.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" group-title="NHẬT BẢN",WOWOWライブ (720p HLS)
+http://50.7.74.29:8880/hls/j00027/index.m3u8
+#EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png" group-title="BS",WOWOWプラス (720p HLS)
+http://50.7.74.29:8880/hls/j00043/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkJapan.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="CS",Cartorn Network (720p HLS)
+http://50.7.74.29:8880/hls/j00024/index.m3u8
+#EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="CS",Kids Station (720p HLS)
+http://50.7.74.29:8880/hls/j00023/index.m3u8
 
 
 #EXTINF:0 group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/HVH6LkG/Arirang.png", Arirang
