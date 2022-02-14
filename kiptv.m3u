@@ -11,6 +11,9 @@ https://prod-streaming-video-msn-com.akamaized.net/fb5e2f79-b18b-498a-98cf-d0035
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , Test Lofi
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644710982/ei/5fcHYufAOsvo1gKB-IsI/ip/92.205.11.109/id/5qap5aO4i9A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKC64Ql76leDj9NiXSsAxO3MujUN3bgA5OCIgV7L1vQDAiEA9H0uiK4nwYNIii_dQLG0KmLMWgl9si0XCR_Yb-s43ig%3D/file/index.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="AFF U23 CHAMPIONSHIP 2022" , 🔴 [TRỰC TIẾP] TIMOR LESTE – PHILIPPINES | AFF U23 CHAMPIONSHIP 2022
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644853812/ei/1CUKYon9J9ijgAfUwoOADg/ip/92.205.11.109/id/ngo9rbWtTqo.1/source/yt_live_broadcast/requiressl/yes/tx/24121335/txs/24121335%2C24121336%2C24121337/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgK9KhiftAREttqa3cnb3M7nvuQVuG1movBJgsI36XBqICIHeuYGmH46Zof2lkpXnZ0pcmK61DVGpEpVtx1QDnRpgC/file/index.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 1
 https://pprex49o5aliv.vcdn.cloud/live/box-channel/chunklist_2.m3u8
