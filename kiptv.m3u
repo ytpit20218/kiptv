@@ -903,3 +903,7 @@ http://vod-zlr2.tv360.vn/video1/2021/11/02/17/c16648d4/c16648d4-c26c-4690-aaf4-9
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Phim Hành Động-TV360" , Vụ Trộm May Rủi - Logan Lucky
 http://vod-zlr2.tv360.vn/video1/2019/12/28/17/e7443e0b/e7443e0b-e721-46bd-8bbc-e17674c6fb4e_1_.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Test nimotv" , Trực tiếp game
+http://al.flv.nimo.tv/backsrc/su1599518330519r8ad49929364df698b4242646f0bfd01f.flv?uid=2399217891867891&uuid=6517087441302793&wsSecret=ebd0193904ac620a041367ed65396a7b&wsTime=62092038&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1644678841498&ticker=429391
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Test nimotv" , Misthy
+http://al.flv.nimo.tv/backsrc/su1639511734795r5a2b830043795aa55be3a5f1ad4d3316.flv?uid=997099938979823&uuid=073882938398656&wsSecret=a4655fb0afc10b19d16e930bdc520dfc&wsTime=620a6ce0&streamType=6&needwm=0&sphd=1&appid=81&tp=1644850400509&ticker=239683
