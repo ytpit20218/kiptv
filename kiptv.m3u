@@ -915,3 +915,5 @@ http://al.flv.nimo.tv/backsrc/su1799511768555r91f2892b13deb765559b0aed9d1da3da.f
 http://al.flv.nimo.tv/backsrc/su1629511896446r325d3b91acf6afd222f53d5ee8c02b04.flv?uid=0304072979718412&uuid=6370348743613924&wsSecret=9ff83a9f8ac83ddfa904f4cce693b0ce&wsTime=620d002f&ratio=6000&streamType=6&needwm=1&sphd=1&appid=81&tp=1645019184214&ticker=365558
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Test nimotv" , HUYEN DT
 http://al.flv.nimo.tv/live/su1629511764173r7c620f73a9af5375648099cb8b5c56ac.flv?uid=460671697170695&uuid=4089015539335911&wsSecret=1e874eda1d145682d166d4d29044a523&wsTime=620d02fb&streamType=3&needwm=0&appid=81&tp=1645019899373&ticker=975288
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Test nimotv" , Dộ Mixi
+http://ws.flv.nimo.tv/backsrc/su1599512126145r4d07bff38f528d4f674bd6338db4c664.flv?uid=8693788316176944&uuid=8816890730300998&wsSecret=24cc942f3a5f802c95207c70fd83d52c&wsTime=620e73cd&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1645114318028&ticker=480029
