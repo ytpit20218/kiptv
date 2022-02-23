@@ -920,3 +920,11 @@ http://al.flv.nimo.tv/live/su1629511764173r7c620f73a9af5375648099cb8b5c56ac.flv?
 http://ws.flv.nimo.tv/backsrc/su1599512126145r4d07bff38f528d4f674bd6338db4c664.flv?uid=8693788316176944&uuid=8816890730300998&wsSecret=24cc942f3a5f802c95207c70fd83d52c&wsTime=620e73cd&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1645114318028&ticker=480029
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Test nimotv" , Riku San
 http://tx.flv.nimo.tv/backsrc/su1639511943165r844292d956181c6f12d83e35307636b1.flv?uid=2820784867439343&uuid=8329090177902886&wsSecret=81df8efe2f1f092f191b6b6684bf6bb6&wsTime=620f9991&streamType=3&needwm=0&appid=81&tp=1645189522056&ticker=332490
+
+
+#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa01_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Atletico Madrid - Manchester United
+#EXTVLCOPT:http-user-agent="kiptv"
+https://livecdn.fptplay.net/tvc/uefa01_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa02_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Benfica - AFC Ajax
+#EXTVLCOPT:http-user-agent="kiptv"
+https://livecdn.fptplay.net/tvc/uefa02_2000.stream/chunklist.m3u8
