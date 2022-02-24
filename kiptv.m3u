@@ -922,9 +922,30 @@ http://ws.flv.nimo.tv/backsrc/su1599512126145r4d07bff38f528d4f674bd6338db4c664.f
 http://tx.flv.nimo.tv/backsrc/su1639511943165r844292d956181c6f12d83e35307636b1.flv?uid=2820784867439343&uuid=8329090177902886&wsSecret=81df8efe2f1f092f191b6b6684bf6bb6&wsTime=620f9991&streamType=3&needwm=0&appid=81&tp=1645189522056&ticker=332490
 
 
-#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa01_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Atletico Madrid - Manchester United
+#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa01_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 1
 #EXTVLCOPT:http-user-agent="kiptv"
 https://livecdn.fptplay.net/tvc/uefa01_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa02_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Benfica - AFC Ajax
+#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa02_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 2
 #EXTVLCOPT:http-user-agent="kiptv"
 https://livecdn.fptplay.net/tvc/uefa02_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa03_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 3
+#EXTVLCOPT:http-user-agent="kiptv"
+https://livecdn.fptplay.net/tvc/uefa03_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa04_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 4
+#EXTVLCOPT:http-user-agent="kiptv"
+https://livecdn.fptplay.net/tvc/uefa04_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa05_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 5
+#EXTVLCOPT:http-user-agent="kiptv"
+https://livecdn.fptplay.net/tvc/uefa05_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa06_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 6
+#EXTVLCOPT:http-user-agent="kiptv"
+https://livecdn.fptplay.net/tvc/uefa06_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa07_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 7
+#EXTVLCOPT:http-user-agent="kiptv"
+https://livecdn.fptplay.net/tvc/uefa07_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa08_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 8
+#EXTVLCOPT:http-user-agent="kiptv"
+https://livecdn.fptplay.net/tvc/uefa08_2000.stream/chunklist.m3u8
+#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 9
+#EXTVLCOPT:http-user-agent="kiptv"
+https://livecdn.fptplay.net/tvc/uefa09_2000.stream/chunklist.m3u8
