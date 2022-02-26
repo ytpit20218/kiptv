@@ -949,3 +949,12 @@ https://livecdn.fptplay.net/tvc/uefa08_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 9
 #EXTVLCOPT:http-user-agent="kiptv"
 https://livecdn.fptplay.net/tvc/uefa09_2000.stream/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Test KVOD", Sử dụng vlc, kodi hoặc các phần mềm có hỗ trợ phụ đề để xem phim có phụ đề tiếng việt nhé.
+http://vod-zlr2.tv360.vn/video1/2019/12/28/17/e7443e0b/e7443e0b-e721-46bd-8bbc-e17674c6fb4e_1_.m3u8
+#EXTINF:0 tvg-logo="" group-title="Test KVOD", Stand by Me Doraemon 2 (2020) (Vietsub)
+https://dl.dropboxusercontent.com/s/n46mtdgi8sdwaoi/Stand%20by%20Me%20Doraemon%202%20%282020%29%201080p%20BluRay%20x265-NM%20_%20Vietsub.mkv?dl=0
+#EXTINF:0 tvg-logo="" group-title="Test KVOD", Chủng tộc bất tử - ternals (2021) (Vietsub)
+https://dl.dropboxusercontent.com/s/2rx7iqtkvuo5jfo/Eternals.2021.1080p.WEB-DL.DDP5.1.Atmos.H.264-TOMMY_Vietsub.mkv?dl=0
+#EXTINF:0 tvg-logo="" group-title="Test KVOD", Godzilla đại chiến Kong - Godzilla vs Kong (2021) (Vietsub)
+https://dl.dropboxusercontent.com/s/x2tdirawma4sgxx/Godzilla.vs.Kong.2021.1080.HMAX.WEB-DL.DDP5.1.Atmos.x264-CMRG%20-%20Viet%20Sub.mkv?dl=0
