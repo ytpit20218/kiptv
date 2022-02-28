@@ -904,21 +904,21 @@ http://vod-zlr2.tv360.vn/video1/2021/11/02/17/c16648d4/c16648d4-c26c-4690-aaf4-9
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Phim Hành Động-TV360" , Vụ Trộm May Rủi - Logan Lucky
 http://vod-zlr2.tv360.vn/video1/2019/12/28/17/e7443e0b/e7443e0b-e721-46bd-8bbc-e17674c6fb4e_1_.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Test nimotv" , Trực tiếp game
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Trực tiếp game
 http://al.flv.nimo.tv/backsrc/su1599518330519r8ad49929364df698b4242646f0bfd01f.flv?uid=2399217891867891&uuid=6517087441302793&wsSecret=ebd0193904ac620a041367ed65396a7b&wsTime=62092038&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1644678841498&ticker=429391
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Test nimotv" , Misthy
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Misthy
 http://al.flv.nimo.tv/backsrc/su1639511734795r5a2b830043795aa55be3a5f1ad4d3316.flv?uid=997099938979823&uuid=073882938398656&wsSecret=a4655fb0afc10b19d16e930bdc520dfc&wsTime=620a6ce0&streamType=6&needwm=0&sphd=1&appid=81&tp=1644850400509&ticker=239683
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Test nimotv" , Thầy ba
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Thầy ba
 http://al.flv.nimo.tv/backsrc/su1629511905172rdd6c82e8d1170c24f8292037f37f6561.flv?uid=2092714337783412&uuid=0211065501244824&wsSecret=71b9ab0edf6b9d77f9df00ef2ef16df9&wsTime=620a6d54&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1644850517181&ticker=336129
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Test nimotv" , DR.HUNTER
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , DR.HUNTER
 http://al.flv.nimo.tv/backsrc/su1799511768555r91f2892b13deb765559b0aed9d1da3da.flv?uid=5043230074969871&uuid=8789261275216753&wsSecret=eb4da4799c6f5ef180e91d4eb442f4f8&wsTime=620d001d&streamType=6&needwm=0&appid=81&tp=1645019165931&ticker=310810
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Test nimotv" , TUITENBO
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , TUITENBO
 http://al.flv.nimo.tv/backsrc/su1629511896446r325d3b91acf6afd222f53d5ee8c02b04.flv?uid=0304072979718412&uuid=6370348743613924&wsSecret=9ff83a9f8ac83ddfa904f4cce693b0ce&wsTime=620d002f&ratio=6000&streamType=6&needwm=1&sphd=1&appid=81&tp=1645019184214&ticker=365558
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Test nimotv" , HUYEN DT
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , HUYEN DT
 http://al.flv.nimo.tv/live/su1629511764173r7c620f73a9af5375648099cb8b5c56ac.flv?uid=460671697170695&uuid=4089015539335911&wsSecret=1e874eda1d145682d166d4d29044a523&wsTime=620d02fb&streamType=3&needwm=0&appid=81&tp=1645019899373&ticker=975288
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Test nimotv" , Độ Mixi
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Độ Mixi
 http://ws.flv.nimo.tv/backsrc/su1599512126145r4d07bff38f528d4f674bd6338db4c664.flv?uid=8693788316176944&uuid=8816890730300998&wsSecret=24cc942f3a5f802c95207c70fd83d52c&wsTime=620e73cd&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1645114318028&ticker=480029
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Test nimotv" , Riku San
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Riku San
 http://tx.flv.nimo.tv/backsrc/su1639511943165r844292d956181c6f12d83e35307636b1.flv?uid=2820784867439343&uuid=8329090177902886&wsSecret=81df8efe2f1f092f191b6b6684bf6bb6&wsTime=620f9991&streamType=3&needwm=0&appid=81&tp=1645189522056&ticker=332490
 
 
@@ -969,3 +969,9 @@ https://dl.dropboxusercontent.com/s/ribwwy62umk6zfy/Spider.Man.No.Way.Home.2021.
 https://dl.dropboxusercontent.com/s/8xr3sst7ftumrys/%28Sub%20Viet%29%20Encanto.2021.1080p.BluRay.Remux.AVC.DTS-HD.MA.7.1-MBH.mkv?dl=0
 #EXTINF:0 tvg-logo="" group-title="Test KVOD", Tên cậu là gì? - Your Name (2021) (Vietsub)
 https://dl.dropboxusercontent.com/s/umcrgqnzuqe82z1/Your.Name.2016.2160p.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-SWTYBLZ%20%282%29.mkv?dl=0
+#EXTINF:0 tvg-logo="" group-title="Test KVOD", Không phải lúc chết - No Time to Die (2021) (Vietsub) (Thuyết Minh)
+https://dl.dropboxusercontent.com/s/84kisdenknwania/%28Thuyet%20Minh%20%20Vietsub%29%20No.Time.to.Die.2021.ViE.1080p.AMZN.WEB-DL.DDP5.1.H.264-CMRG.mkv?dl=0
+#EXTINF:0 tvg-logo="" group-title="Test KVOD", Lệnh truy nã đỏ - Red Notice (2021) (Vietsub)
+https://dl.dropboxusercontent.com/s/kxhsmify19eeisn/Red.Notice.2021.1080p.NF.WEBRip.DDP5.1.Atmos.x264-MZABI.mkv?dl=0
+#EXTINF:0 tvg-logo="" group-title="Test KVOD", The 355 (2022) (Vietsub)
+https://dl.dropboxusercontent.com/s/s8zei2fvtbpqq0f/The.355.2022.1080p.BluRay.x264.DTS-HD.MA.5.1-MT%20%28Vietsub%29.mkv?dl=0
