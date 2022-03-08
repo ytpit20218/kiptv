@@ -679,7 +679,8 @@ https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u
 #EXTINF:-1 tvg-id="AniPlus.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="Anime",AniPlus 
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
-
+#EXTINF: 0 tvg-id="" group-title="THỂ THAO" tvg-logo="https://cdn.golfnews.vn/bundles/cmnindex/images/GolfNews_Logo_black.png?v2899", Golf News
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8?cc
 #EXTINF: 0 tvg-id="" group-title="THỂ THAO" tvg-logo="https://i.ibb.co/8Dhd2BR/onegolf-HD.png", ONE GOLF HD
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vYWqSVn/racing-com.jpg" group-title="THỂ THAO",RACING.COM
