@@ -2,12 +2,12 @@
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , KIPTV by Kiet
 http://al.flv.nimo.tv/backsrc/su1599518330519r8ad49929364df698b4242646f0bfd01f.flv?uid=2399217891867891&uuid=6517087441302793&wsSecret=ebd0193904ac620a041367ed65396a7b&wsTime=62092038&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1644678841498&ticker=429391
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , NCS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644742409/ei/qXIIYr7jMo-BgQfHtpToBQ/ip/92.205.11.109/id/7tNtU5XFwrU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/24153465/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgbsvatl0NJoXblyr2BaLFuRkZWDW2Ljx2OBTnvqIwGscCIQD4WYado7HMnfMfaEuhg0atPbVfUCAX99dJw-ixdgxw6g%3D%3D/file/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , Live sự kiện Apple Vật Vờ 
+https://vatvostudio.vncdn.vn/vatvo/vvapple-transmux.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , List này làm ra cho cộng đồng, vui lòng không sao chép dưới mọi hình thức
 https://log5uwsgbvliv.vcdn.cloud/live/thunghiem/chunklist_3.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , Test nono
-https://prod-streaming-video-msn-com.akamaized.net/fb5e2f79-b18b-498a-98cf-d00352200957/50d763c7-96e6-492b-81ee-c692520504ef.mp4
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , Live sự kiện Apple
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646784160/ei/QJonYsa5HZnB-ga1_JOoBQ/ip/92.205.11.109/id/CUwg_JoNHpo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wQwIgGTlrs78rsB9le3eu53TZuyfTtV5gXVtZiO9qvge_MTACH2--O1qI6A22zQRtfvRhvKczS1j2MeiI104BhXNmiZU%3D/file/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , Test Lofi
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644710982/ei/5fcHYufAOsvo1gKB-IsI/ip/92.205.11.109/id/5qap5aO4i9A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKC64Ql76leDj9NiXSsAxO3MujUN3bgA5OCIgV7L1vQDAiEA9H0uiK4nwYNIii_dQLG0KmLMWgl9si0XCR_Yb-s43ig%3D/file/index.m3u8
 
