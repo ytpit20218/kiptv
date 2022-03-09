@@ -6,10 +6,6 @@ http://al.flv.nimo.tv/backsrc/su1599518330519r8ad49929364df698b4242646f0bfd01f.f
 https://vatvostudio.vncdn.vn/vatvo/vvapple-transmux.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , List này làm ra cho cộng đồng, vui lòng không sao chép dưới mọi hình thức
 https://log5uwsgbvliv.vcdn.cloud/live/thunghiem/chunklist_3.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , Live sự kiện Apple
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646784160/ei/QJonYsa5HZnB-ga1_JOoBQ/ip/92.205.11.109/id/CUwg_JoNHpo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wQwIgGTlrs78rsB9le3eu53TZuyfTtV5gXVtZiO9qvge_MTACH2--O1qI6A22zQRtfvRhvKczS1j2MeiI104BhXNmiZU%3D/file/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , Test Lofi
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644710982/ei/5fcHYufAOsvo1gKB-IsI/ip/92.205.11.109/id/5qap5aO4i9A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKC64Ql76leDj9NiXSsAxO3MujUN3bgA5OCIgV7L1vQDAiEA9H0uiK4nwYNIii_dQLG0KmLMWgl9si0XCR_Yb-s43ig%3D/file/index.m3u8
 
 #EXTINF:0 tvg-id=""group-title="AFF U23 CHAMPIONSHIP 2022" tvg-logo="" tvg-chno="1" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/afc01_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AFF U23 CHAMPIONSHIP 2022 TRẬN 1
 #EXTVLCOPT:http-user-agent="KIPTV"
@@ -873,17 +869,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist
 #EXTVLCOPT:http-user-agent="kiptv"
 
 
-
-#EXTINF:0 tvg-logo="" group-title="Link Tiengruoi",90 phút link 1
-https://jq9sucdqmfliv.vcdn.cloud/may3SD/may3SD@456.m3u8
-#EXTINF:0 tvg-logo="" group-title="Link Tiengruoi",90 phút link 2
-https://ksc96zydg6liv.vcdn.cloud/may0HD/may0HD@456.m3u8
-#EXTINF:0 tvg-logo="" group-title="Xem Da Bong",FPT PLAY LIVE UEFA 1
-https:\\vips-livecdn.fptplay.net\hdevent\uefa01_vhls.smil\playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="Xem Da Bong",FPT PLAY LIVE UEFA 2
-https:\\vips-livecdn.fptplay.net\hdevent\uefa02_vhls.smil\playlist.m3u8
-
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Phim Hành Động-TV360" , Người Đỡ Đạn - Man On Fire (2004)
 http://vod-zlr2.tv360.vn/video1/2021/11/02/17/0f4e12c8/0f4e12c8-6fcc-46b2-b756-2720dea1efdb_1_.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Phim Hành Động-TV360" , Nhà Trắng Thất Thủ: Kẻ Phản Bội - Angel Has Fallen
@@ -921,6 +906,18 @@ http://al.flv.nimo.tv/live/su1629511764173r7c620f73a9af5375648099cb8b5c56ac.flv?
 http://ws.flv.nimo.tv/backsrc/su1599512126145r4d07bff38f528d4f674bd6338db4c664.flv?uid=8693788316176944&uuid=8816890730300998&wsSecret=24cc942f3a5f802c95207c70fd83d52c&wsTime=620e73cd&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1645114318028&ticker=480029
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Riku San
 http://tx.flv.nimo.tv/backsrc/su1639511943165r844292d956181c6f12d83e35307636b1.flv?uid=2820784867439343&uuid=8329090177902886&wsSecret=81df8efe2f1f092f191b6b6684bf6bb6&wsTime=620f9991&streamType=3&needwm=0&appid=81&tp=1645189522056&ticker=332490
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Dev Nguyễn
+http://tx.flv.nimo.tv/backsrc/su1939513246539r707a601b17b57958413000ee4d365bb7.flv?uid=6860039037266851&uuid=2811280488812713&wsSecret=8321890a857acba934dfcddd7ef39d77&wsTime=6228ca39&ratio=6000&streamType=6&needwm=1&sphd=1&appid=81&tp=1646840378038&ticker=87234
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Ngân Sát Thủ
+http://al.flv.nimo.tv/live/su1639518832815r4bacbb97bd0df24281e5f0a7069d977b.flv?uid=4332604978645613&uuid=4963782333002336&wsSecret=22972448b2cc16412b8fbdfc3c7e7f18&wsTime=6228cad6&streamType=3&needwm=0&appid=81&tp=1646840535578&ticker=130570
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Mai Linh Zuto
+http://tx.flv.nimo.tv/backsrc/su1629527250640r7b765bf21eae71ad231603720883bf5b.flv?uid=0679012377846483&uuid=8359494910716967&wsSecret=6a11c7023c9aea32cb0e4a8ee349aa8e&wsTime=6228cb22&streamType=3&needwm=0&appid=81&tp=1646840611176&ticker=193998
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Nhism
+http://tx.flv.nimo.tv/backsrc/su1629512042595r219841637365d4f6ee41c892fc01acd1.flv?uid=979499220438105&uuid=8684264941396001&wsSecret=fd0a3767e453f3411c17eaa1808bc8b0&wsTime=6228cb55&ratio=6000&streamType=6&needwm=1&sphd=1&appid=81&tp=1646840662071&ticker=251377
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , SBTC Zeros
+http://tx.flv.nimo.tv/backsrc/su1629528988454r0e1c4f1daacc16f61aeb5ba946c12d2d.flv?uid=3882258624431621&uuid=8648359955841252&wsSecret=12f6ea4b3483bad505e35fcce0dc2e80&wsTime=6228cb99&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1646840729661&ticker=294952
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Sena Meta
+http://tx.flv.nimo.tv/backsrc/su1599517431273r6f2c679d7a26aba4540d3e30671abb95.flv?uid=057489943463512&uuid=878643446723724&wsSecret=118d14add80154c0d8f2a92a64f1a5d0&wsTime=6228cb6a&streamType=6&needwm=0&sphd=1&appid=81&tp=1646840683546&ticker=328763
 
 
 #EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa01_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 1
