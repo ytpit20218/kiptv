@@ -603,6 +603,7 @@ https://haugiang011220.cdn.vnns.io/c4348637100c37ae599ee04eaa2ea17a1633789755/ha
 http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
 
 
+
 #EXTINF:-1 tvg-id="NHK World" tvg-logo="https://i.ibb.co/VgzG5PT/NHKW.png" group-title="NHẬT BẢN",NHK WORLD JAPAN
 https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QNpg3xc/TV-Asahi.png" group-title="NHẬT BẢN", TV Asahi
@@ -632,23 +633,24 @@ http://203.162.235.41:16916
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MhJQL0c/kisspng-logo-nhk-bs-premium-nhk-bs-2-nhk-bs1-bs-logo-www-galleryhip-com-the-hippest-pics-5bfac98cb7a.jpg" group-title="NHẬT BẢN",NHK BSP
 http://203.162.235.41:16910
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Wkt8Wt/tokyomx-removebg-preview.png" group-title="NHẬT BẢN",Tokyo MX 1
-http://51.79.193.108:8080/hls/j00030/index.m3u8
+http://51.79.193.109:8080/hls/j00030/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CwLPJ6v/ta-i-xu-ng-removebg-preview.png" group-title="NHẬT BẢN",Tokyo MX 2
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png" group-title="NHẬT BẢN",Animax Nhật Bổn
-http://51.79.193.108:8080/hls/j00026/index.m3u8
+http://51.79.193.109:8080/hls/j00026/index.m3u8
 #EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" group-title="NHẬT BẢN",WOWOWプライム (720p HLS) 
-http://51.79.193.108:8080/hls/j00029/index.m3u8
+http://51.79.193.109:8080/hls/j00029/index.m3u8
 #EXTINF:-1 tvg-id="WowowLive.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" group-title="NHẬT BẢN",WOWOWライブ (720p HLS)
-http://51.79.193.108:8080/hls/j00027/index.m3u8
+http://51.79.193.109:8080/hls/j00027/index.m3u8
 #EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png" group-title="NHẬT BẢN",WOWOWプラス (720p HLS)
-http://51.79.193.108:8080/hls/j00028/index.m3u8
+http://51.79.193.109:8080/hls/j00028/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkJapan.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="NHẬT BẢN",Cartorn Network (720p HLS)
-http://51.79.193.108:8080/hls/j00024/index.m3u8
+http://51.79.193.109:8080/hls/j00024/index.m3u8
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="NHẬT BẢN",Kids Station (720p HLS)
-http://51.79.193.108:8080/hls/j00023/index.m3u8
+http://51.79.193.109:8080/hls/j00023/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qXMPvG/atx.png" group-title="NHẬT BẢN", AT-X Luồng 2
-http://51.79.193.108:8080/hls/j00052/index.m3u8
+http://51.79.193.109:8080/hls/j00052/index.m3u8
+
 
 
 #EXTINF:0 group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/HVH6LkG/Arirang.png", Arirang
@@ -671,7 +673,7 @@ http:\\mediaworks.dema.mil.kr:1935\live_edge\cudo.sdp\playlist.m3u8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimeZoneTV.do"tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="Anime",Anime Zone TV 
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Animestation.br" tvg-logo="https://i.imgur.com/5UpjGcL.png" group-title="",Anime",Animestation
+#EXTINF:-1 tvg-id="Animestation.br" tvg-logo="https://i.imgur.com/5UpjGcL.png" group-title="Anime",Animestation
 https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
 #EXTINF:-1 tvg-id="AniPlus.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="Anime",AniPlus 
 http://210.210.155.35/dr9445/h/h02/01.m3u8
