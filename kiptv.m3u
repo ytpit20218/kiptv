@@ -7,9 +7,10 @@ https://vatvostudio.vncdn.vn/vatvo/vvapple-transmux.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , List này làm ra cho cộng đồng, vui lòng không sao chép dưới mọi hình thức
 https://log5uwsgbvliv.vcdn.cloud/live/thunghiem/chunklist_3.m3u8
 
-#EXTINF:0 tvg-id=""group-title="AFF U23 CHAMPIONSHIP 2022" tvg-logo="" tvg-chno="1" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/afc01_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AFF U23 CHAMPIONSHIP 2022 TRẬN 1
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Youtube Test" , Tokyo Shinjuku Live camera
 #EXTVLCOPT:http-user-agent="KIPTV"
-https://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+https://2url.one/BiaZe
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 1
