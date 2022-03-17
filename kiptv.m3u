@@ -158,7 +158,7 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="antg" group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/tPvj88L/An-ninh-th-gi-i-HD-2015-removebg-preview.png", An Ninh Thế Giới
 #EXTVLCOPT:http-user-agent="KIIP"
-https://e2.endpoint.cdn.sctvonline.vn/hls/antg/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+https://2url.one/dLGjJ
 
 
 #EXTINF:-1 tvg-id="htvccanhachd"tvg-logo="https://i.ibb.co/rybkPst/HCTVCANHAC.png" group-title="HTVC - KIPTV",HTVC Ca Nhạc
@@ -360,7 +360,7 @@ https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/j3wTynz/National-Geographic.png", National Geographic HD
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/HgYTRT6/Nat-Geo-Wild.png", Nat Geo Wild HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8?kiptv
 #EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/XZStWVN/Discovery.png" , Discovery Channel
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
@@ -430,7 +430,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8?kiptv|Referer=http
 #EXTINF:0 tvg-id="vtvcab20hd"group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/QQKmk1C/VTVCAB20.png",VTVCab20 - V Family
 #EXTVLCOPT:http-user-agent="KIIP"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?kiptv|Referer=http://sctvonline.vn/
-
+#EXTINF:0 tvg-id="vtvcab20hd"group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/KrTv5rZ/VTVcab-11.webp",VTVCab20 - V Family
+https://2url.one/VgFGX
 
 #EXTINF:-1 tvg-id="antvhd"group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VBwhNjt/201349-mien-tay.png", THDT2 - Miền Tây
 https://mziyw7t0yhliv.vcdn.cloud/live/dongthap2/playlist.m3u8
