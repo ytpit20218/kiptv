@@ -158,7 +158,7 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="antg" group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/tPvj88L/An-ninh-th-gi-i-HD-2015-removebg-preview.png", An Ninh Thế Giới
 #EXTVLCOPT:http-user-agent="KIIP"
-https://2url.one/dLGjJ
+https://e2.endpoint.cdn.sctvonline.vn/hls/antg/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 
 
 #EXTINF:-1 tvg-id="htvccanhachd"tvg-logo="https://i.ibb.co/rybkPst/HCTVCANHAC.png" group-title="HTVC - KIPTV",HTVC Ca Nhạc
@@ -734,8 +734,8 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-country="US" tvg-logo="https://i.imgur.com/ZbPFZOV.png" group-title="THỂ THAO",Adventure Sports Network
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-#EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-country="US" tvg-logo="https://i.imgur.com/wZk4nZI.png" group-title="THỂ THAO",Adventure Sports TV
-https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-logo="" group-title="THỂ THAO",NBA
+http://103.22.181.150:8095/nbatv/mpegts
 #EXTINF:-1 tvg-id="" tvg-country="SE" tvg-language="Swedish" tvg-logo="" group-title="THỂ THAO",Astro Super Sport 1
 http://203.154.243.89:21201/nakhon
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",Astro Super Sport 2
