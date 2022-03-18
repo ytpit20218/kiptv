@@ -736,23 +736,21 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-country="US" tvg-logo="https://i.imgur.com/wZk4nZI.png" group-title="THỂ THAO",Adventure Sports TV
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
-#EXTINF:-1 tvg-id="ATG.se" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="THỂ THAO",ATG
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-country="BH" tvg-logo="https://i.imgur.com/pQ0QGGl.jpg" group-title="THỂ THAO",Bahrain Sports 1
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",BT SPORT ESPN HD
-http://line.thesmartiptv.com:900/4773C858/4C98AA45/153713
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",SKY SPORTS FOOTBALL SD
-http://line.thesmartiptv.com:900/4773C858/4C98AA45/153696
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",SKY SPORTS F1 HD
-https://list.iptvcat.com/my_list/s/ebcbd008b60af04d157bc22c22cd4667.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",SKY SPORTS PREMIER LEAGUE HD
-http://line.thesmartiptv.com:900/4773C858/4C98AA45/191686
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",BEIN SPORT 1
-http://uniontvs.com:8080/mohamed123/123mohamed/81093
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",BEIN SPORT 2
-http://uniontvs.com:8080/mohamed123/123mohamed/81094
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",BEIN SPORT 3
-http://uniontvs.com:8080/mohamed123/123mohamed/81137
+#EXTINF:-1 tvg-id="" tvg-country="SE" tvg-language="Swedish" tvg-logo="" group-title="THỂ THAO",Astro Super Sport 1
+http://203.154.243.89:21201/nakhon
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",Astro Super Sport 2
+http://203.154.243.89:21202/nakhon
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",Astro Super Sport 3
+http://203.154.243.89:21203/nakhon
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",Astro Super Sport 4 +1
+http://203.154.243.89:21204/nakhon
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO", Astro Super Sport 4
+http://203.154.243.89:21204/saraburi1
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",BEIN SPORT 1 (Thái)
+http://103.22.183.7:8080/bein1/mpegts
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",BEIN SPORT 2 (Thái)
+http://103.22.183.7:8080/bein2/mpegts
+
 
 
 
