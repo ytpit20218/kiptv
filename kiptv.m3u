@@ -865,6 +865,14 @@ http://tx.flv.nimo.tv/backsrc/su1629512042595r219841637365d4f6ee41c892fc01acd1.f
 http://tx.flv.nimo.tv/backsrc/su1629528988454r0e1c4f1daacc16f61aeb5ba946c12d2d.flv?uid=3882258624431621&uuid=8648359955841252&wsSecret=12f6ea4b3483bad505e35fcce0dc2e80&wsTime=6228cb99&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1646840729661&ticker=294952
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Sena Meta
 http://tx.flv.nimo.tv/backsrc/su1599517431273r6f2c679d7a26aba4540d3e30671abb95.flv?uid=057489943463512&uuid=878643446723724&wsSecret=118d14add80154c0d8f2a92a64f1a5d0&wsTime=6228cb6a&streamType=6&needwm=0&sphd=1&appid=81&tp=1646840683546&ticker=328763
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Bộ Bim
+http://al.flv.nimo.tv/backsrc/su1599517262565r3e3e54923e6e3bd57cacf4dfbb2e1231.flv?uid=3544965025794601&uuid=6356611073801312&wsSecret=e6ab606a7c3411d4297db0945a6c31da&wsTime=6234a17d&streamType=3&needwm=0&appid=81&tp=1647616382063&ticker=182927
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , TuanHC
+http://tx.flv.nimo.tv/backsrc/su1629527340188r4b265bcaf63261615511734c7ede7f24.flv?uid=2954787582195304&uuid=4722407929592708&wsSecret=b5897f1a0893d96a4351c4d2e40166d9&wsTime=6234a1cd&ratio=6000&streamType=3&needwm=1&appid=81&tp=1647616462018&ticker=251049
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Mimosa
+http://tx.flv.nimo.tv/backsrc/su1899512513851r9c2c383fe27d6d78916da5f58fead3bc.flv?uid=2493937108938422&uuid=6826481829297944&wsSecret=05e4a65ecfb0103321ff31d8a365ad4c&wsTime=6234a254&ratio=6000&streamType=6&needwm=1&sphd=1&appid=81&tp=1647616597014&ticker=362521
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , SBTC Petland
+http://al.flv.nimo.tv/backsrc/su1639520235565r2d5c7250ea464677d6711a1ee148831c.flv?uid=8174769581150282&uuid=6847097630289365&wsSecret=2d64d259e8d9e994bfeff6b7c63d4e6a&wsTime=6234a299&streamType=6&needwm=0&sphd=1&appid=81&tp=1647616666128&ticker=417597
 
 
 #EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa01_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 1
