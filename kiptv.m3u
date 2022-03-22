@@ -709,6 +709,8 @@ http://45.153.32.69:8888/30/index.m3u8
 http://69.164.224.53:80/ESPN/mpegts
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",TSN
 http://162.250.220.76:80/TSN-1/mpegts
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",USA HD
+http://200.123.211.41:80/USAHD/mpegts
 
 
 #EXTINF:-1 tvg-id="VOV FM 99.9MHz" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-99.9-MHz.jpg" group-title="RADIO" , VOV FM 99.9MHz
