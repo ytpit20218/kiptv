@@ -14,10 +14,8 @@ https://2url.one/xWuWR
 https://2url.one/LFRQG
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 3
 http://0.tcp.ap.ngrok.io:15652/live/hits
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 3
-https://pprex49o5aliv.vcdn.cloud/live/woman/chunklist_2.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 4
-https://pprex49o5aliv.vcdn.cloud/live/box-movie/chunklist_2.m3u8
+http://0.tcp.ap.ngrok.io:15652/live/tvN
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 5
 https://pprex49o5aliv.vcdn.cloud/live/happy-kids/chunklist_2.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 6
@@ -371,6 +369,8 @@ https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/XtC0cwN/744316-Paramount-xanh-fix.png",Paramount Channel
 http://103.22.183.7:8080/Paramount_Channel/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/LzMNMpZ/Clubbing-TV.png",Clubbing TV
+http://0.tcp.ap.ngrok.io:15652/live/clubbingtv
 
 
 #EXTINF:-1 tvg-id="hitv" group-title="Hanoicab" tvg-logo="https://i.ibb.co/YpgT1nz/hanoicab1.png", Hanoicab1 - HiTV
