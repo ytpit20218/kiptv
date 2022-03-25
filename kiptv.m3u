@@ -13,7 +13,7 @@ https://2url.one/xWuWR
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , U23 Dubai Test 2
 https://2url.one/LFRQG
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 3
-https://hls-hk.nonolive.com/live/39801272_240p.m3u8|Referer=https://www.nonolive.com/
+http://0.tcp.ap.ngrok.io:15652/live/hits
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 3
 https://pprex49o5aliv.vcdn.cloud/live/woman/chunklist_2.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 4
@@ -266,7 +266,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png",Box Hits
-https://tinyurl.com/32vp58yf
+http://0.tcp.ap.ngrok.io:15652/live/boxhits
 #EXTINF:0 tvg-id="man" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/pXCVwvS/poster-1623742934c-Man.png",Man
 https://tinyurl.com/5t4ej7x7
 #EXTINF:0 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In the box
