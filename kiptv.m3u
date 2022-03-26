@@ -13,11 +13,11 @@ https://2url.one/xWuWR
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , U23 Dubai Test 2
 https://2url.one/LFRQG
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 3
-http://0.tcp.ap.ngrok.io:10299/live/hits
+http://0.tcp.ap.ngrok.io:18248/live/hits
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 4
-http://0.tcp.ap.ngrok.io:10299/live/tvN
+http://0.tcp.ap.ngrok.io:18248/live/tvN
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 5
-http://0.tcp.ap.ngrok.io:10299/live/vtvcab4
+http://0.tcp.ap.ngrok.io:18248/live/vtvcab4
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 6
 https://pprex49o5aliv.vcdn.cloud/live/dr-fit/chunklist_2.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 7
@@ -264,7 +264,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png",Box Hits
-http://0.tcp.ap.ngrok.io:10299/live/boxhits
+http://0.tcp.ap.ngrok.io:18248/live/boxhits
 #EXTINF:0 tvg-id="man" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/pXCVwvS/poster-1623742934c-Man.png",Man
 https://tinyurl.com/5t4ej7x7
 #EXTINF:0 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In the box
@@ -370,7 +370,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/XtC0cwN/744316-Paramount-xanh-fix.png",Paramount Channel
 http://103.22.183.7:8080/Paramount_Channel/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/LzMNMpZ/Clubbing-TV.png",Clubbing TV
-http://0.tcp.ap.ngrok.io:10299/live/clubbingtv
+http://0.tcp.ap.ngrok.io:18248/live/clubbingtv
 
 
 #EXTINF:-1 tvg-id="hitv" group-title="Hanoicab" tvg-logo="https://i.ibb.co/YpgT1nz/hanoicab1.png", Hanoicab1 - HiTV
