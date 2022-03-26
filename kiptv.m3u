@@ -17,7 +17,7 @@ http://0.tcp.ap.ngrok.io:15048/live/hits
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 4
 http://0.tcp.ap.ngrok.io:15048/live/tvN
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 5
-https://pprex49o5aliv.vcdn.cloud/live/happy-kids/chunklist_2.m3u8
+http://0.tcp.ap.ngrok.io:15048/live/history
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 6
 https://pprex49o5aliv.vcdn.cloud/live/dr-fit/chunklist_2.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 7
