@@ -953,3 +953,15 @@ https://dl.dropboxusercontent.com/s/az1d4f5zhdz0h2w/The%20Amazing%20Spider-Man%2
 #EXTINF:0 tvg-logo="" group-title="Test KVOD", Gấu đỏ biến hình - Turning Red (2022) (Vietsub)
 https://dl.dropboxusercontent.com/s/su11bwfxnvwuasq/Turning.Red.2022.1080p.WEB.H264-SLOT.Vietsub.mkv?dl=0
 
+
+#EXTM3U
+#EXTINF:-1 tvg-id="ksport1hd" group-title="KPLUS YopKey" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+Sport 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
+https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="ksport2hd" group-title="KPLUS YopKey" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+Sport 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
+http://s129137.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
