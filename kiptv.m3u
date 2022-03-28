@@ -19,9 +19,13 @@ http://0.tcp.ap.ngrok.io:19234/live/tvN
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 5 (Không dành cho người yếu tim)
 http://0.tcp.ap.ngrok.io:19234/live/thrill
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 6
-https://pprex49o5aliv.vcdn.cloud/live/dr-fit/chunklist_2.m3u8
+http://0.tcp.ap.ngrok.io:19234/live/supersport2
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 7
-https://pprex49o5aliv.vcdn.cloud/live/hollywood/chunklist_2.m3u8
+http://0.tcp.ap.ngrok.io:19234/live/supersport3
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 8
+http://0.tcp.ap.ngrok.io:19234/live/supersport4
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 9
+http://0.tcp.ap.ngrok.io:19234/live/espn
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
