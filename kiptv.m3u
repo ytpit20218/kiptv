@@ -971,7 +971,7 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
 http://s129137.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
-#EXTINF:0 tvg-id="klifehd" group-title="KPLUS YopKey" tvg-logo="https://i.ibb.co/qWxGb9h/3.webp",🇰+ LIFE
+#EXTINF:0 tvg-id="klifehd" group-title="KPLUS YopKey" tvg-logo="https://i.ibb.co/qWxGb9h/3.webp", K+ Life
 #http://gg.gg/ccintro4|Referer=https://fptplay.vn/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
