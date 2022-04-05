@@ -13,19 +13,19 @@ https://2url.one/xWuWR
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , U23 Dubai Test 2
 https://2url.one/LFRQG
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 3
-http://0.tcp.ap.ngrok.io:19234/live/hits
+http://0.tcp.ap.ngrok.io:19429/live/hits
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 4
-http://0.tcp.ap.ngrok.io:19234/live/tvN
+http://0.tcp.ap.ngrok.io:19429/live/tvN
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 5 (Không dành cho người yếu tim)
-http://0.tcp.ap.ngrok.io:19234/live/thrill
+http://0.tcp.ap.ngrok.io:19429/live/thrill
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 6
-http://0.tcp.ap.ngrok.io:19234/live/supersport2
+http://0.tcp.ap.ngrok.io:19429/live/supersport2
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 7
-http://0.tcp.ap.ngrok.io:19234/live/supersport3
+http://0.tcp.ap.ngrok.io:19429/live/supersport3
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 8
-http://0.tcp.ap.ngrok.io:19234/live/supersport4
+http://0.tcp.ap.ngrok.io:19429/live/supersport4
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 9
-http://0.tcp.ap.ngrok.io:19234/live/espn
+http://0.tcp.ap.ngrok.io:19429/live/espn
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
@@ -268,7 +268,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png",Box Hits
-http://0.tcp.ap.ngrok.io:19234/live/boxhits
+http://0.tcp.ap.ngrok.io:19429/live/boxhits
 #EXTINF:0 tvg-id="man" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/pXCVwvS/poster-1623742934c-Man.png",Man
 https://tinyurl.com/5t4ej7x7
 #EXTINF:0 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In the box
@@ -374,7 +374,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/XtC0cwN/744316-Paramount-xanh-fix.png",Paramount Channel
 http://103.22.183.7:8080/Paramount_Channel/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/LzMNMpZ/Clubbing-TV.png",Clubbing TV
-http://0.tcp.ap.ngrok.io:19234/live/clubbingtv
+http://0.tcp.ap.ngrok.io:19429/live/clubbingtv
 
 
 #EXTINF:-1 tvg-id="hitv" group-title="Hanoicab" tvg-logo="https://i.ibb.co/YpgT1nz/hanoicab1.png", Hanoicab1 - HiTV
@@ -958,21 +958,3 @@ https://dl.dropboxusercontent.com/s/2mx19bbkhptnmt5/The.Batman.2022.1080p.HDTS-C
 https://dl.dropboxusercontent.com/s/az1d4f5zhdz0h2w/The%20Amazing%20Spider-Man%20%282012%29%20RM4K%20%281080p%20BluRay%20x265%2010bit%20Tigole%29%20%281%29.mkv?dl=0
 #EXTINF:0 tvg-logo="" group-title="Test KVOD", Gấu đỏ biến hình - Turning Red (2022) (Vietsub)
 https://dl.dropboxusercontent.com/s/su11bwfxnvwuasq/Turning.Red.2022.1080p.WEB.H264-SLOT.Vietsub.mkv?dl=0
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="ksport1hd" group-title="KPLUS YopKey" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+Sport 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
-https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="ksport2hd" group-title="KPLUS YopKey" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+Sport 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
-http://s129137.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
-#EXTINF:0 tvg-id="klifehd" group-title="KPLUS YopKey" tvg-logo="https://i.ibb.co/qWxGb9h/3.webp", K+ Life
-#http://gg.gg/ccintro4|Referer=https://fptplay.vn/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
-http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
