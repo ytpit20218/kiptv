@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , KIPTV by Kiet
 http://al.flv.nimo.tv/backsrc/su1599518330519r8ad49929364df698b4242646f0bfd01f.flv?uid=2399217891867891&uuid=6517087441302793&wsSecret=ebd0193904ac620a041367ed65396a7b&wsTime=62092038&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1644678841498&ticker=429391
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , Gem thử nghiệm 
-http://210.210.155.35/uq2663/h/h19/01.m3u8
+http://0.tcp.ap.ngrok.io:19429/live/gem
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , List này làm ra cho cộng đồng, vui lòng không sao chép dưới mọi hình thức
 https://cache05.fbox.fpt.vn/bpk-token/2aa@raocfoleyjuynycmbjo2w2ek24eqtir1ry1ockca/3912800_avc1_640028_1920x1080_25_1.m3u8
 
