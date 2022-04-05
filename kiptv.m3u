@@ -26,6 +26,8 @@ http://0.tcp.ap.ngrok.io:19429/live/supersport3
 http://0.tcp.ap.ngrok.io:19429/live/supersport4
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 9
 http://0.tcp.ap.ngrok.io:19429/live/espn
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test Animax Hàn
+http://0.tcp.ap.ngrok.io:19429/live/testvieon
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
