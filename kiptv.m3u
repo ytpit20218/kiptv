@@ -704,13 +704,15 @@ http://103.22.183.7:8080/bein1/mpegts
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",BEIN SPORT 2 (Thái)
 http://103.22.183.7:8080/bein2/mpegts
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",BEIN SPORT 1 (Pháp)
-http://45.153.32.69:8888/4/index.m3u8
+http://51.178.65.238:80/Bein1/mpegts
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",BEIN SPORT 2 (Pháp)
-http://45.153.32.69:8888/10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",RMC Sport 4k (Pháp)
-http://45.153.32.69:8888/37/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",RMC Sport 2 (Pháp)
-http://45.153.32.69:8888/30/index.m3u8
+http://51.178.65.238:80/Bein2/mpegts
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",RMC Sport 1 (Pháp)
+http://51.178.65.238:80/RMC1/mpegts
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",BEIN SPORT 1 (Thổ Nhĩ Kì)
+http://135.181.1.143:8085/live/bein1/mpegts
+#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",BEIN SPORT  (Thổ Nhĩ Kì)
+http://135.181.1.143:8085/live/bein2/mpegts
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",ESPN US
 http://69.164.224.53:80/ESPN/mpegts
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",TSN
