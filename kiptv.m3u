@@ -3,31 +3,31 @@
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , KIPTV by Kiet
 http://al.flv.nimo.tv/backsrc/su1599518330519r8ad49929364df698b4242646f0bfd01f.flv?uid=2399217891867891&uuid=6517087441302793&wsSecret=ebd0193904ac620a041367ed65396a7b&wsTime=62092038&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1644678841498&ticker=429391
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , Gem thử nghiệm 
-http://0.tcp.ap.ngrok.io:18672/live/gem
+http://0.tcp.ap.ngrok.io:13216/live/gem
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , List này làm ra cho cộng đồng, vui lòng không sao chép dưới mọi hình thức
 https://prod-streaming-video-msn-com.akamaized.net/ba33094e-efb2-480f-ad77-1a103af156d2/3b215666-f0b7-4538-9ea2-0637d5ed2ea3.mp4
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , U23 Dubai Test 1
-http://0.tcp.ap.ngrok.io:18672/live/vtvcab16
+http://0.tcp.ap.ngrok.io:13216/live/vtvcab16
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , U23 Dubai Test 2
 https://2url.one/LFRQG
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 3
-http://0.tcp.ap.ngrok.io:18672/live/hits
+http://0.tcp.ap.ngrok.io:13216/live/hits
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 4
-http://0.tcp.ap.ngrok.io:18672/live/tvN
+http://0.tcp.ap.ngrok.io:13216/live/tvN
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 5 (Không dành cho người yếu tim)
-http://0.tcp.ap.ngrok.io:18672/live/thrill
+http://0.tcp.ap.ngrok.io:13216/live/thrill
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 6
-http://0.tcp.ap.ngrok.io:18672/live/supersport2
+http://0.tcp.ap.ngrok.io:13216/live/supersport2
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 7
-http://0.tcp.ap.ngrok.io:18672/live/supersport3
+http://0.tcp.ap.ngrok.io:13216/live/supersport3
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 8
-http://0.tcp.ap.ngrok.io:18672/live/supersport4
+http://0.tcp.ap.ngrok.io:13216/live/supersport4
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 9
-http://0.tcp.ap.ngrok.io:18672/live/espn
+http://0.tcp.ap.ngrok.io:13216/live/espn
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test Animax Hàn
-http://0.tcp.ap.ngrok.io:18672/live/testvieon
+http://0.tcp.ap.ngrok.io:13216/live/testvieon
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
@@ -270,11 +270,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png",Box Hits
-http://0.tcp.ap.ngrok.io:18672/live/boxhits
+http://0.tcp.ap.ngrok.io:13216/live/boxhits
 #EXTINF:0 tvg-id="man" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/pXCVwvS/poster-1623742934c-Man.png",Man
 http://0.tcp.ap.ngrok.io:19429/live/man
 #EXTINF:0 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In the box
-http://0.tcp.ap.ngrok.io:18672/live/inthebox
+http://0.tcp.ap.ngrok.io:13216/live/inthebox
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/njX4CRM/hbo.png", HBO
@@ -376,7 +376,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/XtC0cwN/744316-Paramount-xanh-fix.png",Paramount Channel
 http://103.22.183.7:8080/Paramount_Channel/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/LzMNMpZ/Clubbing-TV.png",Clubbing TV
-http://0.tcp.ap.ngrok.io:18672/live/clubbingtv
+http://0.tcp.ap.ngrok.io:13216/live/clubbingtv
 
 
 #EXTINF:-1 tvg-id="hitv" group-title="Hanoicab" tvg-logo="https://i.ibb.co/YpgT1nz/hanoicab1.png", Hanoicab1 - HiTV
