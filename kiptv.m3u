@@ -9,7 +9,7 @@ https://prod-streaming-video-msn-com.akamaized.net/ba33094e-efb2-480f-ad77-1a103
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , U23 Dubai Test 1
-https://2url.one/xWuWR
+http://0.tcp.ap.ngrok.io:15601/live/vtvcab16
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , U23 Dubai Test 2
 https://2url.one/LFRQG
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 3
