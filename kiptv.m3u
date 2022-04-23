@@ -9,25 +9,25 @@ https://prod-streaming-video-msn-com.akamaized.net/ba33094e-efb2-480f-ad77-1a103
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , U23 Dubai Test 1
-http://104.215.156.109:8000/live/vtvcab16
+http://20.92.105.69:8000/live/vtvcab16
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , U23 Dubai Test 2
 https://2url.one/LFRQG
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 3
-http://104.215.156.109:8000/live/hits
+http://20.92.105.69:8000/live/hits
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 4
-http://104.215.156.109:8000/live/tvN
+http://20.92.105.69:8000/live/tvN
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 5 (Không dành cho người yếu tim)
-http://104.215.156.109:8000/live/thrill
+http://20.92.105.69:8000/live/thrill
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 6
-http://104.215.156.109:8000/live/supersport2
+http://20.92.105.69:8000/live/supersport2
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 7
-http://104.215.156.109:8000/live/supersport3
+http://20.92.105.69:8000/live/supersport3
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 8
-http://104.215.156.109:8000/live/supersport4
+http://20.92.105.69:8000/live/supersport4
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test 9
-http://104.215.156.109:8000/live/espn
+http://20.92.105.69:8000/live/espn
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm" , Test Animax Hàn
-http://104.215.156.109:8000/live/testvieon
+http://20.92.105.69:8000/live/testvieon
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
@@ -270,11 +270,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png",Box Hits
-http://104.215.156.109:8000/live/boxhits
+http://20.92.105.69:8000/live/boxhits
 #EXTINF:0 tvg-id="man" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/pXCVwvS/poster-1623742934c-Man.png",Man
-http://104.215.156.109:8000/live/man
+http://20.92.105.69:8000/live/man
 #EXTINF:0 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In the box
-http://104.215.156.109:8000/live/inthebox
+http://20.92.105.69:8000/live/inthebox
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/njX4CRM/hbo.png", HBO
@@ -376,7 +376,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/XtC0cwN/744316-Paramount-xanh-fix.png",Paramount Channel
 http://103.22.183.7:8080/Paramount_Channel/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/LzMNMpZ/Clubbing-TV.png",Clubbing TV
-http://104.215.156.109:8000/live/clubbingtv
+http://20.92.105.69:8000/live/clubbingtv
 
 
 #EXTINF:-1 tvg-id="hitv" group-title="Hanoicab" tvg-logo="https://i.ibb.co/YpgT1nz/hanoicab1.png", Hanoicab1 - HiTV
