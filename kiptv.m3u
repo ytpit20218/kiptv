@@ -26,6 +26,8 @@ http://20.92.105.69:8000/live/espn
 http://20.92.105.69:8000/live/testvieon
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/ZGT4PrC/CCTV5-logo.webp" group-title="Thử nghiệm" , CCTV5 thử nghiệm
 http://20.92.105.69:8000/live/cctv5
+#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/HITS_Movies_logo.png/revision/latest/scale-to-width-down/423?cb=20220323123229&path-prefix=vi" group-title="Thử nghiệm" , CCTV5 thử nghiệm
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
