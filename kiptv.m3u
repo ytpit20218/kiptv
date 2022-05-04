@@ -7,6 +7,20 @@ http://20.92.105.69:8000/live/gem
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , List này làm ra cho cộng đồng, vui lòng không sao chép dưới mọi hình thức
 https://prod-streaming-video-msn-com.akamaized.net/ba33094e-efb2-480f-ad77-1a103af156d2/3b215666-f0b7-4538-9ea2-0637d5ed2ea3.mp4
 
+M
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Rybq2yW/ASTRO2.png" group-title="Thử nghiệm thể thao" , SUPER SPORT 2 THỬ NGHIỆM
+http://20.92.105.69:8000/live/supersport2
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/rkDTKpG/Astro-Super-Sport-3.webp" group-title="Thử nghiệm thể thao" , SUPER SPORT 3 THỬ NGHIỆM
+http://20.92.105.69:8000/live/supersport3
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/KKTVHcH/ta-i-xu-ng.jpg" group-title="Thử nghiệm thể thao" , SUPER SPORT 4 THỬ NGHIỆM
+http://20.92.105.69:8000/live/supersport4
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/4PZw2Hc/ESPN-wordmark-svg.png" group-title="Thử nghiệm thể thao" , ESPN THỬ NGHIỆM
+http://20.92.105.69:8000/live/espn
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/ZGT4PrC/CCTV5-logo.webp" group-title="Thử nghiệm thể thao" , CCTV5 THỬ NGHIỆM
+http://20.92.105.69:8000/live/cctv5
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/QfZqryD/SCTV-Logo-svg.png" group-title="Thử nghiệm thể thao" , SCTV HD THỬ NGHIỆM
+http://20.92.105.69:8000/live/sctvid
+
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Thử nghiệm" , HITS THỬ NGHIỆM
 http://20.92.105.69:8000/live/hits
@@ -14,26 +28,10 @@ http://20.92.105.69:8000/live/hits
 http://20.92.105.69:8000/live/tvN
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/C5Gq4ky/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Thử nghiệm" , THRILL THỬ NGHIỆM (Không dành cho người yếu tim)
 http://20.92.105.69:8000/live/thrill
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Rybq2yW/ASTRO2.png" group-title="Thử nghiệm" , SUPER SPORT 2 THỬ NGHIỆM
-http://20.92.105.69:8000/live/supersport2
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/rkDTKpG/Astro-Super-Sport-3.webp" group-title="Thử nghiệm" , SUPER SPORT 3 THỬ NGHIỆM
-http://20.92.105.69:8000/live/supersport3
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/KKTVHcH/ta-i-xu-ng.jpg" group-title="Thử nghiệm" , SUPER SPORT 4 THỬ NGHIỆM
-http://20.92.105.69:8000/live/supersport4
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/4PZw2Hc/ESPN-wordmark-svg.png" group-title="Thử nghiệm" , ESPN THỬ NGHIỆM
-http://20.92.105.69:8000/live/espn
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/WxN9n1X/animax-korea.png" group-title="Thử nghiệm" , Test Animax Hàn
 http://20.92.105.69:8000/live/testvieon
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/ZGT4PrC/CCTV5-logo.webp" group-title="Thử nghiệm" , CCTV5 thử nghiệm
-http://20.92.105.69:8000/live/cctv5
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/HITS_Movies_logo.png/revision/latest/scale-to-width-down/423?cb=20220323123229&path-prefix=vi" group-title="Thử nghiệm" , HITS MOVIES thử nghiệm
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/tBF8yJM/Logo-bein-sports-1.png" group-title="Thử nghiệm" , BEIN SPORT 1 thử nghiệm
-http://20.92.105.69:8000/live/bein1
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/d6nnMkR/Logo-bein-sports-2.png" group-title="Thử nghiệm" , BEIN SPORT 2 thử nghiệm
-http://20.92.105.69:8000/live/bein2
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/qxQsKrV/Logo-bein-sports-3.png" group-title="Thử nghiệm" , BEIN SPORT 3 thử nghiệm
-http://20.92.105.69:8000/live/
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
