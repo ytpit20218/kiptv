@@ -3,33 +3,33 @@
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , KIPTV by Kiet
 http://al.flv.nimo.tv/backsrc/su1599518330519r8ad49929364df698b4242646f0bfd01f.flv?uid=2399217891867891&uuid=6517087441302793&wsSecret=ebd0193904ac620a041367ed65396a7b&wsTime=62092038&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1644678841498&ticker=429391
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , Gem thử nghiệm 
-http://20.78.2.167:8000/live/gem
+http://20.255.51.57:8000/live/gem
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , List này làm ra cho cộng đồng, vui lòng không sao chép dưới mọi hình thức
 https://prod-streaming-video-msn-com.akamaized.net/ba33094e-efb2-480f-ad77-1a103af156d2/3b215666-f0b7-4538-9ea2-0637d5ed2ea3.mp4
 
 M
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Rybq2yW/ASTRO2.png" group-title="Thử nghiệm thể thao" , SUPER SPORT 2 THỬ NGHIỆM
-http://20.78.2.167:8000/live/supersport2
+http://20.255.51.57:8000/live/supersport2
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/rkDTKpG/Astro-Super-Sport-3.webp" group-title="Thử nghiệm thể thao" , SUPER SPORT 3 THỬ NGHIỆM
-http://20.78.2.167:8000/live/supersport3
+http://20.255.51.57:8000/live/supersport3
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/KKTVHcH/ta-i-xu-ng.jpg" group-title="Thử nghiệm thể thao" , SUPER SPORT 4 THỬ NGHIỆM
-http://20.78.2.167:8000/live/supersport4
+http://20.255.51.57:8000/live/supersport4
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/4PZw2Hc/ESPN-wordmark-svg.png" group-title="Thử nghiệm thể thao" , ESPN THỬ NGHIỆM
-http://20.78.2.167:8000/live/espn
+http://20.255.51.57:8000/live/espn
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/ZGT4PrC/CCTV5-logo.webp" group-title="Thử nghiệm thể thao" , CCTV5 THỬ NGHIỆM
-http://20.78.2.167:8000/live/cctv5
+http://20.255.51.57:8000/live/cctv5
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/QfZqryD/SCTV-Logo-svg.png" group-title="Thử nghiệm thể thao" , SCTV HD THỬ NGHIỆM
-http://20.78.2.167:8000/live/sctvid
+http://20.255.51.57:8000/live/sctvid
 
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Thử nghiệm" , HITS THỬ NGHIỆM
-http://20.78.2.167:8000/live/hits
+http://20.255.51.57:8000/live/hits
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TvN_Logo_2008.svg/1200px-TvN_Logo_2008.svg.png" group-title="Thử nghiệm" , tvN THỬ NGHIỆM
-http://20.78.2.167:8000/live/tvN
+http://20.255.51.57:8000/live/tvN
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/C5Gq4ky/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Thử nghiệm" , THRILL THỬ NGHIỆM (Không dành cho người yếu tim)
-http://20.78.2.167:8000/live/thrill
+http://20.255.51.57:8000/live/thrill
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/WxN9n1X/animax-korea.png" group-title="Thử nghiệm" , Test Animax Hàn
-http://20.78.2.167:8000/live/testvieon
+http://20.255.51.57:8000/live/testvieon
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/HITS_Movies_logo.png/revision/latest/scale-to-width-down/423?cb=20220323123229&path-prefix=vi" group-title="Thử nghiệm" , HITS MOVIES thử nghiệm
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
@@ -274,11 +274,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png",Box Hits
-http://20.92.105.69:8000/live/boxhits
+http://20.255.51.57:8000/live/boxhits
 #EXTINF:0 tvg-id="man" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/pXCVwvS/poster-1623742934c-Man.png",Man
-http://20.78.2.167:8000/live/man
+http://20.255.51.57:8000/live/man
 #EXTINF:0 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In the box
-http://20.78.2.167:8000/live/inthebox
+http://20.255.51.57:8000/live/inthebox
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/njX4CRM/hbo.png", HBO
@@ -380,7 +380,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/XtC0cwN/744316-Paramount-xanh-fix.png",Paramount Channel
 http://103.22.183.7:8080/Paramount_Channel/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/LzMNMpZ/Clubbing-TV.png",Clubbing TV
-http://20.78.2.167:8000/live/clubbingtv
+http://20.255.51.57:8000/live/clubbingtv
 
 
 #EXTINF:-1 tvg-id="hitv" group-title="Hanoicab" tvg-logo="https://i.ibb.co/YpgT1nz/hanoicab1.png", Hanoicab1 - HiTV
@@ -726,7 +726,7 @@ http://200.123.211.41:80/USAHD/mpegts
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",Astro Arena (Phát Seagame 31)
 http://gg.gg/10zaax
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",TVRI Sport (Phát Seagame 31)
-http://20.78.2.167:8000/live/tvrisport
+http://20.255.51.57:8000/live/tvrisport
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7299bdb9de13b235cda94cd5063ab810&key=247ed97854d185349998873672294cad
