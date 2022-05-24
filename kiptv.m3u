@@ -969,7 +969,8 @@ http://tx.flv.nimo.tv/backsrc/su1899512513851r9c2c383fe27d6d78916da5f58fead3bc.f
 http://al.flv.nimo.tv/backsrc/su1639520235565r2d5c7250ea464677d6711a1ee148831c.flv?uid=8174769581150282&uuid=6847097630289365&wsSecret=2d64d259e8d9e994bfeff6b7c63d4e6a&wsTime=6234a299&streamType=6&needwm=0&sphd=1&appid=81&tp=1647616666128&ticker=417597
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Vũ Hay Ho
 http://al.flv.nimo.tv/backsrc/su1639521835897r9bf33386f3b549c47d4296a11f143ea4.flv?uid=1363949730670334&uuid=4632607776152668&wsSecret=bdc3ee699621b1c4df5129d9045e7f4b&wsTime=6242be85&ratio=6000&streamType=6&needwm=1&appid=81&tp=1648541318283&ticker=147445
-
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Vodka Quang
+http://al.flv.nimo.tv/live/su1639520759639raf3bc6d08f6654d8facd8385c91e8d20.flv?uid=1701239758731&uuid=1701239758731&wsSecret=9493a07e26396c27e4a729d29248d0c2&wsTime=628d0031&ctype=nimo_hysdk-adr&streamType=3&appid=81&tp=1653407635687&needwm=0&ticker=188519&ver=1&t=2&seqid=1885155573
 
 #EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa01_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 1
 #EXTVLCOPT:http-user-agent="kiptv"
