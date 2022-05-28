@@ -7,7 +7,24 @@ http://20.255.51.57:8000/live/gem
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , List này làm ra cho cộng đồng, vui lòng không sao chép dưới mọi hình thức
 https://prod-streaming-video-msn-com.akamaized.net/ba33094e-efb2-480f-ad77-1a103af156d2/3b215666-f0b7-4538-9ea2-0637d5ed2ea3.mp4
 
-M
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/PxXjRJ1/16x9-ucl-wtwv2.webp" group-title="Xem Chung Kết C1 ở đâu?",CBS
+http://208.79.153.102:80/WGCL-CBS/mpegts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/PxXjRJ1/16x9-ucl-wtwv2.webp" group-title="Xem Chung Kết C1 ở đâu?",SCTV HD LUỒNG 1
+http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/PxXjRJ1/16x9-ucl-wtwv2.webp" group-title="Xem Chung Kết C1 ở đâu?",SCTV HD LUỒNG 2
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/PxXjRJ1/16x9-ucl-wtwv2.webp" group-title="Xem Chung Kết C1 ở đâu?",BEIN SPORT 1 (Pháp)
+http://51.178.65.238:80/Bein1/mpegts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/PxXjRJ1/16x9-ucl-wtwv2.webp" group-title="Xem Chung Kết C1 ở đâu?",BEIN SPORT 2 (Pháp)
+http://51.178.65.238:80/Bein2/mpegts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/PxXjRJ1/16x9-ucl-wtwv2.webp" group-title="Xem Chung Kết C1 ở đâu?",RMC Sport 1 (Pháp)
+http://51.178.65.238:80/RMC1/mpegt
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/PxXjRJ1/16x9-ucl-wtwv2.webp" group-title="Xem Chung Kết C1 ở đâu?",BEIN SPORT 1 (Thổ Nhĩ Kì)
+http://135.181.1.143:8085/live/bein1/mpegts
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/PxXjRJ1/16x9-ucl-wtwv2.webp" group-title="Xem Chung Kết C1 ở đâu?",BEIN SPORT 2 (Thổ Nhĩ Kì)
+http://135.181.1.143:8085/live/bein2/mpegts
+
+
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Rybq2yW/ASTRO2.png" group-title="Thử nghiệm thể thao" , SUPER SPORT 2 THỬ NGHIỆM
 http://20.255.51.57:8000/live/supersport2
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/rkDTKpG/Astro-Super-Sport-3.webp" group-title="Thử nghiệm thể thao" , SUPER SPORT 3 THỬ NGHIỆM
