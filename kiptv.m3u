@@ -3,7 +3,7 @@
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , KIPTV by Kiet
 http://al.flv.nimo.tv/backsrc/su1599518330519r8ad49929364df698b4242646f0bfd01f.flv?uid=2399217891867891&uuid=6517087441302793&wsSecret=ebd0193904ac620a041367ed65396a7b&wsTime=62092038&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1644678841498&ticker=429391
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , Gem thử nghiệm 
-http://20.255.51.57:8000/live/gem
+http://222.255.117.230:8000/live/gem
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , List này làm ra cho cộng đồng, vui lòng không sao chép dưới mọi hình thức
 https://prod-streaming-video-msn-com.akamaized.net/ba33094e-efb2-480f-ad77-1a103af156d2/3b215666-f0b7-4538-9ea2-0637d5ed2ea3.mp4
 
@@ -26,15 +26,15 @@ http://135.181.1.143:8085/live/bein2/mpegts
 
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Rybq2yW/ASTRO2.png" group-title="Thử nghiệm thể thao" , SUPER SPORT 2 THỬ NGHIỆM
-http://20.255.51.57:8000/live/supersport2
+http://222.255.117.230:8000/live/supersport2
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/rkDTKpG/Astro-Super-Sport-3.webp" group-title="Thử nghiệm thể thao" , SUPER SPORT 3 THỬ NGHIỆM
-http://20.255.51.57:8000/live/supersport3
+http://222.255.117.230:8000/live/supersport3
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/KKTVHcH/ta-i-xu-ng.jpg" group-title="Thử nghiệm thể thao" , SUPER SPORT 4 THỬ NGHIỆM
-http://20.255.51.57:8000/live/supersport4
+http://222.255.117.230:8000/live/supersport4
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/4PZw2Hc/ESPN-wordmark-svg.png" group-title="Thử nghiệm thể thao" , ESPN THỬ NGHIỆM
-http://20.255.51.57:8000/live/espn
+http://222.255.117.230:8000/live/espn
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/ZGT4PrC/CCTV5-logo.webp" group-title="Thử nghiệm thể thao" , CCTV5 THỬ NGHIỆM
-http://20.255.51.57:8000/live/cctv5
+http://222.255.117.230:8000/live/cctv5
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/QfZqryD/SCTV-Logo-svg.png" group-title="Thử nghiệm thể thao" , SCTV HD THỬ NGHIỆM
 http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/QfZqryD/SCTV-Logo-svg.png" group-title="Thử nghiệm thể thao" , SCTV HD THỬ NGHIỆM 2
@@ -42,13 +42,13 @@ http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Thử nghiệm" , HITS THỬ NGHIỆM
-http://20.255.51.57:8000/live/hits
+http://222.255.117.230:8000/live/hits
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TvN_Logo_2008.svg/1200px-TvN_Logo_2008.svg.png" group-title="Thử nghiệm" , tvN THỬ NGHIỆM
-http://20.255.51.57:8000/live/tvN
+http://222.255.117.230:8000/live/tvN
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/C5Gq4ky/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Thử nghiệm" , THRILL THỬ NGHIỆM (Không dành cho người yếu tim)
-http://20.255.51.57:8000/live/thrill
+http://222.255.117.230:8000/live/thrill
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/WxN9n1X/animax-korea.png" group-title="Thử nghiệm" , Test Animax Hàn
-http://20.255.51.57:8000/live/testvieon
+http://222.255.117.230:8000/live/testvieon
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/HITS_Movies_logo.png/revision/latest/scale-to-width-down/423?cb=20220323123229&path-prefix=vi" group-title="Thử nghiệm" , HITS MOVIES thử nghiệm
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
@@ -293,11 +293,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png",Box Hits
-http://20.255.51.57:8000/live/boxhits
+http://222.255.117.230:8000/live/boxhits
 #EXTINF:0 tvg-id="man" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/pXCVwvS/poster-1623742934c-Man.png",Man
-http://20.255.51.57:8000/live/man
+http://222.255.117.230:8000/live/man
 #EXTINF:0 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In the box
-http://20.255.51.57:8000/live/inthebox
+http://222.255.117.230:8000/live/inthebox
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/njX4CRM/hbo.png", HBO
@@ -399,7 +399,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/XtC0cwN/744316-Paramount-xanh-fix.png",Paramount Channel
 http://103.22.183.7:8080/Paramount_Channel/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/LzMNMpZ/Clubbing-TV.png",Clubbing TV
-http://20.255.51.57:8000/live/clubbingtv
+http://222.255.117.230:8000/live/clubbingtv
 
 
 #EXTINF:-1 tvg-id="hitv" group-title="Hanoicab" tvg-logo="https://i.ibb.co/YpgT1nz/hanoicab1.png", Hanoicab1 - HiTV
@@ -449,6 +449,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8?kiptv|Referer=http
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="vtvcab20hd"group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/KrTv5rZ/VTVcab-11.webp",VTVCab20 - V Family
 https://2url.one/VgFGX
+
 
 #EXTINF:-1 tvg-id="antvhd"group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/VBwhNjt/201349-mien-tay.png", THDT2 - Miền Tây
 https://mziyw7t0yhliv.vcdn.cloud/56d9fba0d157861f8c3d4c8f7a74d06a/1647632914000/live/dongthap2/chunklist_1.m3u8
@@ -649,25 +650,6 @@ http://203.162.235.41:16901
 http://203.162.235.41:16916
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MhJQL0c/kisspng-logo-nhk-bs-premium-nhk-bs-2-nhk-bs1-bs-logo-www-galleryhip-com-the-hippest-pics-5bfac98cb7a.jpg" group-title="NHẬT BẢN",NHK BSP
 http://203.162.235.41:16910
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Wkt8Wt/tokyomx-removebg-preview.png" group-title="NHẬT BẢN",Tokyo MX 1
-http://51.79.193.109:8080/hls/j00030/index.m3u8?type=jp
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CwLPJ6v/ta-i-xu-ng-removebg-preview.png" group-title="NHẬT BẢN",Tokyo MX 2
-https://movie.mcas.jp/mcas/mx2_2/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png" group-title="NHẬT BẢN",Animax Nhật Bổn
-http://51.79.193.109:8080/hls/j00026/index.m3u8?type=jp
-#EXTINF:-1 tvg-id="WowowPrime.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png" group-title="NHẬT BẢN",WOWOWプライム (720p HLS) 
-http://51.79.193.109:8080/hls/j00029/index.m3u8?type=jp
-#EXTINF:-1 tvg-id="WowowLive.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" group-title="NHẬT BẢN",WOWOWライブ (720p HLS)
-http://51.79.193.109:8080/hls/j00027/index.m3u8?type=jp
-#EXTINF:-1 tvg-id="WowowPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png" group-title="NHẬT BẢN",WOWOWプラス (720p HLS)
-http://51.79.193.109:8080/hls/j00028/index.m3u8?type=jp
-#EXTINF:-1 tvg-id="CartoonNetworkJapan.us" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="NHẬT BẢN",Cartorn Network (720p HLS)
-http://51.79.193.109:8080/hls/j00024/index.m3u8?type=jp
-#EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="NHẬT BẢN",Kids Station (720p HLS)
-http://51.79.193.109:8080/hls/j00023/index.m3u8?type=jp
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0qXMPvG/atx.png" group-title="NHẬT BẢN", AT-X Luồng 2
-http://51.79.193.109:8080/hls/j00052/index.m3u8?type=jp
-
 
 
 #EXTINF:0 group-title="HÀN QUỐC" tvg-logo="https://i.ibb.co/HVH6LkG/Arirang.png", Arirang
@@ -745,7 +727,7 @@ http://200.123.211.41:80/USAHD/mpegts
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",Astro Arena (Phát Seagame 31)
 http://gg.gg/10zaax
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",TVRI Sport (Phát Seagame 31)
-http://20.255.51.57:8000/live/tvrisport
+http://222.255.117.230:8000/live/tvrisport
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7299bdb9de13b235cda94cd5063ab810&key=247ed97854d185349998873672294cad
@@ -901,33 +883,6 @@ https://live.tuyenquangtv.vn/hls/radio.m3u8
 #EXTINF:-1 tvg-id="YÊN BÁI" tvg-logo="https://quangcaoradio.info/wp-content/uploads/2018/07/bang-gia-yen-bai.jpg" group-title="RADIO" , YÊN BÁI
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 1
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|Referer=https://cakhia10.tv/
-#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 2
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://cakhia10.tv/
-#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 3
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://cakhia10.tv/
-#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 4
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/playlist.m3u8|Referer=https://cakhia10.tv/
-#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 5
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=https://cakhia10.tv/
-#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 6
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m504nd/playlist.m3u8|Referer=https://cakhia10.tv/
-#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 7
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m503nd/chunklist.m3u8|Referer=https://cakhia10.tv/
-#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 8
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m404nd/playlist.m3u8|Referer=https://cakhia10.tv/
-#EXTINF:0 tvg-logo="" group-title="Link CAKHIA",Cakhia link 8
-#EXTVLCOPT:http-user-agent="kiptv"
-
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Phim Hành Động-TV360" , Người Đỡ Đạn - Man On Fire (2004)
 http://vod-zlr2.tv360.vn/video1/2021/11/02/17/0f4e12c8/0f4e12c8-6fcc-46b2-b756-2720dea1efdb_1_.m3u8
@@ -949,6 +904,7 @@ http://vod-zlr2.tv360.vn/video1/2021/10/27/17/4a2b4419/4a2b4419-d9ae-4053-8f99-6
 http://vod-zlr2.tv360.vn/video1/2021/11/02/17/c16648d4/c16648d4-c26c-4690-aaf4-99e9b5fe79fa_1_.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Phim Hành Động-TV360" , Vụ Trộm May Rủi - Logan Lucky
 http://vod-zlr2.tv360.vn/video1/2019/12/28/17/e7443e0b/e7443e0b-e721-46bd-8bbc-e17674c6fb4e_1_.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Trực tiếp game
 http://al.flv.nimo.tv/backsrc/su1599518330519r8ad49929364df698b4242646f0bfd01f.flv?uid=2399217891867891&uuid=6517087441302793&wsSecret=ebd0193904ac620a041367ed65396a7b&wsTime=62092038&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1644678841498&ticker=429391
@@ -990,34 +946,6 @@ http://al.flv.nimo.tv/backsrc/su1639520235565r2d5c7250ea464677d6711a1ee148831c.f
 http://al.flv.nimo.tv/backsrc/su1639521835897r9bf33386f3b549c47d4296a11f143ea4.flv?uid=1363949730670334&uuid=4632607776152668&wsSecret=bdc3ee699621b1c4df5129d9045e7f4b&wsTime=6242be85&ratio=6000&streamType=6&needwm=1&appid=81&tp=1648541318283&ticker=147445
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Vodka Quang
 http://al.flv.nimo.tv/live/su1639520759639raf3bc6d08f6654d8facd8385c91e8d20.flv?uid=1701239758731&uuid=1701239758731&wsSecret=9493a07e26396c27e4a729d29248d0c2&wsTime=628d0031&ctype=nimo_hysdk-adr&streamType=3&appid=81&tp=1653407635687&needwm=0&ticker=188519&ver=1&t=2&seqid=1885155573
-
-#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa01_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 1
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livecdn.fptplay.net/tvc/uefa01_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa02_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 2
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livecdn.fptplay.net/tvc/uefa02_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa03_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 3
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livecdn.fptplay.net/tvc/uefa03_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa04_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 4
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livecdn.fptplay.net/tvc/uefa04_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa05_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 5
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livecdn.fptplay.net/tvc/uefa05_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa06_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 6
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livecdn.fptplay.net/tvc/uefa06_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa07_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 7
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livecdn.fptplay.net/tvc/uefa07_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/uefa08_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 8
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livecdn.fptplay.net/tvc/uefa08_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id=""group-title="UEFA" tvg-logo="" tvg-chno="" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", UEFA 9
-#EXTVLCOPT:http-user-agent="kiptv"
-https://livecdn.fptplay.net/tvc/uefa09_2000.stream/chunklist.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="Test KVOD", Sử dụng vlc, kodi hoặc các phần mềm có hỗ trợ phụ đề để xem phim có phụ đề tiếng việt nhé.
