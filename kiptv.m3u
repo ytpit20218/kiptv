@@ -13,6 +13,9 @@ https://web-livecdn.fptplay.net/hdevent/fsport01_hls.smil/chunklist_b2500000.m3u
 #EXTINF:0 tvg-id=""group-title="FPT SPORT" tvg-logo="" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/fsport02_2000.stream/chunks_dvr_range-${start}-10800.m3u8", FPT SPORT 2
 #EXTVLCOPT:http-user-agent="KIIP"
 https://web-livecdn.fptplay.net/hdevent/fsport02_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id=""group-title="FPT SPORT" tvg-logo="" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/fsport03_2000.stream/chunks_dvr_range-${start}-10800.m3u8", FPT SPORT 1
+#EXTVLCOPT:http-user-agent="KIIP"
+https://web-livecdn.fptplay.net/hdevent/fsport03_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/PxXjRJ1/16x9-ucl-wtwv2.webp" group-title="Xem Chung Kết C1 ở đâu?",CBS
