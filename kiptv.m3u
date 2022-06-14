@@ -6,6 +6,8 @@ http://al.flv.nimo.tv/backsrc/su1599518330519r8ad49929364df698b4242646f0bfd01f.f
 http://222.255.117.230:8000/live/gem
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , List này làm ra cho cộng đồng, vui lòng không sao chép dưới mọi hình thức
 https://prod-streaming-video-msn-com.akamaized.net/ba33094e-efb2-480f-ad77-1a103af156d2/3b215666-f0b7-4538-9ea2-0637d5ed2ea3.mp4
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , Fifa COSTA RICA NEW ZEALAND play offs
+http://139.59.245.163/kiet/index.m3u8
 
 #EXTINF:0 tvg-id=""group-title="FPT SPORT" tvg-logo="" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/fsport01_2000.stream/chunks_dvr_range-${start}-10800.m3u8", FPT SPORT 1
 #EXTVLCOPT:http-user-agent="KIIP"
