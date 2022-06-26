@@ -275,7 +275,7 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dmaxhd"group-title="Quốc Tế" tvg-logo="https://i.ibb.co/FYF7fSj/DMAX.jpg",DMAX
 #EXTVLCOPT:http-user-agent="KIIP"
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
+http://0.0.0.0:1708/channel/dmaxuk
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/zHS0N8N/Dream-Works.png",DreamWorks
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
@@ -782,6 +782,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 http://0.0.0.0:1708/channel/spotv2
 #EXTINF:-1 tvg-id="816" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="THỂ THAO",SPOTV
 http://0.0.0.0:1708/channel/spotv1
+#EXTINF:-1 tvg-id="816" tvg-logo="https://i.ibb.co/cvNDQfN/ta-i-xu-ng.png" group-title="THỂ THAO",Canal Sport
+http://222.255.117.230:1708/channel/canalsport
 
 #EXTINF:-1 tvg-id="ON 365 FM" tvg-logo="https://i.ibb.co/f0NGW2Y/ON365-FM.webp" group-title="RADIO" , ON365 FM
 http://gg.gg/11fqum
