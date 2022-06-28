@@ -6,7 +6,7 @@ http://al.flv.nimo.tv/backsrc/su1599518330519r8ad49929364df698b4242646f0bfd01f.f
 https://prod-streaming-video-msn-com.akamaized.net/ba33094e-efb2-480f-ad77-1a103af156d2/3b215666-f0b7-4538-9ea2-0637d5ed2ea3.mp4
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kiet Sport live (Thử nghiệm)
-http://222.255.117.230/kietlive/index.m3u8
+http://139.59.245.163/kiet/mpegts
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
