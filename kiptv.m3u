@@ -417,9 +417,12 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8?kiptv|Referer=http
 #EXTVLCOPT:http-user-agent="KIIP"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id=""group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/C65VMvC/ON-VFF.webp",ON VFF
-http://222.255.117.230:1708/live/onvff
+https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 
 
+#EXTINF:0 tvg-id=""group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/SNrSCj6/323478-Logo-Dong-thap-2.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/dongthaphd_2000.stream/chunks_dvr_range-${start}-10800.m3u8", Đồng Tháp 2 - Miền Tây
+#EXTVLCOPT:http-user-agent="KIIP"
+https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="antvhd"group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ZJMTwjc/ANT-HD-logo-2017-removebg.png", BPTV3 - ANT
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/sda/ant_hls.smil/chunklist_b2500000.m3u8
