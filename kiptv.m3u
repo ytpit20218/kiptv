@@ -234,23 +234,23 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8?kiptv|Referer=http
 #EXTINF:0 tvg-id="boxmovie1" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Box Movie 1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="boxmovie1" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Box Movie 1 Luồng 2
-http://gg.gg/11fr61
+http://gg.gg/11n09y
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/j5HcXvW/holywood.png",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/j5HcXvW/holywood.png",Hollywood Classics Luồng 2
-http://gg.gg/11fr69
+http://gg.gg/11n0a1
 #EXTINF:0 tvg-id="drfithd" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/chBqNVp/dr-fit.png",DR.Fit
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="drfithd" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/chBqNVp/dr-fit.png",DR.Fit Luồng 2
-http://gg.gg/11fr6i
+http://gg.gg/11n0ap
 #EXTINF:0 tvg-id="woman" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/k17TsNx/woman.png",Woman
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="woman" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/k17TsNx/woman.png",Woman Luồng 2
-http://gg.gg/11fr6n
+http://gg.gg/11n0be
 #EXTINF:0 tvg-id="planetearthhd" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/8XXnNs0/planet-earth.png",Planet Earth
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="planetearthhd" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/8XXnNs0/planet-earth.png",Planet Earth Luồng 2
-http://gg.gg/11fr6s
+http://gg.gg/11n0b8
 #EXTINF:0 tvg-id="musicbox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/xYPTdNM/Music-Box.png",Music Box
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="musicbox"group-title="INTHEBOX" tvg-logo="https://i.ibb.co/xYPTdNM/Music-Box.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/musicbox_1000.stream/chunks_dvr_range-${start}-10800.m3u8", Music Box (Luồng 2)
@@ -259,13 +259,13 @@ https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="happykids" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/4Y4yxZq/Happy-Kids.png",Happy Kids
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="happykids" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/4Y4yxZq/Happy-Kids.png",Happy Kids Luồng 2
-http://gg.gg/11fr7c
+http://gg.gg/11n0b0
 #EXTINF:-1 tvg-id="man" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/pXCVwvS/poster-1623742934c-Man.png", Man
-http://gg.gg/11fqxh
+http://gg.gg/11n0am
 #EXTINF:-1 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png", Box Hits
-http://gg.gg/11fqxp
+http://gg.gg/11n0ak
 #EXTINF:-1 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In The Box
-http://gg.gg/11fqxw
+http://gg.gg/11n0a4
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/njX4CRM/hbo.png", HBO
