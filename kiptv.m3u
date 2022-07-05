@@ -791,6 +791,9 @@ http://0.0.0.0:1708/channel/spotv1
 #EXTINF:-1 tvg-id="816" tvg-logo="https://i.ibb.co/cvNDQfN/ta-i-xu-ng.png" group-title="THỂ THAO",Canal Sport
 http://222.255.117.230:1708/channel/canalsport
 
+
+#EXTINF:-1 tvg-id="ON 365 FM" tvg-logo="https://i.ibb.co/wQKQ2RQ/Kh-ng-c-ti-u-removebg-preview.png" group-title="RADIO" , PLADIO
+https://vips-livecdn.fptplay.net/hda3/pladio_vhls.smil/chunklist_b5000000.m3u8?cc
 #EXTINF:-1 tvg-id="ON 365 FM" tvg-logo="https://i.ibb.co/f0NGW2Y/ON365-FM.webp" group-title="RADIO" , ON365 FM
 http://gg.gg/11fqum
 #EXTINF:-1 tvg-id="VOV FM 99.9MHz" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-99.9-MHz.jpg" group-title="RADIO" , VOV FM 99.9MHz
