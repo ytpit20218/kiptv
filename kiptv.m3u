@@ -254,38 +254,37 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8?kiptv|Referer=http
 #EXTINF:0 tvg-id="boxmovie1" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Box Movie 1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="boxmovie1" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Box Movie 1 Luồng 2
-http://gg.gg/11n09y
+https://tinyurl.com/bdh3ra5r
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/j5HcXvW/holywood.png",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/j5HcXvW/holywood.png",Hollywood Classics Luồng 2
-http://gg.gg/11n0a1
+https://tinyurl.com/269kp7xa
 #EXTINF:0 tvg-id="drfithd" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/chBqNVp/dr-fit.png",DR.Fit
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="drfithd" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/chBqNVp/dr-fit.png",DR.Fit Luồng 2
-http://gg.gg/11n0ap
+https://tinyurl.com/mv5anhxn
 #EXTINF:0 tvg-id="woman" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/k17TsNx/woman.png",Woman
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="woman" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/k17TsNx/woman.png",Woman Luồng 2
-http://gg.gg/11n0be
+https://tinyurl.com/34hsmfnc
 #EXTINF:0 tvg-id="planetearthhd" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/8XXnNs0/planet-earth.png",Planet Earth
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="planetearthhd" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/8XXnNs0/planet-earth.png",Planet Earth Luồng 2
-http://gg.gg/11n0b8
+https://tinyurl.com/3b5ahzzz
 #EXTINF:0 tvg-id="musicbox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/xYPTdNM/Music-Box.png",Music Box
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="musicbox"group-title="INTHEBOX" tvg-logo="https://i.ibb.co/xYPTdNM/Music-Box.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/musicbox_1000.stream/chunks_dvr_range-${start}-10800.m3u8", Music Box (Luồng 2)
-#EXTVLCOPT:http-user-agent="KIIP"
-https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-id="musicbox"group-title="INTHEBOX" tvg-logo="https://i.ibb.co/xYPTdNM/Music-Box.png",Music Box (Luồng 2)
+https://tinyurl.com/3jzjpvhb
 #EXTINF:0 tvg-id="happykids" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/4Y4yxZq/Happy-Kids.png",Happy Kids
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="happykids" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/4Y4yxZq/Happy-Kids.png",Happy Kids Luồng 2
-http://gg.gg/11n0b0
+https://tinyurl.com/2f2mrhdn
 #EXTINF:-1 tvg-id="man" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/pXCVwvS/poster-1623742934c-Man.png", Man
-http://gg.gg/11n0am
+https://tinyurl.com/3x6cd2j6
 #EXTINF:-1 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png", Box Hits
-http://gg.gg/11n0ak
+https://tinyurl.com/yckxk95a
 #EXTINF:-1 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In The Box
-http://gg.gg/11n0a4
+https://tinyurl.com/2ww388hc
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/njX4CRM/hbo.png", HBO
@@ -950,6 +949,15 @@ http://al.flv.nimo.tv/backsrc/su1AUNpEmDrq3fbtWBvw6mUK44B7mNncATS496a11f143ea4.f
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Vodka Quang
 http://al.flv.nimo.tv/live/su1639520759639raf3bc6d08f6654d8facd8385c91e8d20.flv?uid=1701239758731&uuid=1701239758731&wsSecret=9493a07e26396c27e4a729d29248d0c2&wsTime=628d0031&ctype=nimo_hysdk-adr&streamType=3&appid=81&tp=1653407635687&needwm=0&ticker=188519&ver=1&t=2&seqid=1885155573
 
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", Kẹo Phim HD
+https://tinyurl.com/4x6bz3nt
+#EXTINF:-1 tvg-id="klifehd" group-title="Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", Kẹo Cuộc Sống HD
+https://tinyurl.com/4a6py2un
+#EXTINF:-1 tvg-id="ksport1hd" group-title="Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", Kẹo thể thao 1 HD
+https://tinyurl.com/48x8e56w
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", Kẹo thể thao 2 HD
+https://tinyurl.com/ysx7ynuz
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Phim" , Người Đỡ Đạn - Man On Fire (2004)
