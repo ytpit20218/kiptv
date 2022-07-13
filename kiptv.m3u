@@ -386,7 +386,7 @@ http://222.255.117.230:8000/live/thrill
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=6765ea7b7cc54c1c86551d6b3440b39b&key=1613f6b40465bbe91740f78571ac79fa
 https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Quốc tế" , HITS
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Quốc Tế",HITS
 http://gg.gg/11fr39
 
 
