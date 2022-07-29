@@ -10,23 +10,25 @@ http://222.255.117.230/kietlive/mpegts
 
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Kênh Argentina" , Discovery World HD
-http://222.255.117.230:1708/live/discoveryworld
+http://222.255.117.230/discoveryworldar/mpegts
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="Kênh Argentina" , History
-http://222.255.117.230:1708/live/historyar
+http://222.255.117.230/historyar/mpegts
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png" group-title="Kênh Argentina" , Disney Channel
-http://222.255.117.230:1708/live/disneychannelar
+http://222.255.117.230/disneychannelar/mpegts
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Kênh Argentina" , ESPN 2
-http://222.255.117.230:1708/live/espn2ar
+http://222.255.117.230/espn2ar/mpegts
 #EXTINF:0 tvg-id="" tvg-logo="https://banner2.cleanpng.com/20180628/tce/kisspng-espn3-watchespn-espn-com-streaming-media-espn-3-5b350bd9611c16.8686168115302030973978.jpg" group-title="Kênh Argentina" , ESPN 3
-http://222.255.117.230:1708/live/espn3ar
+http://222.255.117.230/espn3ar/mpegts
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="Kênh Argentina" , ESPN EXTRA
-http://222.255.117.230:1708/live/espnextraar
+http://222.255.117.230/espnextraar/mpegts
 #EXTINF:0 tvg-id="" tvg-logo="https://thefriscobowl.com/wp-content/uploads/2021/08/ESPN-logo.png" group-title="Kênh Argentina" , ESPN
-http://222.255.117.230:1708/live/espnar
+http://222.255.117.230/espnar/mpegts
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png" group-title="Kênh Argentina" , Nickelodeon
-http://222.255.117.230:1708/live/nickelodeonar
+http://222.255.117.230/nickelodeonar/mpegts
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/1280px-Paramount_Pictures_Corporation_logo.svg.png" group-title="Kênh Argentina" , Paramount HD
-http://222.255.117.230:1708/live/paramountar
+http://222.255.117.230/paramountar/mpegts
+#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/HGTV_2010.svg/revision/latest?cb=20211127035204&path-prefix=vi" group-title="Kênh Argentina" , HGTV
+http://222.255.117.230/hgtvar/mpegts
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
@@ -381,13 +383,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/XtC0cwN/744316-Paramount-xanh-fix.png",Paramount Channel
 http://103.22.183.7:8080/Paramount_Channel/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/C5Gq4ky/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Quốc Tế" , THRILL (Không dành cho người yếu tim)
-http://222.255.117.230:8000/live/thrill
-#EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=6765ea7b7cc54c1c86551d6b3440b39b&key=1613f6b40465bbe91740f78571ac79fa
-https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8?
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Quốc Tế",HITS
-http://gg.gg/11fr39
+https://api.television4you.xyz/v1/getlink/tv360/107/2
 
 
 #EXTINF:-1 tvg-id="hitv" group-title="Hanoicab" tvg-logo="https://i.ibb.co/YpgT1nz/hanoicab1.png", Hanoicab1 - HiTV
@@ -403,8 +401,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/hanoicab5/sd2/index.m3u8?kiptv|Referer
 #EXTVLCOPT:http-user-agent="KIIP"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/mHgG9Cf/ONSPORT.png" group-title="VTVCab  - KIPTV" , VTVCab3 - ON SPORTS
-#EXTVLCOPT:http-user-agent="KIIP"
-https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740|Referer=http://sctvonline.vn/
+https://api.television4you.xyz/v1/getlink/tv360_s2/173/3
 #EXTINF:0 tvg-id="vtvcab4hd"group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/0tF9xjv/VTVCAB4.png" ,VTVCab4
 #EXTVLCOPT:http-user-agent="KIIP"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8?kiptv|Referer=http://sctvonline.vn/
@@ -415,8 +412,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8?kiptv|Referer=http:
 #EXTVLCOPT:http-user-agent="KIIP"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/fYLLz18/ONSPORTPLUS.png", VTVcab6 - ON SPORTS + HD
-#EXTVLCOPT:http-user-agent="KIIP"
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+https://api.television4you.xyz/v1/getlink/tv360_s2/183/2
 #EXTINF:0 tvg-id="vtvcab8hd"group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/zHMmFMs/VTVCAB8-BIBI.png",VTVCab 8 - BIBI
 #EXTVLCOPT:http-user-agent="KIIP"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab8/index.m3u8?kiptv|Referer=http://sctvonline.vn/
@@ -427,8 +423,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8?kiptv|Referer=http
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://i.ibb.co/7rcfv2h/ONFOOTBALL.png" group-title="VTVCab  - KIPTV" , VTVCab16 - ON FOOTBALL
-#EXTVLCOPT:http-user-agent="KIIP"
-https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740|Referer=http://sctvonline.vn/
+http://live.television4you.xyz:8080/vtvcab16
 #EXTINF:0 tvg-id="vtvcab19hd"group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/GRhRTyw/VTVCAB10-VIEDRAMAS.png",VTVCab19 - Vie Dramas
 #EXTVLCOPT:http-user-agent="KIIP"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8?kiptv|Referer=http://sctvonline.vn/
@@ -684,7 +679,7 @@ http:\\liveko24-manminglobal3.ktcdn.co.kr\liveko24\gcnko_high\chunklist.m3u8
 #EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="hhttps://i.ibb.co/5jCvw5r/image.png", Gugbang TV
 http:\\mediaworks.dema.mil.kr:1935\live_edge\cudo.sdp\playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/WxN9n1X/animax-korea.png" group-title="HÀN QUỐC" , Animax Hàn
-http://222.255.117.230:8000/live/testvieon
+http://222.255.117.230/Animaxkr/mpegts
 
 
 #EXTINF: 0 tvg-id="" group-title="THỂ THAO" tvg-logo="https://cdn.golfnews.vn/bundles/cmnindex/images/GolfNews_Logo_black.png?v2899", Golf News
@@ -706,16 +701,6 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-logo="" group-title="THỂ THAO",NBA
 http://103.22.181.150:8095/nbatv/mpegts
-#EXTINF:-1 tvg-id="" tvg-country="SE" tvg-language="Swedish" tvg-logo="" group-title="THỂ THAO",Astro Super Sport 1
-http://0.0.0.0:8000/live/supersport1
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",Astro Super Sport 2
-http://0.0.0.0:8000/live/supersport2
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",Astro Super Sport 3
-http://0.0.0.0:8000/live/supersport3
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO", Astro Super Sport 4
-http://0.0.0.0:8000/live/supersport4
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO", Astro Super Sport 5
-http://222.255.117.230:1708/live/supersport5
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",BEIN SPORT 1 (Pháp)
 http://51.178.65.238:80/Bein1/mpegts
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",BEIN SPORT 2 (Pháp)
@@ -734,14 +719,6 @@ http://162.250.220.76:80/TSN-1/mpegts
 http://200.123.211.41:80/USAHD/mpegts
 #EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",Astro Arena (Phát Seagame 31)
 http://gg.gg/10zaax
-#EXTINF:-1 tvg-id="" tvg-country="BH" tvg-logo="" group-title="THỂ THAO",TVRI Sport (Phát Seagame 31)
-http://222.255.117.230:8000/live/tvrisport
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/PxXjRJ1/16x9-ucl-wtwv2.webp" group-title="THỂ THAO",CBS
-http://208.79.153.102:80/WGCL-CBS/mpegts
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/4PZw2Hc/ESPN-wordmark-svg.png" group-title="THỂ THAO" , ESPN 
-http://222.255.117.230:8000/live/espn
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/ZGT4PrC/CCTV5-logo.webp" group-title="THỂ THAO" , CCTV5
-http://222.255.117.230:8000/live/cctv5
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/QfZqryD/SCTV-Logo-svg.png" group-title="THỂ THAO" , SCTV HD INDONESIA
 http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/QfZqryD/SCTV-Logo-svg.png" group-title="THỂ THAO" , SCTV HD INDONESIA 2
@@ -807,8 +784,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 http://0.0.0.0:1708/channel/spotv2
 #EXTINF:-1 tvg-id="816" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="THỂ THAO",SPOTV
 http://0.0.0.0:1708/channel/spotv1
-#EXTINF:-1 tvg-id="816" tvg-logo="https://i.ibb.co/cvNDQfN/ta-i-xu-ng.png" group-title="THỂ THAO",Canal Sport
-http://222.255.117.230:1708/channel/canalsport
 
 
 #EXTINF:-1 tvg-id="ON 365 FM" tvg-logo="https://i.ibb.co/wQKQ2RQ/Kh-ng-c-ti-u-removebg-preview.png" group-title="RADIO" , PLADIO
