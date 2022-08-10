@@ -6,10 +6,14 @@ http://al.flv.nimo.tv/backsrc/su1599518330519r8ad49929364df698b4242646f0bfd01f.f
 https://hqth.me/tokyo1
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kiet Sport live (Thử nghiệm)
 http://222.255.117.230/kietlive/mpegts
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Trực tiếp: Sự kiện Samsung Unpacked ngày 10.08.2022
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660155729/ei/8aLzYv2bGo6Vlu8P2say0AI/ip/20.225.44.135/id/lZIllGaNFaM.2/source/yt_live_broadcast/requiressl/yes/tx/24027710/txs/24027707%2C24027708%2C24027709%2C24027710%2C24067856/hfr/1/maudio/1/spc/lT-KhkqfBik12PYXmwovzUKNIxbo8L4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgbWQVlWjL3rpUGOXoVehvxkl5vK8f3hqErA5lGB0CxmoCIAwKqruisI4Wxvz7kiOybyE6IuAQ2nS8u7CiWr1iiKx1/file/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Trực tiếp: Sự kiện Samsung Unpacked ngày 10.08.2022 (English)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660155800/ei/N6PzYvD4NonRigSwhIboAQ/ip/20.225.44.135/id/FN3BtquTooA.1/source/yt_live_broadcast/requiressl/yes/tx/24222793/txs/24222793%2C24222794%2C24222795%2C24222796%2C24222797/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/lT-Khtu4Sn3JD18GcClRz8NLH9-QTHs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQ0HyRPPWUm8XS35b6zFzTI8ib7SSkEjEhe5jYkYb964CIQC9Ba50eO5Kajvod5lduNbnxvwwt-NJzBTl4jeMX4b0Kw%3D%3D/file/index.m3u8
+
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Test live youtube" , Tokyo 4K Panorama Livecam 東京4Kパノラマライブカメラ
+https://hqth.me/tokyolive2
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Test live youtube" , NCS LIVE
+https://hqth.me/ncslive1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Test live youtube" , 【ライブ配信】夜景がきれい！　あべのハルカス・大阪の夜景/OSAKA NIGHT VEW
+https://hqth.me/osakalive1
 
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Kênh Argentina" , Discovery World HD
