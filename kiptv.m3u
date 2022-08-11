@@ -932,6 +932,8 @@ http://al.flv.nimo.tv/backsrc/su1AUNpEmDrq3fbtWBvw6mUK44B7mNncATS496a11f143ea4.f
 http://al.flv.nimo.tv/live/su1639520759639raf3bc6d08f6654d8facd8385c91e8d20.flv?uid=1701239758731&uuid=1701239758731&wsSecret=9493a07e26396c27e4a729d29248d0c2&wsTime=628d0031&ctype=nimo_hysdk-adr&streamType=3&appid=81&tp=1653407635687&needwm=0&ticker=188519&ver=1&t=2&seqid=1885155573
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Boongminz
 http://tx.flv.nimo.tv/backsrc/su1599511947851r5832cba6b9c12a279fc75dd39ce9e4ba.flv?uid=1701282275081&uuid=1701282275081&wsSecret=de0db6d6d0e6d0994547033e741b6c99&wsTime=62ed8265&ctype=nimo_hysdk-adr&ratio=6000&streamType=3&appid=81&tp=1659732573252&needwm=1&sphd=1&ticker=160963&ver=1&t=2&seqid=1609586851
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Trâu TV
+https://hqth.me/trautvnimo
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", Kẹo Phim HD
