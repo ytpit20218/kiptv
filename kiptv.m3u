@@ -56,7 +56,7 @@ https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
 #EXTINF:0 tvg-id="vtv5hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
 #EXTVLCOPT:http-user-agent="KIIP"
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
 #EXTINF:0 tvg-id="vtv6hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/nbLy5Mg/vtv6.png" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV6 HD
 #EXTVLCOPT:http-user-agent="KIIP"
