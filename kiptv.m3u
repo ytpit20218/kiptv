@@ -413,7 +413,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/hanoicab5/sd2/index.m3u8?kiptv|Referer
 #EXTINF:0 tvg-id="vtvcab1hd"group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/KFctr0t/VIEGIAITRI.png",VTVCab1 - Vie Giải Trí
 #EXTVLCOPT:http-user-agent="KIIP"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8?kiptv|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://i.ibb.co/mHgG9Cf/ONSPORT.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", VTVCab3 - ON SPORTS
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/mHgG9Cf/ONSPORT.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", VTVCab3 - ON SPORTS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon/vtvcab3-on-sports
 #EXTINF:0 tvg-id="vtvcab4hd"group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/0tF9xjv/VTVCAB4.png" ,VTVCab4
