@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , KIPTV by Kiet
-http://al.flv.nimo.tv/backsrc/su1599518330519r8ad49929364df698b4242646f0bfd01f.flv?uid=2399217891867891&uuid=6517087441302793&wsSecret=ebd0193904ac620a041367ed65396a7b&wsTime=62092038&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1644678841498&ticker=429391
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , List này làm ra cho cộng đồng, vui lòng không sao chép dưới mọi hình thức
-https://hqth.me/tokyo1
+https://hqth.me/gioithieukiptv
+
+
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kiet Sport live (Thử nghiệm)
 http://222.255.117.230/kietlive/mpegts
 
@@ -14,6 +14,8 @@ https://hqth.me/tokyolive2
 https://hqth.me/ncslive1
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Test live youtube" , 【ライブ配信】夜景がきれい！　あべのハルカス・大阪の夜景/OSAKA NIGHT VEW
 https://hqth.me/osakalive1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Test live youtube" , Tokyo 
+https://hqth.me/tokyo1
 
 
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Kênh Argentina" , Discovery World HD
