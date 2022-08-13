@@ -335,6 +335,7 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/gjfHJCH/Animal-Planet.png",Animal Planet
+#EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/f90Rs0F/CMW.png", Cinema World
 #EXTVLCOPT:http-user-agent="KIIP"
@@ -346,6 +347,7 @@ https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5hZzB2C/TLC.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1500.stream/chunks_dvr_range-${start}-10800.m3u8, TLC
+#EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="blueantent" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/L5yHTzj/Rock-Entertainment.png" ,Rock Entertainment
 #EXTVLCOPT:http-user-agent="KIIP"
@@ -378,6 +380,7 @@ https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ABC Australia
+#EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/3SRxHXv/BBC-Earth.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
 #EXTVLCOPT:http-user-agent="KIIP"
