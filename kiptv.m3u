@@ -794,6 +794,56 @@ http://0.0.0.0:1708/channel/spotv2
 http://0.0.0.0:1708/channel/spotv1
 
 
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="https://i.ibb.co/G2rrkcy/channels4-profile-removebg-preview.png",F• Sự Kiện 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8?kiptv
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="https://i.ibb.co/G2rrkcy/channels4-profile-removebg-preview.png",F• Sự Kiện 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/schedule/sukien02_vhls.smil/chunklist_b5000000.m3u8?kiptv
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="https://i.ibb.co/G2rrkcy/channels4-profile-removebg-preview.png",F• Sự Kiện 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8?kiptv
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="https://i.ibb.co/G2rrkcy/channels4-profile-removebg-preview.png",F• Sự Kiện 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8?kiptv
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="https://i.ibb.co/Bns6VZs/p1549971-removebg-preview.png",F• Bóng Rổ 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/schedule/wbc01_vhls.smil/chunklist_b5000000.m3u8?kiptv
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="https://i.ibb.co/Bns6VZs/p1549971-removebg-preview.png",F• Bóng Rổ 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u8?kiptv
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="https://i.ibb.co/wK5SHwY/channels4-profile-1-removebg-preview.png",F• Thể Thao 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8?kiptv
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="https://i.ibb.co/wK5SHwY/channels4-profile-1-removebg-preview.png",F• Thể Thao 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8?kiptv
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="https://i.ibb.co/wK5SHwY/channels4-profile-1-removebg-preview.png",F• Thể Thao 03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8?kiptv
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="",F• Thể Thao 04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8?kiptv
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="https://i.ibb.co/wK5SHwY/channels4-profile-1-removebg-preview.png",F• Thể Thao 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8?kiptv
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="https://i.ibb.co/wK5SHwY/channels4-profile-1-removebg-preview.png",F• Thể Thao 06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport06_vhls.smil/chunklist_b5000000.m3u8?kiptv
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="https://i.ibb.co/wK5SHwY/channels4-profile-1-removebg-preview.png",F• Thể Thao 07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport07_vhls.smil/chunklist_b5000000.m3u8?kiptv
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="https://i.ibb.co/wK5SHwY/channels4-profile-1-removebg-preview.png",F• Thể Thao 08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport08_vhls.smil/chunklist_b5000000.m3u8?kiptv
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="https://i.ibb.co/wK5SHwY/channels4-profile-1-removebg-preview.png",F• Thể Thao 09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m3u8?kiptv
+#EXTINF:-1 group-title="Event Ép PT" tvg-logo="https://i.ibb.co/wK5SHwY/channels4-profile-1-removebg-preview.png",F• Thể Thao 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m3u8?kiptv
+
+
 #EXTINF:-1 tvg-id="ON 365 FM" tvg-logo="https://i.ibb.co/wQKQ2RQ/Kh-ng-c-ti-u-removebg-preview.png" group-title="RADIO" , PLADIO
 https://vips-livecdn.fptplay.net/hda3/pladio_vhls.smil/chunklist_b5000000.m3u8?cc
 #EXTINF:-1 tvg-id="ON 365 FM" tvg-logo="https://i.ibb.co/f0NGW2Y/ON365-FM.webp" group-title="RADIO" , ON365 FM
