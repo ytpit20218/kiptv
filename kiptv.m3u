@@ -8,28 +8,6 @@ https://hqth.me/gioithieukiptv
 http://222.255.117.230/kietlive/mpegts
 
 
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Kênh Argentina" , Discovery World HD
-http://222.255.117.230/discoveryworldar/mpegts
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="Kênh Argentina" , History
-http://222.255.117.230/historyar/mpegts
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/800px-2019_Disney_Channel_logo.svg.png" group-title="Kênh Argentina" , Disney Channel
-http://222.255.117.230/disneychannelar/mpegts
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="Kênh Argentina" , ESPN 2
-http://222.255.117.230/espn2ar/mpegts
-#EXTINF:0 tvg-id="" tvg-logo="https://banner2.cleanpng.com/20180628/tce/kisspng-espn3-watchespn-espn-com-streaming-media-espn-3-5b350bd9611c16.8686168115302030973978.jpg" group-title="Kênh Argentina" , ESPN 3
-http://222.255.117.230/espn3ar/mpegts
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="Kênh Argentina" , ESPN EXTRA
-http://222.255.117.230/espnextraar/mpegts
-#EXTINF:0 tvg-id="" tvg-logo="https://thefriscobowl.com/wp-content/uploads/2021/08/ESPN-logo.png" group-title="Kênh Argentina" , ESPN
-http://222.255.117.230/espnar/mpegts
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2560px-Nickelodeon_2009_logo.svg.png" group-title="Kênh Argentina" , Nickelodeon
-http://222.255.117.230/nickelodeonar/mpegts
-#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/1280px-Paramount_Pictures_Corporation_logo.svg.png" group-title="Kênh Argentina" , Paramount HD
-http://222.255.117.230/paramountar/mpegts
-#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/HGTV_2010.svg/revision/latest?cb=20211127035204&path-prefix=vi" group-title="Kênh Argentina" , HGTV
-http://222.255.117.230/hgtvar/mpegts
-
-
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
@@ -293,7 +271,7 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dmaxhd"group-title="Quốc Tế" tvg-logo="https://i.ibb.co/FYF7fSj/DMAX.jpg",DMAX
 #EXTVLCOPT:http-user-agent="KIIP"
-http://222.255.117.230/testkiet/mpegts
+http://52.231.51.194/Klive/mpegts
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/zHS0N8N/Dream-Works.png",DreamWorks
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
