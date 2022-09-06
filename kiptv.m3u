@@ -929,8 +929,6 @@ http://al.flv.nimo.tv/backsrc/su1639511734795r5a2b830043795aa55be3a5f1ad4d3316.f
 http://al.flv.nimo.tv/backsrc/su1629511905172rdd6c82e8d1170c24f8292037f37f6561.flv?uid=2092714337783412&uuid=0211065501244824&wsSecret=71b9ab0edf6b9d77f9df00ef2ef16df9&wsTime=620a6d54&ratio=6000&streamType=3&needwm=1&sphd=1&appid=81&tp=1644850517181&ticker=336129
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , DR.HUNTER
 https://al.flv.nimo.tv/live/su1799511768555r91f2892b13deb765559b0aed9d1da3da.flv?wsSecret=5ef4182c787988e45ae84054020a551b&wsTime=62f87733&seqid=3361650361944&ctype=nimo_web&ver=1&appid=81&tp=1660364211126&needwm=1&ratio=1000&&wsiphost=ipdbme&u=1702793110044&t=100&sv=2208091131
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , TUITENBO
-http://al.flv.nimo.tv/backsrc/su1AUNpEmDrq3fbtWBvw6mUK44B7mNncATS43d5ee8c02b04.flv?uid=0304072979718412&uuid=6370348743613924&wsSecret=9ff83a9f8ac83ddfa904f4cce693b0ce&wsTime=620d002f&ratio=6000&streamType=6&needwm=1&sphd=1&appid=81&tp=1645019184214&ticker=365558
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , HUYEN DT
 http://al.flv.nimo.tv/live/su1629511764173r7c620f73a9af5375648099cb8b5c56ac.flv?uid=460671697170695&uuid=4089015539335911&wsSecret=1e874eda1d145682d166d4d29044a523&wsTime=620d02fb&streamType=3&needwm=0&appid=81&tp=1645019899373&ticker=975288
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Độ Mixi
@@ -965,6 +963,8 @@ http://al.flv.nimo.tv/live/su1639520759639raf3bc6d08f6654d8facd8385c91e8d20.flv?
 http://tx.flv.nimo.tv/backsrc/su1599511947851r5832cba6b9c12a279fc75dd39ce9e4ba.flv?uid=1701282275081&uuid=1701282275081&wsSecret=de0db6d6d0e6d0994547033e741b6c99&wsTime=62ed8265&ctype=nimo_hysdk-adr&ratio=6000&streamType=3&appid=81&tp=1659732573252&needwm=1&sphd=1&ticker=160963&ver=1&t=2&seqid=1609586851
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Trâu TV
 https://hqth.me/trautvnimo
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Streamer nimotv" , Nam Ếch
+https://hqth.me/namechnimo
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", Kẹo Phim HD
