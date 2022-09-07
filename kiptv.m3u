@@ -8,6 +8,10 @@ https://hqth.me/gioithieukiptv
 http://222.255.117.230/kietlive/mpegts
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kênh Sự Kiện
 http://52.231.51.194:1708/live/testyt
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kênh Sự Kiện 2
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kênh Sự Kiện 3
+https://stream.schannel.vn/schannel_apple/schannel_apple-iPhone_540P.m3u8
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
