@@ -144,7 +144,7 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="antg" group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/tPvj88L/An-ninh-th-gi-i-HD-2015-removebg-preview.png", An Ninh Thế Giới
 #EXTVLCOPT:http-user-agent="KIIP"
-https://e2.endpoint.cdn.sctvonline.vn/hls/antg/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+http://52.231.51.194:1708/live/antg
 
 
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTVC - KIPTV" tvg-logo="https://i.ibb.co/1bhwRtD/HTVCTHUANVIET.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
@@ -381,7 +381,7 @@ http://52.231.51.194:1708/live/hgtv
 
 
 #EXTINF:-1 tvg-id="hitv" group-title="Hanoicab" tvg-logo="https://i.ibb.co/YpgT1nz/hanoicab1.png", Hanoicab1 - HiTV
-http://222.255.117.230/hitv/mpegts
+http://52.231.51.194:1708/live/hitv
 #EXTINF:-1 tvg-id="youtv" group-title="Hanoicab" tvg-logo="https://i.ibb.co/zH2hQMg/hanoicab2.png", Hanoicab2 - YouTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vtvcab1hd"group-title="Hanoicab" tvg-logo="https://images.careerbuilder.vn/employer_folders/lot2/85022/134225logoscjdai.png", Hanoicab5 - SCJ
