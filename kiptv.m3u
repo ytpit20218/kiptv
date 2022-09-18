@@ -268,10 +268,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=
 #EXTINF:-1 tvg-id="man" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/pXCVwvS/poster-1623742934c-Man.png", Man
 https://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
 #EXTINF:-1 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png", Box Hits
-https://hqth.me/boxhitsclip
-#http://222.255.117.230/boxhits/mpegts
+http://52.231.51.194:1708/live/boxhits
 #EXTINF:-1 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In The Box
-https://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
+http://52.231.51.194:1708/live/box
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/njX4CRM/hbo.png", HBO
@@ -284,7 +283,7 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dmaxhd"group-title="Quốc Tế" tvg-logo="https://i.ibb.co/FYF7fSj/DMAX.jpg",DMAX
 #EXTVLCOPT:http-user-agent="KIIP"
-https://hqth.me/dmaxkiptv
+http://52.231.51.194:1708/live/dmax
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/zHS0N8N/Dream-Works.png",DreamWorks
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
@@ -984,13 +983,13 @@ https://hqth.me/namechnimo
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", Kẹo Phim HD
-http://222.255.117.230/kcine/mpegts
+http://52.231.51.194:1708/live/kcine
 #EXTINF:-1 tvg-id="klifehd" group-title="Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", Kẹo Cuộc Sống HD
-http://222.255.117.230/klife/mpegts
+http://52.231.51.194:1708/live/klife
 #EXTINF:-1 tvg-id="ksport1hd" group-title="Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", Kẹo thể thao 1 HD
-http://222.255.117.230/ksport1/mpegts
+http://52.231.51.194:1708/live/ksport1
 #EXTINF:-1 tvg-id="ksport2hd" group-title="Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", Kẹo thể thao 2 HD
-http://222.255.117.230/ksport2/mpegts
+http://52.231.51.194:1708/live/ksport2
 
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Test live youtube" , Tokyo 4K Panorama Livecam 東京4Kパノラマライブカメラ
