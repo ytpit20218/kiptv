@@ -414,7 +414,7 @@ https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.
 #EXTINF:-1 tvg-id="" group-title="🌏|Quốc Tế" tvg-logo="https://i.ibb.co/VpnQj5h/Channel-News-Asia.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏|Quốc Tế" tvg-logo="https://i.ibb.co/XtC0cwN/744316-Paramount-xanh-fix.png",Paramount Channel
-http://20.194.5.67:1708:1708/live/paramount
+http://20.194.5.67:1708/live/paramount
 #http://103.22.183.7:8080/Paramount_Channel/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/C5Gq4ky/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="🌏|Quốc Tế" , THRILL (Không dành cho người yếu tim)
 http://20.194.5.67:1708/qwr9ew/s/s34/index.m3u8?
