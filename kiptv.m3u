@@ -19,14 +19,15 @@ http://live-vn.cvacetv.ga:8080/live2
 
 #--*.*--Kênh thể thao KIPTV--*.*--#
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="📌|Thử nghiệm livestream" , Kiet Sport live (Thử nghiệm)
-
+http://20.194.5.67:1708/live/kietsportlive
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="📌|Thử nghiệm livestream" , Kênh Sự Kiện
-
+http://20.194.5.67:1708/live/testyt
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="📌|Thử nghiệm livestream" , Kênh Sự Kiện 2
-
+http://20.194.5.67:1708/live/sukien2
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="📌|Thử nghiệm livestream" , Kênh Sự Kiện 3
-
+http://20.194.5.67:1708/live/kenhsukien3
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="📌|Thử nghiệm livestream" , Kênh Sự Kiện 4
+http://20.194.5.67:1708/live/sukien4
 
 
 
