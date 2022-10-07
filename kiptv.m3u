@@ -7,11 +7,11 @@ https://hqth.me/gioithieukiptv
 
 
 #--*.*--CVACE X KIPTV--*.*--#
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 4K
+#EXTINF:-1 group-title="🦶|LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 4K
 http://5.tcp.eu.ngrok.io:17498/4KUHD
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 1
+#EXTINF:-1 group-title="🦶|LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 1
 http://live-vn.cvacetv.ga:8080/live1
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 2
+#EXTINF:-1 group-title="🦶|LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="",CVmedia Live 2
 http://live-vn.cvacetv.ga:8080/live2
 
 
@@ -37,7 +37,7 @@ http://20.194.5.67:1708/live/sukien4
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
-#EXTINF:0 tvg-id="vtv2hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
+#EXTINF:0 tvg-id="vtv2hd"group-title="🪷|VTV - KIPTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
@@ -695,9 +695,9 @@ https://cdnv148.cloudrsst.com/jptv/janimax_720/playlist.m3u8
 https://cdnv148.cloudrsst.com/jptv/disney_channel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="🗾|NHẬT BẢN",Disney Junior
 https://cdnv148.cloudrsst.com/jptv/disney_junior/playlist.m3u8
-#EXTINF:-1 tvg-id="=" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="NHẬT BẢN",Tokyo MX1
+#EXTINF:-1 tvg-id="=" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="🗾|NHẬT BẢN",Tokyo MX1
 https://cdnv148.cloudrsst.com/jptv/kanto_tokyo_mx1_540/playlist.m3u8
-#EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://static.wikia.nocookie.net/pokemon/images/7/79/Kids_Station.png/revision/latest?cb=20200321032417" ,Kids Station
+#EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://static.wikia.nocookie.net/pokemon/images/7/79/Kids_Station.png/revision/latest?cb=20200321032417" group-title="🗾|NHẬT BẢN" ,Kids Station
 https://cdnv148.cloudrsst.com/jptv/jkids_540/playlist.m3u8
 
 
@@ -718,13 +718,13 @@ http:\\liveko24-manminglobal3.ktcdn.co.kr\liveko24\gcnko_high\chunklist.m3u8
 http:\\mediaworks.dema.mil.kr:1935\live_edge\cudo.sdp\playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/WxN9n1X/animax-korea.png" group-title="🐨|HÀN QUỐC" , Animax Hàn
 http://222.255.117.230/Animaxkr/mpegts
-#EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://www.spotvon.co.kr/P/images/main/title_channel1.png" ,SPOTV·ON
+#EXTINF:-1 group-title="🐨|HÀN QUỐC" tvg-logo="https://www.spotvon.co.kr/P/images/main/title_channel1.png" ,SPOTV·ON
 http://live1.streamk.co:8080/sportsbox_preview/live46/playlist.m3u8?site=gaktv&ch=live46
-#EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://www.spotvon.co.kr/P/images/main/title_channel2.png" ,SPOTV·ON2
+#EXTINF:-1 group-title="🐨|HÀN QUỐC" tvg-logo="https://www.spotvon.co.kr/P/images/main/title_channel2.png" ,SPOTV·ON2
 http://live1.streamk.co:8080/sportsbox_preview/live47/playlist.m3u8?site=gaktv&ch=live47
-#EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://cms.spotvasia.com/upload/footer/file_99872251-4bb3-4ce9-8a98-f5bb47395f6f.png" ,SPOTV1
+#EXTINF:-1 group-title="🐨|HÀN QUỐC" tvg-logo="https://cms.spotvasia.com/upload/footer/file_99872251-4bb3-4ce9-8a98-f5bb47395f6f.png" ,SPOTV1
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png" ,SPOTV2
+#EXTINF:-1 group-title="🐨|HÀN QUỐC" tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png" ,SPOTV2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
 
 
