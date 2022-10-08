@@ -422,6 +422,10 @@ http://20.194.5.67:1708/qwr9ew/s/s34/index.m3u8?
 http://20.194.5.67:1708/live/hits
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/HGTV_2010.svg/revision/latest?cb=20211127035204&path-prefix=vi" group-title="Quốc Tế", HGTV
 http://20.194.5.67:1708/live/hgtv
+#EXTINF:0 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Quốc Tế", Celestial Classic Movies
+http://210.210.155.35/qwr9ew/s/s31/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies
+http://210.210.155.37/dr9445/h/h14/index.m3u8
 
 
 
