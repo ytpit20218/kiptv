@@ -11,7 +11,7 @@ http://20.194.5.67:1708/live/testyt
 #--*.*--KÊNH JUNGO--*.*--#
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/r43YQN8/image-removebg-preview.png" tvg-id="", A8 ESPORT
 http://20.194.5.67:2121/live/a8esport
-#EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/s3zD2WC/image.png" tvg-id="", Screamflix
+#EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/s3zD2WC/image.png" tvg-id="", Screamflix (Không dành cho người yếu tim)
 http://20.194.5.67:2121/live/screamflix
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/8PVdVc1/image.png" tvg-id="", Toro TV
 http://jackmavietnam.ga:2121/live/torotv
