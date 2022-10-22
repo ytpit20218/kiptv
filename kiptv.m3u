@@ -10,11 +10,15 @@ http://20.194.5.67:1708/live/testyt
 
 #--*.*--KÊNH JUNGO--*.*--#
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/r43YQN8/image-removebg-preview.png" tvg-id="", A8 ESPORT
-http://20.194.5.67:2121/live/a8esport
+http://jackmavietnam.ga:2121/live/a8esport
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/s3zD2WC/image.png" tvg-id="", Screamflix (Không dành cho người yếu tim)
-http://20.194.5.67:2121/live/screamflix
+http://jackmavietnam.ga:2121/live/screamflix
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/8PVdVc1/image.png" tvg-id="", Toro TV
 http://jackmavietnam.ga:2121/live/torotv
+#EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/YcccLY7/image.png" tvg-id="", Cinemundo Pinoy
+http://jackmavietnam.ga:2121/live/cinemundo
+#EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/hFQyPbG/image.png" tvg-id="", Black Belt
+http://jackmavietnam.ga:2121/live/blackbelt
 
 
 
@@ -312,12 +316,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8?kiptv|Referer=
 #EXTINF:0 tvg-id="happykids" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/4Y4yxZq/Happy-Kids.png",Happy Kids
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="man" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/pXCVwvS/poster-1623742934c-Man.png", Man
-http://123host.television4you.xyz/cliptv.php?id=837
+http://code.television4you.xyz/cliptv.php?id=837
 #EXTINF:-1 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png", Box Hits
 http://20.194.5.67:1708/live/boxhits
 #EXTINF:-1 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In The Box
-http://123host.television4you.xyz/cliptv.php?id=838
-
+http://code.television4you.xyz/cliptv.php?id=838
 
 
 
