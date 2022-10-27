@@ -1046,6 +1046,31 @@ https://hqth.me/namechnimo
 
 
 
+#--*.*--Kênh Sự Kiện ON--*.*--#
+#EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 1
+https://hqth.me/onlive1
+#EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 2
+https://hqth.me/onlive2
+#EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 3
+https://hqth.me/onlive3
+#EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 4
+https://hqth.me/onlive4
+#EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 5
+https://hqth.me/onlive5
+#EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 6
+https://hqth.me/onlive6
+#EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 7
+https://hqth.me/onlive7
+#EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 8
+https://hqth.me/onlive8
+#EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 9
+https://hqth.me/onlive9
+#EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 10
+https://hqth.me/onlive10
+
+
+
+
 #--*.*--KẸO--*.*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", Kẹo Phim HD
 http://20.194.5.67:1708/live/kcine
