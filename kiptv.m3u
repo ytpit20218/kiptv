@@ -19,13 +19,19 @@ http://jackmavietnam.ga:2121/live/torotv
 http://jackmavietnam.ga:2121/live/cinemundo
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/hFQyPbG/image.png" tvg-id="", Black Belt
 http://jackmavietnam.ga:2121/live/blackbelt
+#EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="" tvg-id="https://j03qukjhr2obj.vcdn.cloud/image-upload/62c9cab3-5e04-4098-851e-590d52e43466.jpg", ON Sport (Jungo)
+https://hqth.me/onsportjungo
+#EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/MG96xJc/image.png" tvg-id="", ON Biz (Jungo)
+https://hqth.me/onbizjungo
+#EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/DzVp5NH/image.png" tvg-id="", Phim Viet (Jungo)
+https://hqth.me/phimvietjungo
 
 
 
 
 #--*.*--CVACE X KIPTV--*.*--#
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="", CVmedia Live 4K
-http://5.tcp.eu.ngrok.io:17498/4KUHD
+http://live-vn.cvacetv.ga:8080/4KUHD
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="", CVmedia Live 1
 http://live-vn.cvacetv.ga:8080/live1
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="", CVmedia Live 2
