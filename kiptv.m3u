@@ -3,22 +3,22 @@
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , KIPTV by Kiet
 https://hqth.me/gioithieukiptv
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , Tham gia Zalo KIPTV: http://hqth.me/kiptvzalo
-http://20.194.5.67:1708/live/testyt
+http://jackmavietnam.ga/live/testyt
 
 
 
 
 #--*.*--KÊNH JUNGO--*.*--#
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/r43YQN8/image-removebg-preview.png" tvg-id="", A8 ESPORT
-http://jackmavietnam.ga:2121/live/a8esport
+http://jackmavietnam.ga/live/a8esport
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/s3zD2WC/image.png" tvg-id="", Screamflix (Không dành cho người yếu tim)
-http://jackmavietnam.ga:2121/live/screamflix
+http://jackmavietnam.ga/live/screamflix
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/8PVdVc1/image.png" tvg-id="", Toro TV
-http://jackmavietnam.ga:2121/live/torotv
+http://jackmavietnam.ga/live/torotv
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/YcccLY7/image.png" tvg-id="", Cinemundo Pinoy
-http://jackmavietnam.ga:2121/live/cinemundo
+http://jackmavietnam.ga/live/cinemundo
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/hFQyPbG/image.png" tvg-id="", Black Belt
-http://jackmavietnam.ga:2121/live/blackbelt
+http://jackmavietnam.ga/live/blackbelt
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="" tvg-id="https://j03qukjhr2obj.vcdn.cloud/image-upload/62c9cab3-5e04-4098-851e-590d52e43466.jpg", ON Sport (Jungo)
 https://hqth.me/onsportjungo
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/MG96xJc/image.png" tvg-id="", ON Biz (Jungo)
@@ -51,13 +51,13 @@ http://vn1.cvacetv.ga:8080/vtv5
 #--*.*--Kênh THỂ THAO KIPTV--*.*--#
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kiet Sport live (Thử nghiệm)
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kênh Sự Kiện
-http://20.194.5.67:1708/live/testyt
+http://jackmavietnam.ga/live/testyt
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kênh Sự Kiện 2
-http://20.194.5.67:1708/live/sukien2
+http://jackmavietnam.ga/live/sukien2
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kênh Sự Kiện 3
-http://20.194.5.67:1708/live/kenhsukien3
+http://jackmavietnam.ga/live/kenhsukien3
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kênh Sự Kiện 4
-http://20.194.5.67:1708/live/sukien4
+http://jackmavietnam.ga/live/sukien4
 
 
 
@@ -215,7 +215,7 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="antg" group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/tPvj88L/An-ninh-th-gi-i-HD-2015-removebg-preview.png", An Ninh Thế Giới
 #EXTVLCOPT:http-user-agent="KIIP"
-http://20.194.5.67:1708/live/antg
+http://jackmavietnam.ga/live/antg
 
 
 
@@ -344,7 +344,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=
 #EXTINF:-1 tvg-id="man" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/pXCVwvS/poster-1623742934c-Man.png", Man
 http://code.television4you.xyz/cliptv.php?id=837
 #EXTINF:-1 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png", Box Hits
-http://20.194.5.67:1708/live/boxhits
+http://jackmavietnam.ga/live/boxhits
 #EXTINF:-1 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In The Box
 http://code.television4you.xyz/cliptv.php?id=838
 
@@ -460,9 +460,9 @@ http://20.194.5.67:1708/live/paramount
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/C5Gq4ky/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Quốc Tế" , THRILL (Không dành cho người yếu tim)
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Quốc Tế",HITS
-http://20.194.5.67:1708/live/hits
+http://jackmavietnam.ga/live/hits
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/HGTV_2010.svg/revision/latest?cb=20211127035204&path-prefix=vi" group-title="Quốc Tế", HGTV
-http://20.194.5.67:1708/live/hgtv
+http://jackmavietnam.ga/live/hgtv
 #EXTINF:0 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Quốc Tế", Celestial Classic Movies
 http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies
@@ -473,7 +473,7 @@ http://210.210.155.37/dr9445/h/h14/index.m3u8
 
 #--*.*--HANOICAB--*.*--#
 #EXTINF:-1 tvg-id="hitv" group-title="Hanoicab" tvg-logo="https://i.ibb.co/YpgT1nz/hanoicab1.png", Hanoicab1 - HiTV
-http://52.231.51.194:1708/live/hitv
+http://jackmavietnam.ga/live/hitv
 #EXTINF:-1 tvg-id="youtv" group-title="Hanoicab" tvg-logo="https://i.ibb.co/zH2hQMg/hanoicab2.png", Hanoicab2 - YouTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vtvcab1hd"group-title="Hanoicab" tvg-logo="https://images.careerbuilder.vn/employer_folders/lot2/85022/134225logoscjdai.png", Hanoicab5 - SCJ
@@ -500,7 +500,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8?kiptv|Referer=http:
 #EXTVLCOPT:http-user-agent="KIIP"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/fYLLz18/ONSPORTPLUS.png", VTVcab6 - ON SPORTS + HD
-http://20.194.5.67:1708/live/cab6
+http://jackmavietnam.ga/live/cab6
 #https://hqth.me/trenthethaoplus
 #EXTINF:-1 tvg-id="" group-title="VTVCab  - KIPTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONSPORTSNEWS_150x904.jpg",ON SPORTS NEWS
 https://hqth.me/trenthethaotintuc
@@ -1100,13 +1100,13 @@ https://hqth.me/onlive10
 
 #--*.*--KẸO--*.*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="Kẹo (Không hoạt động)" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", Kẹo Phim HD
-http://20.194.5.67:1708/live/kcine
+
 #EXTINF:-1 tvg-id="klifehd" group-title="Kẹo (Không hoạt động)" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", Kẹo Cuộc Sống HD
-http://20.194.5.67:1708/live/klife
+
 #EXTINF:-1 tvg-id="ksport1hd" group-title="Kẹo (Không hoạt động)" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", Kẹo THỂ THAO 1 HD
-http://20.194.5.67:1708/live/kthethao1
+
 #EXTINF:-1 tvg-id="ksport2hd" group-title="Kẹo (Không hoạt động)" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", Kẹo THỂ THAO 2 HD
-http://20.194.5.67:1708/live/kthethao2
+
 
 
 
