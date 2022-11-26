@@ -359,11 +359,11 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8?kiptv|Referer=
 #EXTINF:0 tvg-id="happykids" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/4Y4yxZq/Happy-Kids.png",Happy Kids
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="man" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/pXCVwvS/poster-1623742934c-Man.png", Man
-https://jackmavietnam.ga/getlinkcliptv/man
+http://code.television4you.xyz/cliptv.php?id=837
 #EXTINF:-1 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png", Box Hits
 http://jackmavietnam.ga/live/boxhits
 #EXTINF:-1 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In The Box
-https://jackmavietnam.ga/getlinkcliptv/intheboxbox
+http://code.television4you.xyz/cliptv.php?id=838
 
 
 
