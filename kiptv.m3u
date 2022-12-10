@@ -36,14 +36,20 @@ http://live-vn.cvacetv.ga:8080/4KUHD
 http://live-vn.cvacetv.ga:8080/live1
 #EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="", CVmedia Live 2
 http://live-vn.cvacetv.ga:8080/live2
-#EXTINF:-1 group-title="VTV CVACE" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD
-http://vn1.cvacetv.ga:8080/vtv1
-#EXTINF:-1 group-title="VTV CVACE" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
-http://vn1.cvacetv.ga:8080/vtv2
-#EXTINF:-1 group-title="VTV CVACE" tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/3.png",VTV3 HD
-http://vn1.cvacetv.ga:8080/vtv3
-#EXTINF:-1 group-title="VTV CVACE" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
-http://vn1.cvacetv.ga:8080/vtv5 
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv1hd" tvg-logo="https://cdn.hqth.me/logo/1.png",VTV1 HD
+http://vn2.cvacetv.ga/vtv1
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
+http://vn2.cvacetv.ga/vtv2
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/2.png",VTV2 HD
+http://sg2.cvacetv.ga/vtv2
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/3.png",VTV3 HD
+http://vn2.cvacetv.ga/vtv3
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/3.png",VTV3 HD
+http://sg2.cvacetv.ga/vtv3
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
+http://vn2.cvacetv.ga/vtv5
+#EXTINF:-1 group-title="THIẾT YẾU - 50fps" tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/5.png",VTV5 HD
+http://sg2.cvacetv.ga/vtv5
 
 
 
