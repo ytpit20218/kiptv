@@ -8,6 +8,21 @@ http://jackmavietnam.ga/live/testyt
 
 
 
+#--*.*--VTHANHTIVI--*.*--#
+#EXTINF:-1 tvg-id="vtv2hd" group-title="WORLD CUP 2022 - VThanhTivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
+http://live.vthanhtivi.pw/vtv2
+#EXTINF:-1 tvg-id="vtv3hd" group-title="WORLD CUP 2022 - VThanhTivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
+http://live.vthanhtivi.pw/vtv3
+#EXTINF:-1 tvg-id="vtv5hd" group-title="WORLD CUP 2022 - VThanhTivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
+http://live.vthanhtivi.pw/vtv5
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="WORLD CUP 2022 - VThanhTivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
+http://live.vthanhtivi.pw/vtv5tnb
+#EXTINF:-1 tvg-id="vtv6hd" group-title="WORLD CUP 2022 - VThanhTivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+http://live.vthanhtivi.pw/vtvct
+
+
+
+
 #--*.*--KÊNH JUNGO--*.*--#
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/r43YQN8/image-removebg-preview.png" tvg-id="", A8 ESPORT
 http://jackmavietnam.ga/live/a8esport
