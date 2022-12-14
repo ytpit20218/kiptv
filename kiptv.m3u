@@ -127,18 +127,6 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 https://hqth.me/v5tnb
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/9nXs3CK/VTV5-tay-nguyen.png" ,VTV5 Tây Nguyên
 https://hqth.me/v5tn
-#EXTINF:0 tvg-id="vtv2hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv2logokiptv" ,VTV2 HD CLIP TV
-#EXTVLCOPT:http-user-agent="KIIP"
-https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv2hd/chunklist_b5128000.m3u8
-#EXTINF:0 tvg-id="vtv3hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv3logokiptv" ,VTV3 HD CLIP TV
-#EXTVLCOPT:http-user-agent="KIIP"
-https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv3hd/chunklist_b5128000.m3u8
-#EXTINF:0 tvg-id="vtv5hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv5logokiptv" ,VTV5 HD CLIP TV
-#EXTVLCOPT:http-user-agent="KIIP"
-https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv5hd/chunklist_b5128000.m3u8
-#EXTINF:0 tvg-id="vtv6hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/zmKpWCv/vtv-can-tho-16650500344341813094040-removebg-preview.png" ,VTV Cần thơ HD CLIP TV
-#EXTVLCOPT:http-user-agent="KIIP"
-https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtvcanthohd/chunklist_b5128000.m3u8
 #EXTINF:0 tvg-id="vtv6hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/zmKpWCv/vtv-can-tho-16650500344341813094040-removebg-preview.png" ,VTV Cần thơ Độ trễ thấp
 https://wallpapermeter.tk/worldcup/vtvcantho
 #EXTINF:0 tvg-id="vtv3hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv3logokiptv" ,VTV3 Độ trễ thấp
@@ -155,7 +143,6 @@ https://wallpapermeter.tk/worldcup/vtv3mytv
 https://wallpapermeter.tk/worldcup/vtv2mytv
 #EXTINF:0 tvg-id="vtv5hd"group-title="VTV Độ trễ thấp" tvg-logo="http://gg.gg/vtv5logokiptv" ,VTV5 Độ trễ thấp MYTV
 https://wallpapermeter.tk/worldcup/vtv5mytv
-
 
 
 
