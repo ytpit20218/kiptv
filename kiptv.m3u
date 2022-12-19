@@ -488,12 +488,13 @@ http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 http://jackmavietnam.ga/live/hits
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/HGTV_2010.svg/revision/latest?cb=20211127035204&path-prefix=vi" group-title="Quốc Tế", HGTV
 http://jackmavietnam.ga/live/hgtv
-#EXTINF:0 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Quốc Tế", Celestial Classic Movies
-http://210.210.155.35/qwr9ew/s/s31/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Quốc Tế", Celestial Classic Movieshttp://210.210.155.35/qwr9ew/s/s31/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/Mezzo_Live_HD.png/revision/latest/scale-to-width-down/610?cb=20220105084904&path-prefix=vi" group-title="Quốc Tế", Mezzo Live 
 https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Quốc Tế", Clubbingtv
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 
 
 
