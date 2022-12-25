@@ -757,13 +757,14 @@ https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QNpg3xc/TV-Asahi.png" group-title="NHẬT BẢN", TV Asahi
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="NHẬT BẢN", Nippon TV
-https://ntv3.mov3.co/hls/ntv.m3u8
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
+#https://ntv3.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="NHẬT BẢN", TBS TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qXMPvG/atx.png" group-title="NHẬT BẢN", AT-X
 https://sub.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sjP7F3/1200px-Fuji-TV-logo-svg.png" group-title="NHẬT BẢN", FUJI TV
-http://cdnv148.cloudrsst.com:1935/jptv/bsfuji_720/playlist.m3u8
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rHqrQSM/weathernewjapan.jpg" group-title="NHẬT BẢN", WEATHER NEWS JAPAN
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMtFPHZ/jp-shop-channe-5122.jpg" group-title="NHẬT BẢN", SHOP CHANNEL JAPAN
@@ -771,22 +772,22 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="NHẬT BẢN",TV Tokyo
 http://cdn.us195.jpnettv.live:1935/jptv/bsjapan_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RhJVKbM/NHK-BS1.png" group-title="NHẬT BẢN",NHK BS1
-http://20.194.5.67:1708/live/nhkbs1
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMXCLsP/1200px-NHK-General-TV-logo-svg.png" group-title="NHẬT BẢN",NHK G
-http://20.194.5.67:1708/live/nhkg
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CWVVV89/1-200-GGP3023-W.png" group-title="NHẬT BẢN",NHK E
-http://20.194.5.67:1708/live/nhke
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDQKZGR/E4c594f6-3687-40d8-b8b7-af85a0378c97-removebg.png" group-title="NHẬT BẢN", WOW WOW Cinema
 http://203.162.235.41:16916
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MhJQL0c/kisspng-logo-nhk-bs-premium-nhk-bs-2-nhk-bs1-bs-logo-www-galleryhip-com-the-hippest-pics-5bfac98cb7a.jpg" group-title="NHẬT BẢN",NHK BSP
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/zpi6mQ3.png" group-title="NHẬT BẢN",Animax
 https://cdnv148.cloudrsst.com/jptv/janimax_720/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="NHẬT BẢN",Disney Channel
-https://cdnv148.cloudrsst.com/jptv/disney_channel/playlist.m3u8
+http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="NHẬT BẢN",Disney Junior
 https://cdnv148.cloudrsst.com/jptv/disney_junior/playlist.m3u8
 #EXTINF:-1 tvg-id="=" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="NHẬT BẢN",Tokyo MX1
-https://cdnv148.cloudrsst.com/jptv/kanto_tokyo_mx1_540/playlist.m3u8
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://static.wikia.nocookie.net/pokemon/images/7/79/Kids_Station.png/revision/latest?cb=20200321032417" ,Kids Station
 https://cdnv148.cloudrsst.com/jptv/jkids_540/playlist.m3u8
 
