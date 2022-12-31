@@ -487,10 +487,10 @@ https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/VpnQj5h/Channel-News-Asia.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/astro/paramount
 #EXTINF:-1 tvg-id="713" tvg-logo="https://i.ibb.co/XtC0cwN/744316-Paramount-xanh-fix.png" group-title="Quốc Tế",PARAMOUNT NETWORK
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
+#EXTVLCOPT:http-user-agent=zzasobsxfszxd
+https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/paramount.m3u8
+
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/C5Gq4ky/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Quốc Tế" , THRILL (Không dành cho người yếu tim)
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
