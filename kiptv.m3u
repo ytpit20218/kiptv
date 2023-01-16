@@ -320,7 +320,7 @@ https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv12/s1/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="SCTV13hd" group-title="SCTV" tvg-logo="https://i.ibb.co/R6ZR8tz/sctv13.png", SCTV13
 #EXTVLCOPT:http-user-agent="KIIP"
-https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv13.m3u8?kiptv|Referer=http://sctvonline.vn/
+https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv13.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="SCTV14hd" group-title="SCTV" tvg-logo="https://i.ibb.co/Jjzk1XN/sctv14.png", SCTV14
 #EXTVLCOPT:http-user-agent="KIIP"
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv14.m3u8?kiptv|Referer=http://sctvonline.vn/
