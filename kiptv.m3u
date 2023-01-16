@@ -332,10 +332,10 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv15/index.m3u8?kiptv|Referer=h
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="SCTV17hd" group-title="SCTV" tvg-logo="https://i.ibb.co/r5dvTLy/sctv17.jpg", SCTV17
 #EXTVLCOPT:http-user-agent="KIIP"
-https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s1/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv17.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="SCTV18hd" group-title="SCTV" tvg-logo="https://i.ibb.co/RyCQb4Z/sctv18.png", SCTV18
 #EXTVLCOPT:http-user-agent="KIIP"
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv18.m3u8?kiptv|Referer=http://sctvonline.vn/
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv18/s1/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="SCTV19hd" group-title="SCTV" tvg-logo="https://i.ibb.co/2ndfQyY/sctv19.png", SCTV19
 #EXTVLCOPT:http-user-agent="KIIP"
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv19.m3u8?kiptv|Referer=http://sctvonline.vn/
