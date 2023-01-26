@@ -8,13 +8,6 @@ http://jackmavietnam.ga/live/testyt
 
 
 
-#--*.*--Countdown 2023--*.*--#
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Countdown" , Countdown 2023
-http://jackmavietnam.ga/live/sukien2
-
-
-
-
 #--*.*--VTHANHTIVI--*.*--#
 #EXTINF:-1 tvg-id="vtv2hd" group-title="WORLD CUP 2022 - VThanhTivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
 http://live.vthanhtivi.pw/vtv2
@@ -77,7 +70,6 @@ http://sg2.cvacetv.ga/vtv5
 
 
 #--*.*--Kênh THỂ THAO KIPTV--*.*--#
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kiet Sport live (Thử nghiệm)
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kênh Sự Kiện
 http://jackmavietnam.ga/live/testyt
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kênh Sự Kiện 2
@@ -94,27 +86,27 @@ http://jackmavietnam.ga/live/sukien4
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv1logokiptv" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+#https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/index.m3u8
 #EXTINF:0 tvg-id="vtv2hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv2logokiptv" tvg-chno="2" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV2 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
+#https://nvzoftzsvflivcf.vcdn.com.vn/vtv2/index.m3u8
 #EXTINF:0 tvg-id="vtv3hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+#https://nvzoftzsvflivcf.vcdn.com.vn/vtv3/index.m3u8
 #EXTINF:0 tvg-id="vtv4hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
+#https://nvzoftzsvflivcf.vcdn.com.vn/vtv4/index.m3u8
 #EXTINF:0 tvg-id="vtv5hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png" tvg-chno="5" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+#https://nvzoftzsvflivcf.vcdn.com.vn/vtv5/index.m3u8
 #EXTINF:0 tvg-id="vtv6hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/zmKpWCv/vtv-can-tho-16650500344341813094040-removebg-preview.png" tvg-chno="6" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV Cần Thơ
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+#https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/index.m3u8
 #EXTINF:0 tvg-id="vtv5hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png",VTV5 HD TV360
 https://hqth.me/vtv5360
 #EXTINF:0 tvg-id="vtv6hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/zmKpWCv/vtv-can-tho-16650500344341813094040-removebg-preview.png",VTV Cần Thơ TV360
@@ -122,35 +114,19 @@ https://hqth.me/vtv6360
 #EXTINF:0 tvg-id="vtv7hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/J7FX52M/vtv7.png"  tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
+#https://nvzoftzsvflivcf.vcdn.com.vn/vtv7/index.m3u8
 #EXTINF:0 tvg-id="vtv8hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/vsQPSYQ/vtv8.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
+#https://nvzoftzsvflivcf.vcdn.com.vn/vtv8/index.m3u8
 #EXTINF:0 tvg-id="vtv9hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+#https://nvzoftzsvflivcf.vcdn.com.vn/vtv9/index.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/1RxT5jp/VTV5-TNB.png",VTV5 Tây Nam Bộ
-https://jackmavietnam.ga/live/v5tnb
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/9nXs3CK/VTV5-tay-nguyen.png" ,VTV5 Tây Nguyên
-
-#EXTINF:0 tvg-id="vtv6hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/zmKpWCv/vtv-can-tho-16650500344341813094040-removebg-preview.png" ,VTV Cần thơ Độ trễ thấp
-https://wallpapermeter.tk/worldcup/vtvcantho
-#EXTINF:0 tvg-id="vtv3hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv3logokiptv" ,VTV3 Độ trễ thấp
-https://wallpapermeter.tk/worldcup/vtv3
-#EXTINF:0 tvg-id="vtv2hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv2logokiptv" ,VTV2 Độ trễ thấp
-https://wallpapermeter.tk/worldcup/vtv2
-#EXTINF:0 tvg-id="vtv5hd"group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv5logokiptv" ,VTV5 Độ trễ thấp
-https://wallpapermeter.tk/worldcup/vtv5
-#EXTINF:0 tvg-id="vtv6hd"group-title="VTV Độ trễ thấp" tvg-logo="https://i.ibb.co/zmKpWCv/vtv-can-tho-16650500344341813094040-removebg-preview.png" ,VTV Cần thơ Độ trễ thấp MYTV
-https://wallpapermeter.tk/worldcup/vtvcanthomytv
-#EXTINF:0 tvg-id="vtv3hd"group-title="VTV Độ trễ thấp" tvg-logo="http://gg.gg/vtv3logokiptv" ,VTV3 Độ trễ thấp MYTV
-https://wallpapermeter.tk/worldcup/vtv3mytv
-#EXTINF:0 tvg-id="vtv2hd"group-title="VTV Độ trễ thấp" tvg-logo="http://gg.gg/vtv2logokiptv" ,VTV2 Độ trễ thấp MYTV
-https://wallpapermeter.tk/worldcup/vtv2mytv
-#EXTINF:0 tvg-id="vtv5hd"group-title="VTV Độ trễ thấp" tvg-logo="http://gg.gg/vtv5logokiptv" ,VTV5 Độ trễ thấp MYTV
-https://wallpapermeter.tk/worldcup/vtv5mytv
-
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/index.m3u8
 
 
 
