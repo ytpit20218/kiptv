@@ -223,7 +223,7 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="antg" group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/tPvj88L/An-ninh-th-gi-i-HD-2015-removebg-preview.png", An Ninh Thế Giới
 #EXTVLCOPT:http-user-agent="KIIP"
-http://jackmavietnam.ga/live/antg
+https://api.vthanhtivi.pw/v2/getlink/tv360/21/0.m3u8
 
 
 
@@ -472,8 +472,9 @@ http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Quốc Tế",HITS
 http://jackmavietnam.ga/live/hits
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/HGTV_2010.svg/revision/latest?cb=20211127035204&path-prefix=vi" group-title="Quốc Tế", HGTV
-http://jackmavietnam.ga/live/hgtv
-#EXTINF:0 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Quốc Tế", Celestial Classic Movieshttp://210.210.155.35/qwr9ew/s/s31/index.m3u8
+https://api.vthanhtivi.pw/v2/getlink/tv360/99/2.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Quốc Tế", Celestial Classic Movies
+http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/Mezzo_Live_HD.png/revision/latest/scale-to-width-down/610?cb=20220105084904&path-prefix=vi" group-title="Quốc Tế", Mezzo Live 
