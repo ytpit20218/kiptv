@@ -43,44 +43,14 @@ http://live.vthanhtivi.pw/vtvct
 
 #--*.*--KÊNH JUNGO--*.*--#
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/r43YQN8/image-removebg-preview.png" tvg-id="", A8 ESPORT
-http://jackmavietnam.ga/live/a8esport
+
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/s3zD2WC/image.png" tvg-id="", Screamflix (Không dành cho người yếu tim)
-http://jackmavietnam.ga/live/screamflix
+
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/8PVdVc1/image.png" tvg-id="", Toro TV
-http://jackmavietnam.ga/live/torotv
+
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/YcccLY7/image.png" tvg-id="", Cinemundo Pinoy
-http://jackmavietnam.ga/live/cinemundo
+
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/hFQyPbG/image.png" tvg-id="", Black Belt
-http://jackmavietnam.ga/live/blackbelt
-#EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="" tvg-id="https://j03qukjhr2obj.vcdn.cloud/image-upload/62c9cab3-5e04-4098-851e-590d52e43466.jpg", ON Sport (Jungo)
-
-#EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/MG96xJc/image.png" tvg-id="", ON Biz (Jungo)
-
-#EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/DzVp5NH/image.png" tvg-id="", Phim Viet (Jungo)
-
-
-
-
-#--*.*--CVACE X KIPTV--*.*--#
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="", CVmedia Live 4K
-http://live-vn.cvacetv.ga:8080/4KUHD
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="", CVmedia Live 1
-http://live-vn.cvacetv.ga:8080/live1
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://cdn.hqth.me/cvmedia.png" tvg-id="", CVmedia Live 2
-http://live-vn.cvacetv.ga:8080/live2
-
-
-
-
-#--*.*--Kênh THỂ THAO KIPTV--*.*--#
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kênh Sự Kiện
-http://jackmavietnam.ga/live/testyt
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kênh Sự Kiện 2
-http://jackmavietnam.ga/live/sukien2
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kênh Sự Kiện 3
-http://jackmavietnam.ga/live/kenhsukien3
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Thử nghiệm livestream" , Kênh Sự Kiện 4
-http://jackmavietnam.ga/live/sukien4
 
 
 
@@ -356,7 +326,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8?kiptv|Referer=
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/cliptv/837/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/hYF1RTW/Box-Hits.png", Box Hits
-http://jackmavietnam.ga/live/boxhits
+https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In The Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/cliptv/838/chunklist_b5128000.m3u8
@@ -471,11 +441,11 @@ https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/VpnQj5h/Channel-News-Asia.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="713" tvg-logo="https://i.ibb.co/XtC0cwN/744316-Paramount-xanh-fix.png" group-title="Quốc Tế",PARAMOUNT NETWORK
-https://jackmavietnam.ga/live/paramount
+
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/C5Gq4ky/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Quốc Tế" , THRILL (Không dành cho người yếu tim)
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Quốc Tế",HITS
-http://jackmavietnam.ga/live/hits
+https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a8/HGTV_2010.svg/revision/latest?cb=20211127035204&path-prefix=vi" group-title="Quốc Tế", HGTV
 https://api.vthanhtivi.pw/v2/getlink/tv360/99/2.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Quốc Tế", Celestial Classic Movies
@@ -507,7 +477,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #--*.*--HANOICAB--*.*--#
 #EXTINF:-1 tvg-id="hitv" group-title="Hanoicab" tvg-logo="https://i.ibb.co/YpgT1nz/hanoicab1.png", Hanoicab1 - HiTV
-http://jackmavietnam.ga/live/hitv
+https://code.vthanhtivi.pw/getlink/mytv/45/hd.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="Hanoicab" tvg-logo="https://i.ibb.co/zH2hQMg/hanoicab2.png", Hanoicab2 - YouTV
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
