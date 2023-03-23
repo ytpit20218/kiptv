@@ -10,17 +10,14 @@ http://jackmavietnam.ga/live/testyt
 
 
 #--*.*--AFC U20--*.*--#
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , FPT Live 1
-#EXTVLCOPT:http-user-agent="KIIP"
-https://vips-livecdn.fptplay.net/fnxsport/thethao19_4000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , FPT Live 2
-#EXTVLCOPT:http-user-agent="KIIP"
-https://vips-livecdn.fptplay.net/fnxsport/thethao14_4000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , FPT Live 3
-#EXTVLCOPT:http-user-agent="KIIP"
-https://vips-livecdn.fptplay.net/fnxsport/thethao15_4000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Live AFC" , TV360 Live 1
-http://live-ali2.tv360.vn/manifest/sukien/playlist_360p.m3u8
+#EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png", TV360+ 1
+http://live-ali2.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
+#EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_480_270.png", TV360+ 2
+https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
+#EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_480_270.png", TV360+ 3
+https://live-zlr1.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
+#EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_480_270.png", TV360+ 4
+https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
 
 
