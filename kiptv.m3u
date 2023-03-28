@@ -730,7 +730,7 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="NHẬT BẢN", TBS TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qXMPvG/atx.png" group-title="NHẬT BẢN", AT-X
-https://sub.neetball.net/live/neet.m3u8
+https://code.vthanhtivi.pw/getlink/jptv2/107/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sjP7F3/1200px-Fuji-TV-logo-svg.png" group-title="NHẬT BẢN", FUJI TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rHqrQSM/weathernewjapan.jpg" group-title="NHẬT BẢN", WEATHER NEWS JAPAN
@@ -757,11 +757,11 @@ https://cdnv148.cloudrsst.com/jptv/disney_junior/playlist.m3u8
 #EXTINF:-1 tvg-id="=" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="NHẬT BẢN",Tokyo MX1
 http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 #EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://static.wikia.nocookie.net/pokemon/images/7/79/Kids_Station.png/revision/latest?cb=20200321032417" ,Kids Station
-https://cdnv148.cloudrsst.com/jptv/jkids_540/playlist.m3u8
+https://cdn-us-186.cloudrsst.com:443/live/jkids_720/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="NHẬT BẢN",Disney Junior
 https://cdn-hk-33.cloudrsst.com/live/disney_junior/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/abc_logo.png" group-title="NHẬT BẢN", 6ABC
-https://cdn-hk-33.cloudrsst.com/live/kansi_abc_asahi_1080/playlist.m3u8
+https://cdn.th11.jpnettv.live:443/live/kansi_abc_asahi_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-j-sports-1-1717.png" group-title="NHẬT BẢN", J Sport 1
 http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png" group-title="NHẬT BẢN", J Sport 2
