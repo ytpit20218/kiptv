@@ -331,12 +331,18 @@ https://api.vthanhtivi.pw/v2/getlink/cliptv/838/chunklist_b5128000.m3u8
 
 
 #--*.*--QUỐC TẾ--*.*--#
-#EXTINF:-1 tvg-id="hbohd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/njX4CRM/hbo.png", HBO
-#EXTVLCOPT:http-user-agent="KIIP"
-https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/tYz6CDB/cinemax.png", CINEMAX
-#EXTVLCOPT:http-user-agent="KIIP"
-https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc Tế",HBO HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"31KBtiW1d8faokKdHuMgSA","kid":"No41ImtgMgW9p1lLt8fUKw"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
+https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Quốc Tế", CINEMAX HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"SvzpN9oe+qvcTUIob2Apng","kid":"s+0NzC3+PAeW5e9jkrPu3A"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
+https://sglive.akamaized.net/msky-live/live_kplus/max.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="mtvhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/sVZQNy8/MTV-VN.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/mtv_1500.stream/chunks_dvr_range-${start}-10800.m3u8, MTV
 https://cdn-hk-33.cloudrsst.com/live/mtv_540/playlist.m3u8
 #EXTINF:0 tvg-id="dmaxhd"group-title="Quốc Tế" tvg-logo="https://i.ibb.co/FYF7fSj/DMAX.jpg",DMAX
