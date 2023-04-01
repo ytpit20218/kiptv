@@ -403,16 +403,13 @@ https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="blueantent" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/L5yHTzj/Rock-Entertainment.png" ,Rock Entertainment
 #EXTVLCOPT:http-user-agent="KIIP"
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="blueantext" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/1Qd6pxW/Rock-Extreme.png" ,Rock Extreme
+http://yurend.com/dens/dr9445/h/h16/01.m3u8
+#EXTINF:0 tvg-id="blueantext" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/1Qd6pxW/Rock-Extreme.png" ,Rock Action
 #EXTVLCOPT:http-user-agent="KIIP"
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+http://yurend.com/dens/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/j3wTynz/National-Geographic.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="ngwhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/HgYTRT6/Nat-Geo-Wild.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Nat Geo Wild HD
-#EXTVLCOPT:http-user-agent="KIIP"
-https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8?kiptv
 #EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/XZStWVN/Discovery.png" , Discovery Channel
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
@@ -446,16 +443,7 @@ https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/VpnQj5h/Channel-News-Asia.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://logo.yurend.net/06.knowledge/natgeo.png" group-title="KNOWLEDGE",NATGEO
-https://vision.yurendtv.biz.id/https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://maxtream.yurendtv.biz.id/license-proxy-widevine/cenc/?specConform=true
 #EXTINF:-1 tvg-id="713" tvg-logo="https://i.ibb.co/XtC0cwN/744316-Paramount-xanh-fix.png" group-title="Quốc Tế",PARAMOUNT NETWORK
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/C5Gq4ky/1f6e441382a388940977fd9e165178c42fe0c193.png" group-title="Quốc Tế" , THRILL (Không dành cho người yếu tim)
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
