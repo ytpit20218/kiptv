@@ -24,30 +24,12 @@ https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
 
 #--*.*--VTHANHTIVI--*.*--#
-#EXTINF:-1 tvg-id="vtv2hd" group-title="WORLD CUP 2022 - VThanhTivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
-http://live.vthanhtivi.pw/vtv2
 #EXTINF:-1 tvg-id="vtv3hd" group-title="WORLD CUP 2022 - VThanhTivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 http://live.vthanhtivi.pw/vtv3
 #EXTINF:-1 tvg-id="vtv5hd" group-title="WORLD CUP 2022 - VThanhTivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 http://live.vthanhtivi.pw/vtv5
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="WORLD CUP 2022 - VThanhTivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
-http://live.vthanhtivi.pw/vtv5tnb
 #EXTINF:-1 tvg-id="vtv6hd" group-title="WORLD CUP 2022 - VThanhTivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
 http://live.vthanhtivi.pw/vtvct
-
-
-
-
-#--*.*--KÊNH JUNGO--*.*--#
-#EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/r43YQN8/image-removebg-preview.png" tvg-id="", A8 ESPORT
-
-#EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/s3zD2WC/image.png" tvg-id="", Screamflix (Không dành cho người yếu tim)
-
-#EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/8PVdVc1/image.png" tvg-id="", Toro TV
-
-#EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/YcccLY7/image.png" tvg-id="", Cinemundo Pinoy
-
-#EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/hFQyPbG/image.png" tvg-id="", Black Belt
 
 
 
@@ -94,12 +76,10 @@ https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtv9/index.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/1RxT5jp/VTV5-TNB.png",VTV5 Tây Nam Bộ
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/index.m3u8
-#EXTINF:0 tvg-id="vtv5hdtnb"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/1RxT5jp/VTV5-TNB.png",VTV5 Tây Nam Bộ Luồng 2
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/9nXs3CK/VTV5-tay-nguyen.png" ,VTV5 Tây Nguyên
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/index.m3u8
+https://code.vthanhtivi.pw/getlink/vtv/vtv5tn/playlist.m3u8
 
 
 
@@ -300,9 +280,6 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/s1/index.m3u8?kiptv|Referer
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.ibb.co/HrxfSw7/Phim-Tong-Hop-SD.png", SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent="KIIP"
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8?kiptv|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="btv5" group-title="SCTV" tvg-logo="https://i.ibb.co/m8BT0gW/68-ad4ad421.jpg", BTV5
-#EXTVLCOPT:http-user-agent="KIIP"
-https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 
 
 
@@ -497,10 +474,10 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8?kiptv|Referer=http:
 #EXTINF:0 tvg-id="vvtvcab5hd"group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/7N1QbFJ/VTVCAB5.png",VTVCab5 - E Channel
 #EXTVLCOPT:http-user-agent="KIIP"
 https:///e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8?kiptv|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/fYLLz18/ONSPORTPLUS.png", VTVcab6 - ON SPORTS + HD|
-https://code.vthanhtivi.pw/getlink/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab  - KIPTV" tvg-logo="https://i.ibb.co/fYLLz18/ONSPORTPLUS.png", VTVcab6 - ON SPORTS + HD
+http://code.vthanhtivi.pw/getlink/onplus/HAY_TV/m401_index.m3u8
 #EXTINF:-1 tvg-id="" group-title="VTVCab  - KIPTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONSPORTSNEWS_150x904.jpg",ON SPORTS NEWS
-https://code.vthanhtivi.pw/getlink/vieon2/987374ca-de49-4612-a159-b71f7880d134/playlist.m3u8
+http://code.vthanhtivi.pw/getlink/onplus/THETHAO_TINTUC_HD/m401_index.m3u8
 #EXTINF:0 tvg-id="vtvcab8hd"group-title="VTVCab  - KIPTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ONBibiChuan-011.jpg",VTVCab 8 - ON BIBI
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livevlive.vtvcab.vn/hls/BIBI_CL/sc-gaFEAA/m20_index.m3u8
@@ -537,7 +514,7 @@ https://hqth.me/treng63
 #EXTINF:-1 group-title="VTVCab  - KIPTV" tvg-logo="https://imgonsport.vtvcab.vn/image-upload/19717a3c-6ae7-412d-8dc8-9a5b50a4f4dd.jpg", ON Volleyball
 https://hqth.me/trenbongchuyen
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVCab  - KIPTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ee/ON_Golf_-_Premium_by_VTVcab_logo_08-09-2021.png/revision/latest?cb=20211025032442&path-prefix=vi", ON Golf
-https://code.vthanhtivi.pw/getlink/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/playlist.m3u8
+http://code.vthanhtivi.pw/getlink/onplus/THETHAO_GOLF_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="" group-title="VTVCab  - KIPTV" tvg-logo="https://stvinaprod.vtvcab.vn/720x405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg", BTV5 - ON Sports Action
 https://code.vthanhtivi.pw/getlink/onplus/BTV5/m30_index.m3u8
 
@@ -548,9 +525,6 @@ https://code.vthanhtivi.pw/getlink/onplus/BTV5/m30_index.m3u8
 #EXTINF:0 tvg-id=""group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/SNrSCj6/323478-Logo-Dong-thap-2.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/dongthaphd_2000.stream/chunks_dvr_range-${start}-10800.m3u8", Đồng Tháp 2 - Miền Tây
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id=""group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/rFGPKFL/qh-logo-color.png", Quê Hương Homeshopping 
-#EXTVLCOPT:http-user-agent="KIIP"
-https://livecdn.fptplay.net/sdb/quehuongshop_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/KhfdJDs/THVL1-HD.png" tvg-chno="41" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDEtNzIwcCIsImV4cCI6MTYzMjA1NzkzOX0.ZjZ3z2_rhWMYzMCmJp3paek9drRsC67UM4uJupr9bVs-/thvl1-720p/chunks_dvr_range-${start}-900.m3u8",Vĩnh Long 1 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
@@ -804,26 +778,8 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 
 
 #--*.*--KÊNH THỂ THAO--*.*--#
-#EXTINF: 0 tvg-id="" group-title="THỂ THAO" tvg-logo="https://cdn.golfnews.vn/bundles/cmnindex/images/GolfNews_Logo_black.png?v2899", Golf News
-https://88404bbd1d.vws.vegacdn.vn/live/_definst_/stream_1_ca762/chunklist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/jkwTXJp/REDBULL.png" group-title="THỂ THAO", REDBULL TV
-https://ch.iptvmate.net/5e936d2385f3fc57ac516fc3.m3u8
-#http://51.91.73.99:25461/poland/EvFUcE2WMB/16354
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="THỂ THAO",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-country="AE" tvg-logo="" group-title="THỂ THAO",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/QfZqryD/SCTV-Logo-svg.png" group-title="THỂ THAO" , SCTV HD INDONESIA 2
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/QfZqryD/SCTV-Logo-svg.png" group-title="THỂ THAO" , List thể thao nay đã chuyển sang KIPTV Sport: http://hqth.me/kiptvs
 http://210.210.155.35/qwr9ew/s/s03/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="THỂ THAO",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/pL3U5HdFD0k/maxresdefault.jpg" group-title="KÊNH THỂ THAO",DUBAI SPORTS 1
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvtvtv.ru/logos/dubai_sports_2.png" group-title="KÊNH THỂ THAO",DUBAI SPORTS 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvtvtv.ru/logos/dubai_sports_3.png" group-title="KÊNH THỂ THAO",DUBAI SPORTS 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-
 
 
 
@@ -883,13 +839,14 @@ https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m
 
 #--*.*--KÊNH RADIO--*.*--#
 #EXTINF:-1 tvg-id="ON 365 FM" tvg-logo="https://i.ibb.co/wQKQ2RQ/Kh-ng-c-ti-u-removebg-preview.png" group-title="RADIO" , PLADIO
+#EXTVLCOPT:http-user-agent=
 https://vips-livecdn.fptplay.net/hda3/pladio_vhls.smil/chunklist_b5000000.m3u8?cc
 #EXTINF:-1 tvg-id="VOV FM 99.9MHz" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-99.9-MHz.jpg" group-title="RADIO" , VOV FM 99.9MHz
-http://125.212.213.71:1935/live/channel3/playlist.m3u8
+https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 #EXTINF:-1 tvg-id="VOV FM 95.6MHz" tvg-logo="https://marketingreview.vn/wp-content/uploads/2019/01/VOH-95.6-Mhz.jpg" group-title="RADIO" , VOV FM 95.6MHz
-http://125.212.213.71:1935/live/channel1/playlist.m3u8
+https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="VOH FM 87.7MHz" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/xnbldewtc2zh.jpg" group-title="RADIO" , VOH FM 87.7MHz
-http://125.212.213.71:1935/live/channel5/playlist.m3u8
+https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 #EXTINF:-1 tvg-id="BẮC GIANG" tvg-logo="https://topsvn.com/images/truyenhinh/radio-bac-giang.png" group-title="RADIO" , BẮC GIANG
 https://live.bacgiangtv.vn/bgtvlive/radio.m3u8
 #EXTINF:-1 tvg-id="BẮC KẠN" tvg-logo="https://3ssoft.vn/sites/default/files/backantv-logo.jpg" group-title="RADIO" , BẮC KẠN
@@ -1048,9 +1005,3 @@ https://hqth.me/onlive8
 https://hqth.me/onlive9
 #EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 10
 https://hqth.me/onlive10
-
-
-
-
-#--*.*--KẸO--*.*--#
-
