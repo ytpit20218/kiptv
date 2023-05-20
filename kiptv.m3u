@@ -93,11 +93,10 @@ https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/zxWsfLk/HTV7.png" group-title="HTV - KIPTV" tvg-chno="29" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/9e4c1bcff9fbfc9480f7cbbfed485cba1632397465/htv7.cat.720p.tms/chunks_dvr_range-${start}-2400.m3u8",HTV7 HD
 #EXTVLCOPT:http-user-agent="KIIP"
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+https://tinyurl.com/htv7kiptv
 #EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/r2LgsYR/HTV9.png" group-title="HTV - KIPTV" tvg-chno="30" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/cb40af69a22267aa9177c35ee0a30ec81632397465/htv9.cat.720p.tms/chunks_dvr_range-${start}-5400.m3u8",HTV9 HD
 #EXTVLCOPT:http-user-agent="KIIP"
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
-
+https://tinyurl.com/htv9hd
 
 
 
