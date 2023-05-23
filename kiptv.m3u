@@ -963,22 +963,61 @@ https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 
 #--*.*--Kênh Sự Kiện ON--*.*--#
 #EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 1
-https://hqth.me/onlive1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv1
+https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT1/manifest.mpd
+
 #EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 2
-https://hqth.me/onlive2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv2
+https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT2/manifest.mpd
+
 #EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 3
-https://hqth.me/onlive3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv3
+https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT3/manifest.mpd
+
 #EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 4
-https://hqth.me/onlive4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv4
+https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT4/manifest.mpd
+
 #EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 5
-https://hqth.me/onlive5
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv5
+https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT5/manifest.mpd
+
 #EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 6
-https://hqth.me/onlive6
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv6
+https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT6/manifest.mpd
+
 #EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 7
-https://hqth.me/onlive7
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv7
+https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT7/manifest.mpd
+
 #EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 8
-https://hqth.me/onlive8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv8
+https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT8/manifest.mpd
+
 #EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 9
-https://hqth.me/onlive9
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv9
+https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT9/manifest.mpd
+
 #EXTINF:0 group-title="ON Sự Kiện" tvg-logo="https://i.ibb.co/4WQtzWT/image.png", ON 10
-https://hqth.me/onlive10
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-1vstv10
+https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT10/manifest.mpd
