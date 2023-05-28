@@ -288,6 +288,9 @@ https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In The Box
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://106bec9d8.vws.vegacdn.vn/cgDX4-FP1b61lz7ZOydjNA/1684765439/cliptv_live/amlst:intheboxhd/chunklist_b5128000.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/Jrs5Vq2/Inthe-Box-Channel-150x901j1.png", In The Box test cliptv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://tiemnhazunn.click/cliptv/inthebox.php
 
 
 
