@@ -20,6 +20,11 @@ https://live-zlr1.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
 https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
 
+#EXTINF:-1 group-title="FA Cup Chung Kết" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/55/FA_Cup_2020.png", FA Cup MYTV
+http://20.205.40.33:2252/live/facup
+#EXTINF:-1 group-title="FA Cup Chung Kết" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/55/FA_Cup_2020.png", FA Cup Ép pi ti (VThanhTivi)
+http://live.vthanhtivi.pw/facup-vthanhtivi
+
 
 
 #--*.*--VTV--*.*--# 
