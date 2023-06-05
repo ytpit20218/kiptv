@@ -349,8 +349,11 @@ https://subs-livecdn.fptplay.net/mskychannel/babytvhd_4000.stream/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/history.php
 https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
 #EXTINF:0 tvg-id="Baby TV HD" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/KrdzC6y/CBeebies.png",Cbeebies
-#EXTVLCOPT:http-user-agent="KIIP"
-https://code.vthanhtivi.pw/getlink/mytv/525/hd.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/vieon/cbeebies.php
+https://tiemnhazunn.click/vieon/vieonquocte.php?id=cbeebies
 
 #EXTINF:0 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png",Animax
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -373,7 +376,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/vieon/cinemaworld.php
-https://tiemnhazunn.click/vieon/cinemaworld.php
+https://tiemnhazunn.click/vieon/vieonquocte.php?id=cinema-world
 
 
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/V9zPbXz/Da-Vinci.png" tvg-name="Da Vinci (HD)"  group-title="Quốc Tế",Da Vinci HD
