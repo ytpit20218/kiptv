@@ -335,7 +335,7 @@ https://s7773.cdn.mytvnet.vn/pkg20/live_dzones/boomerang.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/pJcF0Ym/Cartoon-Network.png", Cartoon network
 #EXTVLCOPT:http-user-agent="KIIP"
-https://e4.endpoint.cdn.sctvonline.vn/hls/cartoonnetwork/sd2/index.m3u8|Referer=http://sctvonline.vn
+https://e6.endpoint.cdn.sctvonline.vn/live_dzones/cn.smil/playlist.m3u8?kiptv|Referer=http://sctvonline.vn
 
 #EXTINF:0 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/cNQpbGr/Baby-TV.png",Baby TV
 #EXTVLCOPT:http-user-agent="KIIP"
@@ -419,7 +419,7 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/j5jJptz/bbcworldnews-cc.png", BBC News
 #EXTVLCOPT:http-user-agent=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/bbc/index.m3u8?kiptv|Referer=http://sctvonline.vn/
+https://e6.endpoint.cdn.sctvonline.vn/live_dzones/bbcworldnews.smil/playlist.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/SNWQSqq/KBS-World.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KBS World
 #EXTVLCOPT:http-user-agent="KIIP"
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
