@@ -356,7 +356,7 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/vieon/cbeebies.php
-https://tiemnhazunn.click/vieon/vieonquocte.php?id=cbeebiesR
+https://tiemnhazunn.click/vieon/vieonquocte.php?id=cbeebies
 
 #EXTINF:0 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png",Animax
 #KODIPROP:inputstream.adaptive.manifest_type=dash
