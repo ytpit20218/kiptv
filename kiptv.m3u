@@ -6,62 +6,6 @@ https://hqth.me/gioithieukiptv
 http://jackmavietnam.ga/live/testyt
 
 
-#EXTINF:-1 tvg-id="sktt1" group-title="🍭 | FPT Lìve (MyK+)" tvg-logo="http://cdn.hqth.me/logo/thumbs/267.png", SỰ KIỆN THỂ THAO 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/sktt1.php
-https://sglivevega.kplus.vn/bpk-tv/prod_ucl1/default/index.mpd
-#EXTINF:-1 tvg-id="sktt2" group-title="🍭 | FPT Lìve (MyK+)" tvg-logo="http://cdn.hqth.me/logo/thumbs/268.png", SỰ KIỆN THỂ THAO 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/sktt2.php
-https://sglivevega.kplus.vn/bpk-tv/prod_ucl2/default/index.mpd
-#EXTINF:-1 tvg-id="sktt3" group-title="🍭 | FPT Lìve (MyK+)" tvg-logo="http://cdn.hqth.me/logo/thumbs/269.png", SỰ KIỆN THỂ THAO 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/sktt3.php
-https://sglivevega.kplus.vn/bpk-tv/prod_ucl3/default/index.mpd
-#EXTINF:-1 tvg-id="sktt4" group-title="🍭 | FPT Lìve (MyK+)" tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_thumbnail/UCL%202.jpg&06042023&w=1280&h=720&orientation=landscape", SỰ KIỆN THỂ THAO 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/sktt4.php
-https://sglivevega.kplus.vn/bpk-tv/prod_ucl4/default/index.mpd
-#EXTINF:-1 tvg-id="sktt4" group-title="🍭 | FPT Lìve (MyK+)" tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_thumbnail/UCL%202.jpg&06042023&w=1280&h=720&orientation=landscape", SỰ KIỆN THỂ THAO 5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/sktt5.php
-https://sglivevega.kplus.vn/bpk-tv/prod_ucl5/default/index.mpd
-#EXTINF:-1 tvg-id="sktt4" group-title="🍭 | FPT Lìve (MyK+)" tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_thumbnail/UCL%202.jpg&06042023&w=1280&h=720&orientation=landscape", SỰ KIỆN THỂ THAO 6
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/maicacong/sktt6.php
-https://sglivevega.kplus.vn/bpk-tv/prod_ucl6/default/index.mpd
-
-#EXTINF:-1 tvg-id="sktt4" group-title="C1 Chung Kết" tvg-logo="https://editorial.uefa.com/resources/0281-180965debd92-11f8cd48ab83-1000/mcint.jpeg", Chung Kết C1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/eppitipolay/c1.php
-https://live-drm.fptplay.net/manifest/thethao39/master.mpd
-
-#EXTINF:-1 tvg-id="sktt4" group-title="C1 Chung Kết" tvg-logo="https://editorial.uefa.com/resources/0281-180965debd92-11f8cd48ab83-1000/mcint.jpeg", Chung Kết C1 Link 2
-http://0.tcp.ap.ngrok.io:17281/live/c1
-
-#EXTINF:-1 group-title="C1 4K By cvmtv - TIVIMATE/OTT NAVIGATOR ONLY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",UCL FINAL 4K UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cvmtv.site/mpd/?id=bein4k&key=1
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-https://malay.yurendtv.biz.id/dash-wv/linear/1601/default_primary.mpd
-
-#EXTINF:-1 tvg-id="sktt4" group-title="C1 Chung Kết" tvg-logo="https://editorial.uefa.com/resources/0281-180965debd92-11f8cd48ab83-1000/mcint.jpeg", Chung Kết C1 Link
-http://0.tcp.ap.ngrok.io:17281/live/c1luong2
-
 #--*.*--AFC U20--*.*--#
 #EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png", TV360+ 1
 http://live-ali2.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
