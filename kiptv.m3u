@@ -387,10 +387,10 @@ https://s7769.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="blueantent" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/L5yHTzj/Rock-Entertainment.png" ,Rock Entertainment
 #EXTVLCOPT:http-user-agent="KIIP"
-http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+http://210.210.155.37/dr9445/h/h16/index.m3u8
 #EXTINF:0 tvg-id="blueantext" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/1Qd6pxW/Rock-Extreme.png" ,Rock Action
 #EXTVLCOPT:http-user-agent="KIIP"
-http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/j3wTynz/National-Geographic.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic HD
 
@@ -483,9 +483,15 @@ https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HGTV_2010.png" group-title="Quốc Tế", HGTV
 https://tiemnhazunn.click/tv360/tv360.php?id=99
 #EXTINF:0 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Quốc Tế", Celestial Classic Movies
-http://210.210.155.35/qwr9ew/s/s31/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://nxanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies
-http://210.210.155.37/dr9445/h/h14/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://nxanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
 #EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Quốc Tế", Clubbingtv
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/4IkIBkIFApQMYml2sW7XAV21mye06E_X5HssA-WsCRYBHIxWP5BQFzq79t0P5T8MrVs" group-title="Quốc Tế", Filmbox
