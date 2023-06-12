@@ -481,7 +481,7 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Quốc Tế",HITS
 https://code.vthanhtivi.pw/getlink/mytv/515/hd.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HGTV_2010.png" group-title="Quốc Tế", HGTV
-https://code.vthanhtivi.pw/getlink/tv360/99/2.m3u8
+https://tiemnhazunn.click/tv360/tv360.php?id=99
 #EXTINF:0 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Quốc Tế", Celestial Classic Movies
 http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies
@@ -607,8 +607,7 @@ https://livevlive.vtvcab.vn/ONVOLLEYBALL/m30_index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/ongolf.php
 #EXTINF:-1 tvg-id="" group-title="VTVCab  - KIPTV" tvg-logo="https://stvinaprod.vtvcab.vn/720x405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg", BTV5 - ON Sports Action
-https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
-
+https://tiemnhazunn.click/tv360/tv360.php?id=2380
 
 
 
@@ -651,7 +650,7 @@ https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="HANOITV 1" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/syY6gFH/HANOI1-TV.png",Hà Nội 1 HD
 https://zva42xy9rlliv.vcdn.cloud/hntv_events2/index.m3u8
 #EXTINF:-1 tvg-id="HANOITV 2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/drnqrwY/HANOI2-TV.png",Hà Nội 2 HD
-https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
+https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/playlist.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/5vH055L/BPTV1.png", Bình Phước 1
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:0 tvg-id="binhphuoc2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Kw1hwBH/BPTV2-Home-TV.png", Bình Phước 2 - HOME TV
