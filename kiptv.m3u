@@ -337,11 +337,10 @@ https://subs-livecdn.fptplay.net/mskychannel/babytvhd_4000.stream/manifest.mpd
 https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
 
 #EXTINF:0 tvg-id="Baby TV HD" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/KrdzC6y/CBeebies.png",Cbeebies
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/vieon/cbeebies.php
-https://tiemnhazunn.click/vieon/vieonquocte.php?id=cbeebies
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=525
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png",Animax
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -358,13 +357,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/animalplanet/index.m3u8?kiptv|Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=523
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/f90Rs0F/CMW.png", Cinema World VieON
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/vieon/cinemaworld.php
-https://tiemnhazunn.click/vieon/vieonquocte.php?id=cinema-world
 
 
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/V9zPbXz/Da-Vinci.png" tvg-name="Da Vinci (HD)"  group-title="Quốc Tế",Da Vinci HD
@@ -391,20 +383,10 @@ http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 
 #EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/XZStWVN/Discovery.png" , Discovery Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/vieon/discoverychannel.php
-https://tiemnhazunn.click/vieon/vieonquocte.php?id=discovery-channel
-
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/tB64XG7/Discovery-Asia-BEARTV.png", Discovery Asia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/vieon/discoveryasia.php
-https://tiemnhazunn.click/vieon/diasia.php
-
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
 
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/x3hpmQ9/Outdoor-Channel.png" , Outdoor Channel
 #EXTVLCOPT:http-user-agent="KIIP"
@@ -430,11 +412,10 @@ https://106d4d2f4.vws.vegacdn.vn/live_dzones/bbcworldnews.smil/manifest.mpd
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ABC Australia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/vieon/abcaustralia.php
-https://tiemnhazunn.click/vieon/vieonquocte.php?id=abc-australia
+#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=598
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/3SRxHXv/BBC-Earth.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
 #KODIPROP:inputstream.adaptive.manifest_type=dash
