@@ -285,7 +285,7 @@ https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/vieon/cinemax.php
-https://sglive.akamaized.net/msky-live/live_kplus/cinemax.smil/manifest.mpd
+https://hbolive.kplus.vn/msky-live/live_kplus/max.smil/manifest.mpd
 
 
 #EXTINF:0 tvg-id="dmaxhd"group-title="Quốc Tế" tvg-logo="https://i.ibb.co/FYF7fSj/DMAX.jpg",DMAX
@@ -335,7 +335,7 @@ https://subs-livecdn.fptplay.net/mskychannel/babytvhd_4000.stream/manifest.mpd
 #EXTINF:0 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://www.historyplay.tv/images/logo.png?_v=1.5.90",History
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/history.php
-https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
+https://sglivecdn.kplus.vn/bpk-tv/prod_history/default/index.mpd?maxrate=3000000
 
 #EXTINF:0 tvg-id="Baby TV HD" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/KrdzC6y/CBeebies.png",Cbeebies
 #KODIPROP:inputstream.adaptive.manifest_type=dash
