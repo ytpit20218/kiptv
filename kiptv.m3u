@@ -282,10 +282,6 @@ https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
 https://sglive.akamaized.net/msky-live/live_kplus/hbo.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Quốc Tế", CINEMAX HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/cinemax.php
-#https://hbolive.kplus.vn/msky-live/live_kplus/max.smil/manifest.mpd
 http://live.vthanhtivi.pw/cinemax
 
 
@@ -307,13 +303,13 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd
 #EXTINF:0 tvg-id="AXN" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/vHCtNmb/AXN.png" ,AXN HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=590
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/axn.php
 https://s7772.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/88LPqCy/WB.png",Warner TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=597
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/warnertv.php
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 
 #EXTINF:0 group-title="Quốc Tế" tvg-logo="https://i.ibb.co/QYVd38q/kix.png", KIX HD
@@ -328,11 +324,7 @@ http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
 http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
 
 #EXTINF:0 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/cNQpbGr/Baby-TV.png",Baby TV
-#EXTVLCOPT:http-user-agent="KIIP"
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/fpt/?id=babytv-hd
-https://subs-livecdn.fptplay.net/mskychannel/babytvhd_4000.stream/manifest.mpd
+
 
 #EXTINF:0 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://www.historyplay.tv/images/logo.png?_v=1.5.90",History
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -409,7 +401,7 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/bbcnews.php
-https://106d4d2f4.vws.vegacdn.vn/live_dzones/bbcworldnews.smil/manifest.mpd
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/SNWQSqq/KBS-World.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KBS World
 #EXTVLCOPT:http-user-agent="KIIP"
