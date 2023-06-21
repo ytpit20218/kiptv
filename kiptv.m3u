@@ -781,7 +781,7 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="NHẬT BẢN", TBS TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qXMPvG/atx.png" group-title="NHẬT BẢN", AT-X
-http://rip.hidari.moe/get/jptv/get.php?id=X4_3qVMPUBpZMqO_hX4vBw==
+http://0.tcp.jp.ngrok.io:14633/AT-X/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1sjP7F3/1200px-Fuji-TV-logo-svg.png" group-title="NHẬT BẢN", FUJI TV
 http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rHqrQSM/weathernewjapan.jpg" group-title="NHẬT BẢN", WEATHER NEWS JAPAN
