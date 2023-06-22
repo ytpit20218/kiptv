@@ -770,59 +770,244 @@ http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
 
 
 #--*.*--KÊNH NHẬT BẢN--*.*--#
-#EXTINF:-1 tvg-id="NHK World" tvg-logo="https://i.ibb.co/VgzG5PT/NHKW.png" group-title="NHẬT BẢN",NHK WORLD JAPAN
-#EXTVLCOPT:http-user-agent=KIPTV
-https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QNpg3xc/TV-Asahi.png" group-title="NHẬT BẢN", TV Asahi
-http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qRdGbVC/NIPPONTV.png" group-title="NHẬT BẢN", Nippon TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
-#https://ntv3.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MpzYqxS/TBS.png" group-title="NHẬT BẢN", TBS TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0qXMPvG/atx.png" group-title="NHẬT BẢN", AT-X
-http://0.tcp.jp.ngrok.io:14633/AT-X/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1sjP7F3/1200px-Fuji-TV-logo-svg.png" group-title="NHẬT BẢN", FUJI TV
-http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rHqrQSM/weathernewjapan.jpg" group-title="NHẬT BẢN", WEATHER NEWS JAPAN
-http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMtFPHZ/jp-shop-channe-5122.jpg" group-title="NHẬT BẢN", SHOP CHANNEL JAPAN
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s1D82Bq/TV-Tokyo.png" group-title="NHẬT BẢN",TV Tokyo
-https://cdn-us-186.cloudrsst.com/live/kanto_tv_tokyo_1080/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RhJVKbM/NHK-BS1.png" group-title="NHẬT BẢN",NHK BS1
-http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PMXCLsP/1200px-NHK-General-TV-logo-svg.png" group-title="NHẬT BẢN",NHK G
-http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CWVVV89/1-200-GGP3023-W.png" group-title="NHẬT BẢN",NHK E
-http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDQKZGR/E4c594f6-3687-40d8-b8b7-af85a0378c97-removebg.png" group-title="NHẬT BẢN", WOW WOW Cinema
-https://cdn-us-186.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MhJQL0c/kisspng-logo-nhk-bs-premium-nhk-bs-2-nhk-bs1-bs-logo-www-galleryhip-com-the-hippest-pics-5bfac98cb7a.jpg" group-title="NHẬT BẢN",NHK BSP
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/zpi6mQ3.png" group-title="NHẬT BẢN",Animax
-http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/2560px-2019_Disney_Channel_logo.svg.png" group-title="NHẬT BẢN",Disney Channel
-http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="NHẬT BẢN",Disney Junior
-https://cdnv148.cloudrsst.com/jptv/disney_junior/playlist.m3u8
-#EXTINF:-1 tvg-id="=" tvg-name="Tokyo MX1" tvg-country="JP" tvg-language="Japanese" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="NHẬT BẢN",Tokyo MX1
-http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
-#EXTINF:-1 tvg-id="KidsStation.jp" tvg-logo="https://static.wikia.nocookie.net/pokemon/images/7/79/Kids_Station.png/revision/latest?cb=20200321032417" ,Kids Station
-https://cdn-us-186.cloudrsst.com:443/live/jkids_720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="NHẬT BẢN",Disney Junior
-https://cdn-hk-33.cloudrsst.com/live/disney_junior/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/abc_logo.png" group-title="NHẬT BẢN", 6ABC
-https://cdn.th11.jpnettv.live:443/live/kansi_abc_asahi_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-j-sports-1-1717.png" group-title="NHẬT BẢN", J Sport 1
-http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png" group-title="NHẬT BẢN", J Sport 2
-https://cdnul194.cloudrsst.com/live/jsports2_720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/sVZQNy8/MTV-VN.png" group-title="NHẬT BẢN", MTV Japan
-https://cdn-hk-33.cloudrsst.com/live/mtv_540/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-2019-11-12-1443463.png/revision/latest?cb=20200215064659" group-title="NHẬT BẢN", Wowow Live
-https://cdn-us-186.cloudrsst.com/live/wowlive_720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.wowowplus.jp/parts/common/img/logo_sp.png?1130" group-title="NHẬT BẢN", Wowow Plus
-https://cdn-us-186.cloudrsst.com/live/cinefil_wowow_720/playlist.m3u8
+#EXTINF:-1 group-title="Japan TV" tvg-id="28" tvg-logo="https://www.asahi.co.jp/img/gtop/facebook_ogp.png", ABC TV
+https://tiemnhazunn.click/japantv/?id=28
+#EXTINF:-1 group-title="Japan TV" tvg-id="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png", FASHION TV
+https://tiemnhazunn.click/japantv/?id=103
+#EXTINF:-1 group-title="Japan TV" tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", FUJI TV
+https://tiemnhazunn.click/japantv/?id=12
+#EXTINF:-1 group-title="Japan TV" tvg-id="20" tvg-logo="https://www.ktv.jp/en/assets/img/common/footer_logo.png", KANSAI TV
+https://tiemnhazunn.click/japantv/?id=20
+#EXTINF:-1 group-title="Japan TV" tvg-id="116" tvg-logo="https://tinyurl.com/bdf5em9r", KBS KYOTO
+https://tiemnhazunn.click/japantv/?id=116
+#EXTINF:-1 group-title="Japan TV" tvg-id="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/640px-Mainichi_Broadcasting_System_logo.svg.png", MBS Mainichi Broadcasting
+https://tiemnhazunn.click/japantv/?id=18
+#EXTINF:-1 group-title="Japan TV" tvg-id="322" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/1200px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png", NHK Education OSAKA
+https://tiemnhazunn.click/japantv/?id=322
+#EXTINF:-1 group-title="Japan TV" tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/1200px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png", NHK Educational TV
+https://tiemnhazunn.click/japantv/?id=3
+#EXTINF:-1 group-title="Japan TV" tvg-id="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/1200px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png", NHK General Kyoto
+https://tiemnhazunn.click/japantv/?id=321
+#EXTINF:-1 group-title="Japan TV" tvg-id="25" tvg-logo="https://tinyurl.com/5n866ary", NHK Osaka
+https://tiemnhazunn.click/japantv/?id=25
+#EXTINF:-1 group-title="Japan TV" tvg-id="14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2560px-NHK_logo.svg.png", NHK TV 1 Tokyo
+https://tiemnhazunn.click/japantv/?id=14
+#EXTINF:-1 group-title="Japan TV" tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1200px-Nippon_TV_logo_2014.svg.png", Nippon TV
+https://tiemnhazunn.click/japantv/?id=4
+#EXTINF:-1 group-title="Japan TV" tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png", Sun TV
+https://tiemnhazunn.click/japantv/?id=23
+#EXTINF:-1 group-title="Japan TV" tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
+https://tiemnhazunn.click/japantv/?id=5
+#EXTINF:-1 group-title="Japan TV" tvg-id="17" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/client/program_image/1/app_default.png", TOKYO MX1
+https://tiemnhazunn.click/japantv/?id=17
+#EXTINF:-1 group-title="Japan TV" tvg-id="9" tvg-logo="https://www.xhzb.tw/uploads/allimg/19/1-1Z2201J1390-L.jpg", TOKYO MX2
+https://tiemnhazunn.click/japantv/?id=9
+#EXTINF:-1 group-title="Japan TV" tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png", TV Asahi
+https://tiemnhazunn.click/japantv/?id=9
+#EXTINF:-1 group-title="Japan TV" tvg-id="22" tvg-logo="https://tinyurl.com/39zc7b7t", TV Osaka
+https://tiemnhazunn.click/japantv/?id=22
+#EXTINF:-1 group-title="Japan TV" tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo
+https://tiemnhazunn.click/japantv/?id=8
+#EXTINF:-1 group-title="Japan TV" tvg-id="100" tvg-logo="https://global.weathernews.com/wp-content/themes/custom-thema/images/common/logo.svg", Weather News
+https://tiemnhazunn.click/japantv/?id=100
+#EXTINF:-1 group-title="Japan TV" tvg-id="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/1200px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV
+https://tiemnhazunn.click/japantv/?id=21
+#EXTINF:-1 group-title="Japan TV" tvg-id="35" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg", BS Asahi
+https://tiemnhazunn.click/japantv/?id=35
+#EXTINF:-1 group-title="Japan TV" tvg-id="98" tvg-logo="https://tinyurl.com/c9mc9xm7", BS Fishing
+https://tiemnhazunn.click/japantv/?id=98
+#EXTINF:-1 group-title="Japan TV" tvg-id="38" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji
+https://tiemnhazunn.click/japantv/?id=38
+#EXTINF:-1 group-title="Japan TV" tvg-id="117" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BS-Japanext.svg/revision/latest?cb=20220327032955", BS Japanext
+https://tiemnhazunn.click/japantv/?id=117
+#EXTINF:-1 group-title="Japan TV" tvg-id="44" tvg-logo="https://www.bs4.jp/assets/images/meta/ogp.png", BS NTV
+https://tiemnhazunn.click/japantv/?id=44
+#EXTINF:-1 group-title="Japan TV" tvg-id="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/BS_Shochiku_Tokyu_logo.jpg?20230427131830", BS Shochiku Tokyu
+https://tiemnhazunn.click/japantv/?id=125
+#EXTINF:-1 group-title="Japan TV" tvg-id="36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png", BS TBS
+https://tiemnhazunn.click/japantv/?id=36
+#EXTINF:-1 group-title="Japan TV" tvg-id="37" tvg-logo="https://www.tv-tokyo.co.jp/images/facebook_icon.jpg", BS TV Tokyo
+https://tiemnhazunn.click/japantv/?id=37
+#EXTINF:-1 group-title="Japan TV" tvg-id="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/BS-Yoshimoto.svg/revision/latest?cb=20220315152056", BS Yoshimoto
+https://tiemnhazunn.click/japantv/?id=108
+#EXTINF:-1 group-title="Japan TV" tvg-id="157" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/1200px-BS11_logo.svg.png", BS11
+https://tiemnhazunn.click/japantv/?id=157
+#EXTINF:-1 group-title="Japan TV" tvg-id="114" tvg-logo="https://www.twellv.co.jp/assets/common/img/ogp.jpg", BS12 TwellV
+https://tiemnhazunn.click/japantv/?id=114
+#EXTINF:-1 group-title="Japan TV" tvg-id="140" tvg-logo="https://tinyurl.com/2szxntcd", Dance Channel
+https://tiemnhazunn.click/japantv/?id=140
+#EXTINF:-1 group-title="Japan TV" tvg-id="60" tvg-logo="https://tinyurl.com/mu3u9fcx", Green
+https://tiemnhazunn.click/japantv/?id=60
+#EXTINF:-1 group-title="Japan TV" tvg-id="110" tvg-logo="https://tinyurl.com/4tkn85ec", Gunma TV
+https://tiemnhazunn.click/japantv/?id=110
+#EXTINF:-1 group-title="Japan TV" tvg-id="33" tvg-logo="https://tinyurl.com/y4yjxvya", NHK BS Premium
+https://tiemnhazunn.click/japantv/?id=33
+#EXTINF:-1 group-title="Japan TV" tvg-id="32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1
+https://tiemnhazunn.click/japantv/?id=32
+#EXTINF:-1 group-title="Japan TV" tvg-id="163" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NHK_BS4K_logo_2020.png/800px-NHK_BS4K_logo_2020.png", NHK BS4K
+https://tiemnhazunn.click/japantv/?id=163
+#EXTINF:-1 group-title="Japan TV" tvg-id="138" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TABI_Channel.svg/revision/latest?cb=20151205150819", TABI Channel
+https://tiemnhazunn.click/japantv/?id=138
+#EXTINF:-1 group-title="Japan TV" tvg-id="139" tvg-logo="https://www.accs.or.jp/wordpress/wp-content/uploads/2021/07/samurai_bnr.jpg", Fighting TV Samurai
+https://tiemnhazunn.click/japantv/?id=139
+#EXTINF:-1 group-title="Japan TV" tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2560px-GAORA_SPORTS_logo.svg.png", GAORA Sports
+https://tiemnhazunn.click/japantv/?id=1
+#EXTINF:-1 group-title="Japan TV" tvg-id="67" tvg-logo="https://tinyurl.com/2p89enzt", Golf
+https://tiemnhazunn.click/japantv/?id=67
+#EXTINF:-1 group-title="Japan TV" tvg-id="68" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png", J Sports 1
+https://tiemnhazunn.click/japantv/?id=68
+#EXTINF:-1 group-title="Japan TV" tvg-id="69" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/758.png", J Sports 2
+https://tiemnhazunn.click/japantv/?id=69
+#EXTINF:-1 group-title="Japan TV" tvg-id="70" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png", J Sports 3
+https://tiemnhazunn.click/japantv/?id=70
+#EXTINF:-1 group-title="Japan TV" tvg-id="71" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png", J Sports 4
+https://tiemnhazunn.click/japantv/?id=71
+#EXTINF:-1 group-title="Japan TV" tvg-id="90" tvg-logo="https://tinyurl.com/3a4xp4ts", Nippon Telesitas
+https://tiemnhazunn.click/japantv/?id=90
+#EXTINF:-1 group-title="Japan TV" tvg-id="72" tvg-logo="https://tinyurl.com/2dtxr6tj", Sky A
+https://tiemnhazunn.click/japantv/?id=72
+#EXTINF:-1 group-title="Japan TV" tvg-id="150" tvg-logo="https://tinyurl.com/bda877eu", Sports Live Plus
+https://tiemnhazunn.click/japantv/?id=150
+#EXTINF:-1 group-title="Japan TV" tvg-id="323" tvg-logo="https://www.mystery.co.jp/assets/images/meta/ogp.png", AXN Mystery
+https://tiemnhazunn.click/japantv/?id=323
+#EXTINF:-1 group-title="Japan TV" tvg-id="137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png", AXN Japan
+https://tiemnhazunn.click/japantv/?id=137
+#EXTINF:-1 group-title="Japan TV" tvg-id="84" tvg-logo="https://i.imgur.com/iNwIAso.png", Eisei Gekijo
+https://tiemnhazunn.click/japantv/?id=84
+#EXTINF:-1 group-title="Japan TV" tvg-id="87" tvg-logo="https://tinyurl.com/3e5a2556", Family Theater
+https://tiemnhazunn.click/japantv/?id=87
+#EXTINF:-1 group-title="Japan TV" tvg-id="95" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/2560px-FOX_wordmark.svg.png", FOX
+https://tiemnhazunn.click/japantv/?id=95
+#EXTINF:-1 group-title="Japan TV" tvg-id="124" tvg-logo="https://tinyurl.com/mr3x3nfk", Galaxy
+https://tiemnhazunn.click/japantv/?id=124
+#EXTINF:-1 group-title="Japan TV" tvg-id="88" tvg-logo="https://tinyurl.com/43h7pwv7", Historical Drama
+https://tiemnhazunn.click/japantv/?id=88
+#EXTINF:-1 group-title="Japan TV" tvg-id="86" tvg-logo="https://tinyurl.com/mhbatvfs", Home Drama
+https://tiemnhazunn.click/japantv/?id=86
+#EXTINF:-1 group-title="Japan TV" tvg-id="57" tvg-logo="https://tinyurl.com/4dbyj7ym", Igasenmon
+https://tiemnhazunn.click/japantv/?id=57
+#EXTINF:-1 group-title="Japan TV" tvg-id="235" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png", KBS World
+https://tiemnhazunn.click/japantv/?id=235
+#EXTINF:-1 group-title="Japan TV" tvg-id="132" tvg-logo="https://www.lala.tv/assets/images/common/ogp.jpg", LaLaTV
+https://tiemnhazunn.click/japantv/?id=132
+#EXTINF:-1 group-title="Japan TV" tvg-id="73" tvg-logo="https://tinyurl.com/2p8ssann", Movie Plus
+https://tiemnhazunn.click/japantv/?id=73
+#EXTINF:-1 group-title="Japan TV" tvg-id="83" tvg-logo="https://tinyurl.com/2ztvfh38", Neco
+https://tiemnhazunn.click/japantv/?id=83
+#EXTINF:-1 group-title="Japan TV" tvg-id="52" tvg-logo="https://tinyurl.com/yc8m36vu", Star 1
+https://tiemnhazunn.click/japantv/?id=52
+#EXTINF:-1 group-title="Japan TV" tvg-id="53" tvg-logo="https://tinyurl.com/bdfwey35", Star 2
+https://tiemnhazunn.click/japantv/?id=53
+#EXTINF:-1 group-title="Japan TV" tvg-id="54" tvg-logo="https://tinyurl.com/3cnvadda", Star 3
+https://tiemnhazunn.click/japantv/?id=54
+#EXTINF:-1 group-title="Japan TV" tvg-id="133" tvg-logo="https://www.superdramatv.com/assets/img/thums_default.jpg", Super! drama TV
+https://tiemnhazunn.click/japantv/?id=133
+#EXTINF:-1 group-title="Japan TV" tvg-id="141" tvg-logo="https://tinyurl.com/2p9sj9z8", The Cinema
+https://tiemnhazunn.click/japantv/?id=141
+#EXTINF:-1 group-title="Japan TV" tvg-id="85" tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/408/1020750.jpg", Toei Channel
+https://tiemnhazunn.click/japantv/?id=85
+#EXTINF:-1 group-title="Japan TV" tvg-id="41" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/E4c594f6-3687-40d8-b8b7-af85a0378c97.png/revision/latest?cb=20200215065013", Wowow Cinema
+https://tiemnhazunn.click/japantv/?id=41
+#EXTINF:-1 group-title="Japan TV" tvg-id="40" tvg-logo="https://image-proxy.wowow.co.jp/uploads/attachment/file/43303/6f9795e0-7713-439e-af43-04809c98c867.png?w=800&h=800", Wowow Live
+https://tiemnhazunn.click/japantv/?id=40
+#EXTINF:-1 group-title="Japan TV" tvg-id="55" tvg-logo="https://www.wowowplus.jp/parts/common/img/logo_sp.png?1130", WOWOW plus
+https://tiemnhazunn.click/japantv/?id=55
+#EXTINF:-1 group-title="Japan TV" tvg-id="39" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest?cb=20200215064334", Wowow Prime
+https://tiemnhazunn.click/japantv/?id=39
+#EXTINF:-1 group-title="Japan TV" tvg-id="135" tvg-logo="https://tinyurl.com/ynaerbxp", Kayo Pops
+https://tiemnhazunn.click/japantv/?id=135
+#EXTINF:-1 group-title="Japan TV" tvg-id="74" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png", MTV
+https://tiemnhazunn.click/japantv/?id=74
+#EXTINF:-1 group-title="Japan TV" tvg-id="149" tvg-logo="https://tinyurl.com/27sxwsse", Music Air
+https://tiemnhazunn.click/japantv/?id=149
+#EXTINF:-1 group-title="Japan TV" tvg-id="156" tvg-logo="https://tinyurl.com/3vu3zj94", music japan
+https://tiemnhazunn.click/japantv/?id=156
+#EXTINF:-1 group-title="Japan TV" tvg-id="131" tvg-logo="https://www.m-on.jp/special/images/logo_mon.jpg", Music On TV
+https://tiemnhazunn.click/japantv/?id=131
+#EXTINF:-1 group-title="Japan TV" tvg-id="236" tvg-logo="https://static.wikia.nocookie.net/fishmans/images/7/73/Sstv.jpg", Space Shower TV
+https://tiemnhazunn.click/japantv/?id=236
+#EXTINF:-1 group-title="Japan TV" tvg-id="155" tvg-logo="https://www.spaceshowertvplus.com/images/header/siteid.png", Space Shower TV Plus
+https://tiemnhazunn.click/japantv/?id=155
+#EXTINF:-1 group-title="Japan TV" tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/800px-AT-X_logo.svg.png", Anime Theater X
+https://tiemnhazunn.click/japantv/?id=107
+#EXTINF:-1 group-title="Japan TV" tvg-id="105" tvg-logo="https://tinyurl.com/nhky2et4", Anime TV
+https://tiemnhazunn.click/japantv/?id=105
+#EXTINF:-1 group-title="Japan TV" tvg-id="109" tvg-logo="https://i0.wp.com/ciptv.org/img/Anime-Zone-TV.png?fit=750%2C422", Anime Zone
+https://tiemnhazunn.click/japantv/?id=109
+#EXTINF:-1 group-title="Japan TV" tvg-id="113" tvg-logo="https://animeinasia.files.wordpress.com/2017/04/aniplus.png", ANIPLUS AISA
+https://tiemnhazunn.click/japantv/?id=113
+#EXTINF:-1 group-title="Japan TV" tvg-id="56" tvg-logo="https://www.animax.co.jp/assets/img/common/ogp.png", BS Animax
+https://tiemnhazunn.click/japantv/?id=56
+#EXTINF:-1 group-title="Japan TV" tvg-id="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", Cartoon Network
+https://tiemnhazunn.click/japantv/?id=82
+#EXTINF:-1 group-title="Japan TV" tvg-id="58" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png", Disney Channel
+https://tiemnhazunn.click/japantv/?id=58
+#EXTINF:-1 group-title="Japan TV" tvg-id="89" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Disney_Junior.svg", Disney Junior
+https://tiemnhazunn.click/japantv/?id=89
+#EXTINF:-1 group-title="Japan TV" tvg-id="81" tvg-logo="https://static.wikia.nocookie.net/pokemon/images/7/79/Kids_Station.png", Kids Station
+https://tiemnhazunn.click/japantv/?id=81
+#EXTINF:-1 group-title="Japan TV" tvg-id="336" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/800px-ZooMoo_logo.svg.png", Zoomoo
+https://tiemnhazunn.click/japantv/?id=336
+#EXTINF:-1 group-title="Japan TV" tvg-id="76" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg", Animal Planet
+https://tiemnhazunn.click/japantv/?id=76
+#EXTINF:-1 group-title="Japan TV" tvg-id="99" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/2/2b/Discovery-Channel.svg/2560px-Discovery-Channel.svg.png", Discovery Channel
+https://tiemnhazunn.click/japantv/?id=99
+#EXTINF:-1 group-title="Japan TV" tvg-id="75" tvg-logo="https://i.natgeofe.com/n/4da26b5c-18ee-413f-96dd-4cf3fb4a68a0/2fl-white.png", National Geographic
+https://tiemnhazunn.click/japantv/?id=75
+#EXTINF:-1 group-title="Japan TV" tvg-id="309" tvg-logo="https://tinyurl.com/yvbxdzmf", The History Channel Japan
+https://tiemnhazunn.click/japantv/?id=309
+#EXTINF:-1 group-title="Japan TV" tvg-id="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/1200px-ANN_logo.svg.png", ANNnewsCH
+https://tiemnhazunn.click/japantv/?id=24
+#EXTINF:-1 group-title="Japan TV" tvg-id="97" tvg-logo="https://tinyurl.com/yn88j79f", BBC NEWS
+https://tiemnhazunn.click/japantv/?id=97
+#EXTINF:-1 group-title="Japan TV" tvg-id="96" tvg-logo="https://tinyurl.com/792r5j2h", CNN
+https://tiemnhazunn.click/japantv/?id=96
+#EXTINF:-1 group-title="Japan TV" tvg-id="315" tvg-logo="https://tinyurl.com/mwwdv36y", CNNJ
+https://tiemnhazunn.click/japantv/?id=315
+#EXTINF:-1 group-title="Japan TV" tvg-id="162" tvg-logo="https://tinyurl.com/4fftxh8n", HTB news
+https://tiemnhazunn.click/japantv/?id=162
+#EXTINF:-1 group-title="Japan TV" tvg-id="104" tvg-logo="https://tinyurl.com/49y4phf3", NHK World
+https://tiemnhazunn.click/japantv/?id=104
+#EXTINF:-1 group-title="Japan TV" tvg-id="233" tvg-logo="https://tinyurl.com/4xpzy3n7", TBS News
+https://tiemnhazunn.click/japantv/?id=233
+#EXTINF:-1 group-title="Japan TV" tvg-id="115" tvg-logo="https://tinyurl.com/285mdrbx", GSTV
+https://tiemnhazunn.click/japantv/?id=115
+#EXTINF:-1 group-title="Japan TV" tvg-id="102" tvg-logo="https://tinyurl.com/e4a94xha", QVC
+https://tiemnhazunn.click/japantv/?id=102
+#EXTINF:-1 group-title="Japan TV" tvg-id="101" tvg-logo="https://tinyurl.com/4bzcvbk4", Shop Channel
+https://tiemnhazunn.click/japantv/?id=101
+#EXTINF:-1 group-title="Japan TV" tvg-id="308" tvg-logo="https://tinyurl.com/y7vw2fs7", EntermeiTele
+https://tiemnhazunn.click/japantv/?id=308
+#EXTINF:-1 group-title="Japan TV" tvg-id="148" tvg-logo="https://tinyurl.com/3u8hzk4f", Fuji TV Next
+https://tiemnhazunn.click/japantv/?id=148
+#EXTINF:-1 group-title="Japan TV" tvg-id="146" tvg-logo="https://tinyurl.com/h25ep9xx", Fuji TV One
+https://tiemnhazunn.click/japantv/?id=146
+#EXTINF:-1 group-title="Japan TV" tvg-id="147" tvg-logo="https://tinyurl.com/3jtmne46", Fuji TV Two
+https://tiemnhazunn.click/japantv/?id=147
+#EXTINF:-1 group-title="Japan TV" tvg-id="143" tvg-logo="https://tinyurl.com/5ct9apx4", MONDO TV
+https://tiemnhazunn.click/japantv/?id=143
+#EXTINF:-1 group-title="Japan TV" tvg-id="237" tvg-logo="https://tinyurl.com/5h7pec48", NittelePlus
+https://tiemnhazunn.click/japantv/?id=237
+#EXTINF:-1 group-title="Japan TV" tvg-id="112" tvg-logo="https://tinyurl.com/yc85fhr6", NTV News 24
+https://tiemnhazunn.click/japantv/?id=112
+#EXTINF:-1 group-title="Japan TV" tvg-id="234" tvg-logo="https://tinyurl.com/46c8z4fp", Pigoo
+https://tiemnhazunn.click/japantv/?id=234
+#EXTINF:-1 group-title="Japan TV" tvg-id="136" tvg-logo="https://tinyurl.com/5525tzzj", SHOGI CHANNEL
+https://tiemnhazunn.click/japantv/?id=136
+#EXTINF:-1 group-title="Japan TV" tvg-id="142" tvg-logo="https://tinyurl.com/3mpsh4vz", Takarazuka Sky Stage
+https://tiemnhazunn.click/japantv/?id=142
+#EXTINF:-1 group-title="Japan TV" tvg-id="144" tvg-logo="https://tinyurl.com/5m6fckuf", TBS Channel 1
+https://tiemnhazunn.click/japantv/?id=144
+#EXTINF:-1 group-title="Japan TV" tvg-id="145" tvg-logo="https://tinyurl.com/yc7k7ybv", TBS Channel 2
+https://tiemnhazunn.click/japantv/?id=145
+#EXTINF:-1 group-title="Japan TV" tvg-id="158" tvg-logo="https://tinyurl.com/5e35m94d", Tetsudo channel jp
+https://tiemnhazunn.click/japantv/?id=158
+#EXTINF:-1 group-title="Japan TV" tvg-id="160" tvg-logo="https://tinyurl.com/yatd9vxh", TV Asahi Channel 1
+https://tiemnhazunn.click/japantv/?id=160
+#EXTINF:-1 group-title="Japan TV" tvg-id="161" tvg-logo="https://tinyurl.com/2p8zxy6d", TV Asahi Channel 2
+https://tiemnhazunn.click/japantv/?id=161
+#EXTINF:-1 group-title="Japan TV" tvg-id="325" tvg-logo="https://tinyurl.com/yf4jda3y", Centimeters Per Second
+https://tiemnhazunn.click/japantv/?id=325
 
 
 
