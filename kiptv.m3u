@@ -768,14 +768,15 @@ http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
 
 #--*.*--KÊNH NHẬT BẢN--*.*--#
 #EXTINF:-1 tvg-id="NHK World" tvg-logo="https://i.ibb.co/VgzG5PT/NHKW.png" group-title="Japan TV",NHK WORLD JAPAN
-#EXTVLCOPT:http-user-agent=KIPTV
-https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+http://203.162.235.41:13092/
 #EXTINF:-1 group-title="Japan TV" tvg-id="28" tvg-logo="https://www.asahi.co.jp/img/gtop/facebook_ogp.png", ABC TV
 https://tiemnhazunn.click/japantv/?id=28
 #EXTINF:-1 group-title="Japan TV" tvg-id="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png", FASHION TV
 https://tiemnhazunn.click/japantv/?id=103
 #EXTINF:-1 group-title="Japan TV" tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", FUJI TV
 https://tiemnhazunn.click/japantv/?id=12
+#EXTINF:-1 group-title="Japan TV" tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", FUJI TV Luồng 2
+http://203.162.235.41:15094/
 #EXTINF:-1 group-title="Japan TV" tvg-id="20" tvg-logo="https://www.ktv.jp/en/assets/img/common/footer_logo.png", KANSAI TV
 https://tiemnhazunn.click/japantv/?id=20
 #EXTINF:-1 group-title="Japan TV" tvg-id="116" tvg-logo="https://tinyurl.com/bdf5em9r", KBS KYOTO
@@ -792,42 +793,63 @@ https://tiemnhazunn.click/japantv/?id=321
 https://tiemnhazunn.click/japantv/?id=25
 #EXTINF:-1 group-title="Japan TV" tvg-id="14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2560px-NHK_logo.svg.png", NHK TV 1 Tokyo
 https://tiemnhazunn.click/japantv/?id=14
-#EXTINF:-1 group-title="Japan TV" tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1200px-Nippon_TV_logo_2014.svg.png", Nippon TV
+#EXTINF:-1 group-title="Japan TV" tvg-id="14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2560px-NHK_logo.svg.png", NHK
+http://203.162.235.41:12091/
+#EXTINF:-1 group-title="Japan TV" tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5
+
 https://tiemnhazunn.click/japantv/?id=4
+#EXTINF:-1 group-title="Japan TV" tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1200px-Nippon_TV_logo_2014.svg.png", Nippon TV Luồng 2
+http://203.162.235.41:16095/
 #EXTINF:-1 group-title="Japan TV" tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png", Sun TV
 https://tiemnhazunn.click/japantv/?id=23
 #EXTINF:-1 group-title="Japan TV" tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
 https://tiemnhazunn.click/japantv/?id=5
+#EXTINF:-1 group-title="Japan TV" tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS Luồng 2
+http://203.162.235.41:18097
 #EXTINF:-1 group-title="Japan TV" tvg-id="17" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/client/program_image/1/app_default.png", TOKYO MX1
 https://tiemnhazunn.click/japantv/?id=17
 #EXTINF:-1 group-title="Japan TV" tvg-id="9" tvg-logo="https://www.xhzb.tw/uploads/allimg/19/1-1Z2201J1390-L.jpg", TOKYO MX2
 https://tiemnhazunn.click/japantv/?id=9
 #EXTINF:-1 group-title="Japan TV" tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png", TV Asahi
 https://tiemnhazunn.click/japantv/?id=9
+#EXTINF:-1 group-title="Japan TV" tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png", TV Asahi Luồng 2
+http://203.162.235.41:17097/
 #EXTINF:-1 group-title="Japan TV" tvg-id="22" tvg-logo="https://tinyurl.com/39zc7b7t", TV Osaka
 https://tiemnhazunn.click/japantv/?id=22
 #EXTINF:-1 group-title="Japan TV" tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo
 https://tiemnhazunn.click/japantv/?id=8
+#EXTINF:-1 group-title="Japan TV" tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo Luồng 2
+http://203.162.235.41:19098/
 #EXTINF:-1 group-title="Japan TV" tvg-id="100" tvg-logo="https://global.weathernews.com/wp-content/themes/custom-thema/images/common/logo.svg", Weather News
 https://tiemnhazunn.click/japantv/?id=100
 #EXTINF:-1 group-title="Japan TV" tvg-id="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/1200px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV
 https://tiemnhazunn.click/japantv/?id=21
 #EXTINF:-1 group-title="Japan TV" tvg-id="35" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg", BS Asahi
 https://tiemnhazunn.click/japantv/?id=35
+#EXTINF:-1 group-title="Japan TV" tvg-id="35" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg", BS Asahi Luồng 2
+http://203.162.235.41:29108
 #EXTINF:-1 group-title="Japan TV" tvg-id="98" tvg-logo="https://tinyurl.com/c9mc9xm7", BS Fishing
 https://tiemnhazunn.click/japantv/?id=98
 #EXTINF:-1 group-title="Japan TV" tvg-id="38" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji
 https://tiemnhazunn.click/japantv/?id=38
+#EXTINF:-1 group-title="Japan TV" tvg-id="38" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji Luồng 2
+http://203.162.235.41:22101/
 #EXTINF:-1 group-title="Japan TV" tvg-id="117" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BS-Japanext.svg/revision/latest?cb=20220327032955", BS Japanext
 https://tiemnhazunn.click/japantv/?id=117
 #EXTINF:-1 group-title="Japan TV" tvg-id="44" tvg-logo="https://www.bs4.jp/assets/images/meta/ogp.png", BS NTV
 https://tiemnhazunn.click/japantv/?id=44
+#EXTINF:-1 group-title="Japan TV" tvg-id="44" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png", BS Nippon TV
+http://203.162.235.41:24103/
 #EXTINF:-1 group-title="Japan TV" tvg-id="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/BS_Shochiku_Tokyu_logo.jpg?20230427131830", BS Shochiku Tokyu
 https://tiemnhazunn.click/japantv/?id=125
 #EXTINF:-1 group-title="Japan TV" tvg-id="36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png", BS TBS
 https://tiemnhazunn.click/japantv/?id=36
+#EXTINF:-1 group-title="Japan TV" tvg-id="36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png", BS TBS Luồng 2
+http://203.162.235.41:26105/
 #EXTINF:-1 group-title="Japan TV" tvg-id="37" tvg-logo="https://www.tv-tokyo.co.jp/images/facebook_icon.jpg", BS TV Tokyo
 https://tiemnhazunn.click/japantv/?id=37
+#EXTINF:-1 group-title="Japan TV" tvg-id="37" tvg-logo="https://www.tv-tokyo.co.jp/images/facebook_icon.jpg", BS TV Tokyo Luồng 2
+http://203.162.235.41:23102/
 #EXTINF:-1 group-title="Japan TV" tvg-id="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/BS-Yoshimoto.svg/revision/latest?cb=20220315152056", BS Yoshimoto
 https://tiemnhazunn.click/japantv/?id=108
 #EXTINF:-1 group-title="Japan TV" tvg-id="157" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/1200px-BS11_logo.svg.png", BS11
@@ -842,8 +864,12 @@ https://tiemnhazunn.click/japantv/?id=60
 https://tiemnhazunn.click/japantv/?id=110
 #EXTINF:-1 group-title="Japan TV" tvg-id="33" tvg-logo="https://tinyurl.com/y4yjxvya", NHK BS Premium
 https://tiemnhazunn.click/japantv/?id=33
+#EXTINF:-1 group-title="Japan TV" tvg-id="33" tvg-logo="https://tinyurl.com/y4yjxvya", NHK BS Premium Luồng 2
+http://203.162.235.41:25104
 #EXTINF:-1 group-title="Japan TV" tvg-id="32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1
 https://tiemnhazunn.click/japantv/?id=32
+#EXTINF:-1 group-title="Japan TV" tvg-id="32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1 Luồng 2
+http://203.162.235.41:20099/
 #EXTINF:-1 group-title="Japan TV" tvg-id="163" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NHK_BS4K_logo_2020.png/800px-NHK_BS4K_logo_2020.png", NHK BS4K
 https://tiemnhazunn.click/japantv/?id=163
 #EXTINF:-1 group-title="Japan TV" tvg-id="138" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TABI_Channel.svg/revision/latest?cb=20151205150819", TABI Channel
@@ -854,6 +880,8 @@ https://tiemnhazunn.click/japantv/?id=139
 https://tiemnhazunn.click/japantv/?id=1
 #EXTINF:-1 group-title="Japan TV" tvg-id="67" tvg-logo="https://tinyurl.com/2p89enzt", Golf
 https://tiemnhazunn.click/japantv/?id=67
+#EXTINF:-1 group-title="Japan TV" tvg-id="67" tvg-logo="https://tinyurl.com/2p89enzt", Golf Luồng 2
+http://203.162.235.41:28107/
 #EXTINF:-1 group-title="Japan TV" tvg-id="68" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png", J Sports 1
 https://tiemnhazunn.click/japantv/?id=68
 #EXTINF:-1 group-title="Japan TV" tvg-id="69" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/758.png", J Sports 2
@@ -914,6 +942,8 @@ https://tiemnhazunn.click/japantv/?id=40
 https://tiemnhazunn.click/japantv/?id=55
 #EXTINF:-1 group-title="Japan TV" tvg-id="39" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest?cb=20200215064334", Wowow Prime
 https://tiemnhazunn.click/japantv/?id=39
+#EXTINF:-1 group-title="Japan TV" tvg-id="39" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest?cb=20200215064334", Wowow Prime Luồng 2
+http://203.162.235.41:27106/
 #EXTINF:-1 group-title="Japan TV" tvg-id="135" tvg-logo="https://tinyurl.com/ynaerbxp", Kayo Pops
 https://tiemnhazunn.click/japantv/?id=135
 #EXTINF:-1 group-title="Japan TV" tvg-id="74" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png", MTV
