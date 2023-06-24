@@ -362,10 +362,10 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/V9zPbXz/Da-Vinci.png" tvg-name="Da Vinci (HD)"  group-title="Quốc Tế",Da Vinci HD
 #EXTVLCOPT:http-user-agent="KIIP"
-https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/294/hd.m3u8
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://i.ibb.co/1XJfX2v/afn.png" group-title="Quốc Tế",Asian Food Network
 #EXTVLCOPT:http-user-agent="KIIP"
-https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+https://tiemnhazunn.click/tv360/tv360.php?id=215
 
 #EXTINF:-1 tvg-id="tlchd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5hZzB2C/TLC.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1500.stream/chunks_dvr_range-${start}-10800.m3u8, TLC
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -393,7 +393,7 @@ http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
 
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/x3hpmQ9/Outdoor-Channel.png" , Outdoor Channel
 #EXTVLCOPT:http-user-agent="KIIP"
-https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+https://tiemnhazunn.click/tv360/tv360.php?id=216
 #EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/HCsCfZC/Fashion-TV.png" , Fashion TV 4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/HCsCfZC/Fashion-TV.png" , Fashion TV HD
