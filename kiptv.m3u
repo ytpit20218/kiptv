@@ -59,7 +59,7 @@ https://tiemnhazunn.click/tv360/tv360.php?id=207
 #--*.*--HTV--*.*--#
 #EXTINF:-1 tvg-id="htv1" group-title="HTV - KIPTV" tvg-logo="https://i.ibb.co/VDGv7v9/HTV1.png", HTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tiemnhazunn.click/vieon/htv1.php
+https://tiemnhazunn.click/vieon/vieon.php?id=htv1
 #EXTINF:-1 tvg-id="htv2" group-title="HTV - KIPTV" tvg-logo="https://i.ibb.co/qjr8snB/HTV2.png" tvg-chno="25" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-3000.m3u8",HTV2 HD - Vie Channel
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV - KIPTV" tvg-logo="https://i.ibb.co/CzFQ4Zz/HTV3.png", HTV3
@@ -289,13 +289,13 @@ https://hqth.me/cinemax?/live=msky-live/live_kplus/max.smil/manifest.mpd
 
 
 #EXTINF:0 tvg-id="dmaxhd"group-title="Quốc Tế" tvg-logo="https://i.ibb.co/FYF7fSj/DMAX.jpg",DMAX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/dmax.php
 https://tiemnhazunn.click/vieon/vieonquocte.php?id=dmax
 
 #EXTINF:0 tvg-id="" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/zHS0N8N/Dream-Works.png",DreamWorks
-#EXTVLCOPT:http-user-agent="KIIP"
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/cliptv/dreamwork.php
