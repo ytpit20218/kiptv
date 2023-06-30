@@ -566,25 +566,13 @@ https://tiemnhazunn.click/cliptv/cliptv.php?id=on-trending
 #KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onvff
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVFFTV/manifest.mpd
 #EXTINF:-1 group-title="VTVCab  - KIPTV" tvg-logo="https://j03qukjhr2obj.vcdn.cloud/image-upload/a03f91ff-73ab-49ba-8882-580222d322b2.jpg", ON Golf Eng
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-ongolfeng1
-https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONGOLFTA/manifest.mpd
+https://liveh12.vtvcab.vn/hls/ONGOLFTA/03.m3u8
 #EXTINF:-1 tvg-id="" group-title="VTVCab  - KIPTV" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/13871247-f8b2-4aab-80e3-dbb859adf101.png", ON Sports ENG DRM
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportseng1
-https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORTTA/manifest.mpd
+https://liveh12.vtvcab.vn/hls/ONSPORTTA/03.m3u8
 #EXTINF:-1 tvg-id="" group-title="VTVCab  - KIPTV" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/f6818e24-6211-42c5-aad5-4846dd29ee99.png", ON Football ENG DRM
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportseng1
-https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORTTA/manifest.mpd
+https://liveh12.vtvcab.vn/hls/ONFOOTBALLTA/03.m3u8
 #EXTINF:-1 tvg-id="" group-title="VTVCab  - KIPTV" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/5de42a4a-a26a-4eab-afcc-c119c9f918bb.png", ON Sports News ENG DRM
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://code.vthanhtivi.pw/keys/onplus/?id=s2-onsportsnewseng1
-https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORTNEWSTA/manifest.mpd
+https://liveh12.vtvcab.vn/hls/ONSPORTNEWSTA/03.m3u8
 #EXTINF:-1 group-title="VTVCab  - KIPTV" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/72ac05ac-1ac3-4570-bb0b-ee698b251f0a.jpg", Thể thao Việt
 https://livevlive.vtvcab.vn/ONVOLLEYBALL/m30_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVCab  - KIPTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ee/ON_Golf_-_Premium_by_VTVcab_logo_08-09-2021.png/revision/latest?cb=20211025032442&path-prefix=vi", ON Golf
