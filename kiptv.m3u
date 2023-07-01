@@ -31,23 +31,20 @@ https://fbvip88.com/fptplay/getfpt.php?id=vtv3-hd
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
 http://live-ali4.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
-https://k4dzr60ab.vtvgiaitri.vn/vtv04/vtv04@1080p.m3u8
+https://fbvip88.com/fptplay/getfpt.php?id=vtv4-hd
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png",VTV5 HD 
 http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 #EXTINF:0 tvg-id="vtv6hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/zmKpWCv/vtv-can-tho-16650500344341813094040-removebg-preview.png",VTV Cần Thơ 
 https://hqth.me/vtv6360
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/J7FX52M/vtv7.png"  tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
 #EXTVLCOPT:http-user-agent="KIIP"
-https://k4dzr60ab.vtvgiaitri.vn/vtv07/vtv07@1080p.m3u8
-#https://nvzoftzsvflivcf.vcdn.com.vn/vtv7/index.m3u8
+https://fbvip88.com/fptplay/getfpt.php?id=vtv7-hd
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/vsQPSYQ/vtv8.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
 #EXTVLCOPT:http-user-agent="KIIP"
-https://k4dzr60ab.vtvgiaitri.vn/vtv08/vtv08@1080p.m3u8
-#https://nvzoftzsvflivcf.vcdn.com.vn/vtv8/index.m3u8
+https://fbvip88.com/fptplay/getfpt.php?id=vtv8-hd
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
 #EXTVLCOPT:http-user-agent="KIIP"
-https://k4dzr60ab.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
-#https://nvzoftzsvflivcf.vcdn.com.vn/vtv9/index.m3u8
+https://fbvip88.com/fptplay/getfpt.php?id=vtv9-hd
 #EXTINF:0 tvg-id="vtv5hdtnb"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/1RxT5jp/VTV5-TNB.png",VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://tiemnhazunn.click/tv360/tv360.php?id=157
