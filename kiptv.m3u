@@ -238,16 +238,20 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8?kiptv|R
 
 #--*.*--INTHEBOX--*.*--#
 #EXTINF:0 tvg-id="boxmovie1" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Box Movie 1
-http://0.tcp.ap.ngrok.io:13696/boxmovie1/index.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="hollywoodclassics" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/j5HcXvW/holywood.png",Hollywood Classics
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="drfithd" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/chBqNVp/dr-fit.png",DR.Fit
-http://0.tcp.ap.ngrok.io:13696/drfit/index.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="woman" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/k17TsNx/woman.png",Woman
-http://0.tcp.ap.ngrok.io:13696/woman/index.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="planetearthhd" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/8XXnNs0/planet-earth.png",Planet Earth
-http://0.tcp.ap.ngrok.io:13696/planetearth/index.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="musicbox" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/xYPTdNM/Music-Box.png",Music Box
 https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
 #EXTINF:0 tvg-id="happykids" group-title="INTHEBOX" tvg-logo="https://i.ibb.co/4Y4yxZq/Happy-Kids.png",Happy Kids
