@@ -6,7 +6,7 @@ https://hqth.me/gioithieukiptv
 http://jackmavietnam.ga/live/testyt
 
 
-#--*.*--AFC U20--*.*--#
+#--*.*--TV360 Event--*.*--#
 #EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png", TV360+ 1
 http://live-ali2.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
 #EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_480_270.png", TV360+ 2
@@ -15,6 +15,8 @@ https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 https://live-zlr1.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
 #EXTINF:-1 group-title="TV360 Event" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_480_270.png", TV360+ 4
 https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
+#EXTINF:-1 group-title="TV360 Event" tvg-logo="https://liquipedia.net/commons/images/thumb/c/ce/BLAST_Premier_Fall_Groups_lightmode.png/600px-BLAST_Premier_Fall_Groups_lightmode.png", BLAST Fall Groups 2023
+https://tiemnhazunn.click/tv360/tv360.php?id=9811
 
 
 
