@@ -364,7 +364,6 @@ http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
 
 
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/gjfHJCH/Animal-Planet.png",Animal Planet
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/animalplanet.php
