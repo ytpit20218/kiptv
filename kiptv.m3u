@@ -408,7 +408,10 @@ http://live.vthanhtivi.pw/ngw
 https://e6.endpoint.cdn.sctvonline.vn/live_dzones/dsc.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/tB64XG7/Discovery-Asia-BEARTV.png", Discovery Asia
-http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.3.4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/discoverychannel2.php
+https://e6.endpoint.cdn.sctvonline.vn/live_dzones/dscasia.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/x3hpmQ9/Outdoor-Channel.png" , Outdoor Channel
 #EXTVLCOPT:http-user-agent="KIIP"
