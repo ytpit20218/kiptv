@@ -18,6 +18,10 @@ http://103.9.211.134:8080/OSN/index.m3u8
 http://103.9.211.134:8080/vtc3/index.m3u8
 
 
+#--*.*--Youtube Event--*.*--#
+#EXTINF:-1 group-title="Youtube Event" tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png", 8wonder
+https://tiemnhazunn.click/youtube/youtubelive.php?id=tPGvRE6Gapo
+
 
 
 
