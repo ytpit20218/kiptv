@@ -19,9 +19,10 @@ http://103.9.211.134:8080/vtc3/index.m3u8
 
 
 #--*.*--Youtube Event--*.*--#
-#EXTINF:-1 group-title="Youtube Event" tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png", 8wonder
-https://tiemnhazunn.click/youtube/youtubelive.php?id=tPGvRE6Gapo
-
+#EXTINF:-1 group-title="Youtube Event" tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png", Samsung Galaxy Unpacked (Tiếng Anh)
+https://tiemnhazunn.click/youtube/youtubelive.php?id=_S_lWH6zK3k
+#EXTINF:-1 group-title="Youtube Event" tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png", Samsung Galaxy Unpacked (Tiếng Việt)
+https://tiemnhazunn.click/youtube/youtubelive.php?id=VlVY3mCJMts
 
 
 
