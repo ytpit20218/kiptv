@@ -359,7 +359,8 @@ http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
 #EXTINF:0 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://www.historyplay.tv/images/logo.png?_v=1.5.90",History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/history.php
-https://sglive.akamaized.net/bpk-tv/prod_history/default/index.mpd
+https://akaviettel.kplus.vn/bpk-tv/prod_history/default/index.mpd?maxrate=3000000
+
 
 #EXTINF:0 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://www.historyplay.tv/images/logo.png?_v=1.5.90",History Luồng 2
 http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
