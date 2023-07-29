@@ -212,6 +212,14 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8
 #EXTINF:-1 tvg-id="SCTV9hd" group-title="SCTV" tvg-logo="https://i.ibb.co/yn5t29y/sctv9.png", SCTV9
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
+
+#EXTINF:-1 tvg-id="SCTV9hd" group-title="SCTV" tvg-logo="https://i.ibb.co/yn5t29y/sctv9.png", SCTV9 DRM
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/hbo.php
+https://vegaviettel.kplus.vn/bpk-tv/prod_sctv9/default/index.mpd
+
 #EXTINF:-1 tvg-id="SCTV10hd" group-title="SCTV" tvg-logo="hhttps://i.ibb.co/G7j5tsg/sctv10.png", SCTV10
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8
