@@ -411,9 +411,11 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-id="ngchd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/j3wTynz/National-Geographic.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic HD
-http://live.vthanhtivi.pw/natgeo
+#http://live.vthanhtivi.pw/natgeo
+http://4.193.46.5:8080/ngc/index.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", Nat Geo Wild HD
-http://live.vthanhtivi.pw/ngw
+#http://live.vthanhtivi.pw/ngw
+http://4.193.46.5:8080/ngw/index.m3u8
 
 #EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/XZStWVN/Discovery.png" , Discovery Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.3.4
