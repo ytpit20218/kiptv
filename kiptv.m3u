@@ -17,6 +17,11 @@ http://128.199.214.24/OSN/mpegts
 
 #EXTINF:-1 tvg-id="" group-title="FA Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/55/FA_Cup_2020.png", FA CUP MYTV
 http://4.193.46.5:8080/facup/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="FA Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/55/FA_Cup_2020.png", FA CUP 2
+http://4.193.46.5:8080/facup2/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="FA Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/55/FA_Cup_2020.png", Giao Hữu MU
+http://4.193.46.5:8080/mu/index.m3u8
+
 
 #--*.*--Youtube Event--*.*--#
 #EXTINF:-1 group-title="Youtube Event" tvg-logo="https://www.youtube.com/img/desktop/yt_1200.png", Samsung Galaxy Unpacked (Tiếng Anh)
