@@ -15,12 +15,19 @@ http://103.9.211.134:8080/htvthethao/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="FIFA Women's World Cup 2023" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Logo_ONSPORTSNEWS_150x904.jpg", ON SPORTS NEWS độ trễ thấp
 http://128.199.214.24/OSN/mpegts
 
-#EXTINF:-1 tvg-id="" group-title="FA Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/55/FA_Cup_2020.png", FA CUP MYTV
-http://4.193.46.5:8080/facup/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="FA Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/55/FA_Cup_2020.png", FA CUP 2
-http://4.193.46.5:8080/facup2/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="FA Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/55/FA_Cup_2020.png", Giao Hữu MU
-http://4.193.46.5:8080/mu/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Giải VDQG Ả Râp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/1200px-Roshn_Saudi_League_Logo.svg.png", Al Ettifaq - Al Nassr (Vòng 1 - Giải VĐQG Ả Rập Xê Út 2023/24)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tiemnhazunn.click/vieon/vieonsukien.php?id=al-ettifaq-al-nassr-vong-1-giai-vdqg-a-rap-xe-ut-2023-24-
+#EXTINF:-1 tvg-id="" group-title="Giải VDQG Ả Râp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/1200px-Roshn_Saudi_League_Logo.svg.png", Al Nassr - Al Taawoun (Vòng 2 - Giải VĐQG Ả Rập Xê Út 2023/24)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tiemnhazunn.click/vieon/vieonsukien.php?id=al-nassr-al-taawoun-vong-2-giai-vdqg-a-rap-xe-ut-2023-24-
+#EXTINF:-1 tvg-id="" group-title="Giải VDQG Ả Râp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/1200px-Roshn_Saudi_League_Logo.svg.png", Al Hilal - Al Fayha (Vòng 2 - Giải VĐQG Ả Rập Xê Út 2023/24)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tiemnhazunn.click/vieon/vieonsukien.php?id=al-hilal-al-fayha-vong-2-giai-vdqg-a-rap-xe-ut-2023-24-
+#EXTINF:-1 tvg-id="" group-title="Giải VDQG Ả Râp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/1200px-Roshn_Saudi_League_Logo.svg.png", Al Ittihad - Al Tai (Vòng 2 - Giải VĐQG Ả Rập Xê Út 2023/24)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tiemnhazunn.click/vieon/vieonsukien.php?id=al-ittihad-al-tai-vong-2-giai-vdqg-a-rap-xe-ut-2023-24-
+
 
 
 #--*.*--Youtube Event--*.*--#
