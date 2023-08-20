@@ -374,12 +374,12 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTINF:0 tvg-id="kix" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/QYVd38q/kix.png", KIX HD
 https://arcgmoblie.site/fptplay/getfpt.php?id=kix
 
-#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/tMk0mJx/Boomerang.png",Boomerang
-http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
+#EXTINF:-1 tvg-id="boomerang" group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/Cartoonito_HD_2021.png/revision/latest/scale-to-width-down/998?cb=20230118063814&path-prefix=vi",Cartoonito HD
+http://live-vnp.vthanhtivi.pw:18001/BOOMERANG_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/pJcF0Ym/Cartoon-Network.png", Cartoon network
-http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
+http://live-vnp.vthanhtivi.pw:18001/CARTOON_NETWORK_HD/index.m3u8
 
 #EXTINF:0 tvg-id="babytvhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/cNQpbGr/Baby-TV.png",Baby TV
 
@@ -402,7 +402,7 @@ http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png",Animax
-http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
+http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
 
 
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/gjfHJCH/Animal-Planet.png",Animal Planet
@@ -439,11 +439,10 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-id="ngchd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/j3wTynz/National-Geographic.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", National Geographic HD
-#http://live.vthanhtivi.pw/natgeo
-http://4.193.46.5:8080/ngc/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/getlink/tvfree/natgeo/playlist.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/206.png", Nat Geo Wild HD
-#http://live.vthanhtivi.pw/ngw
-http://4.193.46.5:8080/ngw/index.m3u8
+http://live.vthanhtivi.pw/ngw
 
 #EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/XZStWVN/Discovery.png" , Discovery Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.3.4
