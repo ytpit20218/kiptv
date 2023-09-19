@@ -14,6 +14,10 @@ http://0.tcp.ap.ngrok.io:10841/3958/hls/playlist.m3u8
 http://0.tcp.ap.ngrok.io:10841/3960/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 1
 http://0.tcp.ap.ngrok.io:10841/4004/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png" group-title="Asiad 19 Live",beIN Sports MENA English 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://ddolahdplay.xyz/premiumtv/daddylivehd.php?id=90
+http://tiemnhazunn.click/daddylivehd/90/index.m3u8
 
 
 
