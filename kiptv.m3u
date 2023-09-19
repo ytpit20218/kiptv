@@ -15,7 +15,11 @@ http://0.tcp.ap.ngrok.io:10841/3960/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 1
 http://0.tcp.ap.ngrok.io:10841/4004/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", TV9 Mông Cổ
-https://cdn2.skygo.mn/live/disk1/TV9HD/HLS-FTA/TV9HD.m3u8
+http://20.2.70.178:1700/asiad19/tv9
+#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", PPTV 36
+http://20.2.70.178:1700/asiad19/pptv
+#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Bein Sport 2 Eng
+http://20.2.70.178:8080/beinsport2eng/index.m3u8
 
 
 
