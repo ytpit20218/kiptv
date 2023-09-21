@@ -29,12 +29,12 @@ http://20.2.70.178:1700/asiad19/tv9
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", PPTV 36
 http://20.2.70.178:1700/asiad19/pptv
 
-#EXTINF:-1 tvg-id="" group-title="AFC Champions League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0b/AFC_Champions_League_2008_logo.png", Hà Nội FC - Pohang Steelers
+#EXTINF:-1 tvg-id="" group-title="AFC Champions League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0b/AFC_Champions_League_2008_logo.png", Hải Phòng FC - PSM Makassar
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-16
-#EXTINF:-1 tvg-id="" group-title="AFC Champions League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0b/AFC_Champions_League_2008_logo.png", Hà Nội FC - Pohang Steelers Luồng 2
+https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-14
+#EXTINF:-1 tvg-id="" group-title="AFC Champions League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0b/AFC_Champions_League_2008_logo.png", Hải Phòng FC - PSM Makassar Luồng 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36
-https://tiemnhazunn.click/youtube/youtubelive.php?id=_TZjRktnVXg
+https://tiemnhazunn.click/youtube/youtubelive.php?id=IzoHJOi1KDI
 
 
 
