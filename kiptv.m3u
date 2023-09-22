@@ -881,7 +881,8 @@ https://tiemnhazunn.click/japantv/?id=103
 #EXTINF:-1 group-title="Japan TV" tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", FUJI TV
 https://tiemnhazunn.click/japantv/?id=12
 #EXTINF:-1 group-title="Japan TV" tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", FUJI TV Luồng 2
-http://203.162.235.41:15094/
+#EXTVLCOPT:http-user-agent="ExoMedia 4.3.0 (43000) / Android 9 / SM-G955N"
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=nope
 #EXTINF:-1 group-title="Japan TV" tvg-id="20" tvg-logo="https://www.ktv.jp/en/assets/img/common/footer_logo.png", KANSAI TV
 https://tiemnhazunn.click/japantv/?id=20
 #EXTINF:-1 group-title="Japan TV" tvg-id="116" tvg-logo="https://tinyurl.com/bdf5em9r", KBS KYOTO
@@ -901,10 +902,10 @@ https://tiemnhazunn.click/japantv/?id=14
 #EXTINF:-1 group-title="Japan TV" tvg-id="14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2560px-NHK_logo.svg.png", NHK
 http://203.162.235.41:12091/
 #EXTINF:-1 group-title="Japan TV" tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5
-
 https://tiemnhazunn.click/japantv/?id=4
 #EXTINF:-1 group-title="Japan TV" tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1200px-Nippon_TV_logo_2014.svg.png", Nippon TV Luồng 2
-http://203.162.235.41:16095/
+#EXTVLCOPT:http-user-agent="ExoMedia 4.3.0 (43000) / Android 9 / SM-G955N"
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=nope
 #EXTINF:-1 group-title="Japan TV" tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png", Sun TV
 https://tiemnhazunn.click/japantv/?id=23
 #EXTINF:-1 group-title="Japan TV" tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
