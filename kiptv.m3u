@@ -34,6 +34,8 @@ http://20.2.70.178:1700/asiad19/pptv
 http://1.85.0.62:808/hls/503/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", CCTV5 +
 https://iptv.luas.edu.cn/liverespath/7b02d30e42de3c0078c158ce81421accad3a8400/503cc020ac-0-0-1302b6eda0d18832e18611c25ddded2d/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", HOI TV
+https://d238cgug17vwpr.cloudfront.net/ch1/live.m3u8
 
 
 
