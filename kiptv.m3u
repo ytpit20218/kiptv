@@ -9,9 +9,11 @@ http://jackmavietnam.ga/live/testyt
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Channel 5 Mediacorp 
 http://0.tcp.ap.ngrok.io:19648/3999/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", RCTI
-http://0.tcp.ap.ngrok.io:19648/3958/hls/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://tiemnhazunn.click/rctikiptv/test.php?id=1
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", MNC TV
-http://0.tcp.ap.ngrok.io:19648/3960/hls/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://tiemnhazunn.click/rctikiptv/test.php?id=2
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 1
 http://0.tcp.ap.ngrok.io:19648/4006/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 2
