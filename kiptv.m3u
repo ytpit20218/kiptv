@@ -28,6 +28,13 @@ http://0.tcp.ap.ngrok.io:19648/4011/hls/playlist.m3u8
 http://20.2.70.178:1700/asiad19/tv9
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", PPTV 36
 http://20.2.70.178:1700/asiad19/pptv
+#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", CCTV5
+http://1.85.0.62:808/hls/503/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", CCTV5 +
+https://iptv.luas.edu.cn/liverespath/7b02d30e42de3c0078c158ce81421accad3a8400/503cc020ac-0-0-1302b6eda0d18832e18611c25ddded2d/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="" group-title="AFC Champions League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0b/AFC_Champions_League_2008_logo.png", Hải Phòng FC - PSM Makassar
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
