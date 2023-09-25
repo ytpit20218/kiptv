@@ -7,7 +7,7 @@ http://jackmavietnam.ga/live/testyt
 
 #--*.*--KIPTV ASIAD 19--*.*--#
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Channel 5 Mediacorp 
-http://0.tcp.ap.ngrok.io:19648/3999/hls/playlist.m3u8
+http://0.tcp.ap.ngrok.io:18755/3999/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://tiemnhazunn.click/rctikiptv/test.php?id=1
@@ -15,17 +15,17 @@ https://tiemnhazunn.click/rctikiptv/test.php?id=1
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://tiemnhazunn.click/rctikiptv/test.php?id=2
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 1
-http://0.tcp.ap.ngrok.io:19648/4006/hls/playlist.m3u8
+http://0.tcp.ap.ngrok.io:18755/4006/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 2
-http://0.tcp.ap.ngrok.io:19648/4007/hls/playlist.m3u8
+http://0.tcp.ap.ngrok.io:18755/4007/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 3
-http://0.tcp.ap.ngrok.io:19648/4009/hls/playlist.m3u8
+http://0.tcp.ap.ngrok.io:18755/4009/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 4
-http://0.tcp.ap.ngrok.io:19648/4004/hls/playlist.m3u8
+http://0.tcp.ap.ngrok.io:18755/4004/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 5
-http://0.tcp.ap.ngrok.io:19648/4010/hls/playlist.m3u8
+http://0.tcp.ap.ngrok.io:18755/4010/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 6
-http://0.tcp.ap.ngrok.io:19648/4011/hls/playlist.m3u8
+http://0.tcp.ap.ngrok.io:18755/4011/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", TV9 Mông Cổ
 http://20.2.70.178:1700/asiad19/tv9
 #EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", PPTV 36
