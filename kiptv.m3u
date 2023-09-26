@@ -886,278 +886,397 @@ http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w189583188.m3u8
 
 #--*.*--KÊNH NHẬT BẢN--*.*--#
 #EXTINF:-1 tvg-id="NHK World" tvg-logo="https://i.ibb.co/VgzG5PT/NHKW.png" group-title="Japan TV",NHK WORLD JAPAN
+#EXTVLCOPT:http-user-agent=ExoPlayer
 http://203.162.235.41:13092/
 #EXTINF:-1 group-title="Japan TV" tvg-id="28" tvg-logo="https://www.asahi.co.jp/img/gtop/facebook_ogp.png", ABC TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=28
 #EXTINF:-1 group-title="Japan TV" tvg-id="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/2560px-Fashion_TV_logo.svg.png", FASHION TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=103
 #EXTINF:-1 group-title="Japan TV" tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", FUJI TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=12
 #EXTINF:-1 group-title="Japan TV" tvg-id="12" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png", FUJI TV Luồng 2
 #EXTVLCOPT:http-user-agent="ExoMedia 4.3.0 (43000) / Android 9 / SM-G955N"
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=nope
 #EXTINF:-1 group-title="Japan TV" tvg-id="20" tvg-logo="https://www.ktv.jp/en/assets/img/common/footer_logo.png", KANSAI TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=20
 #EXTINF:-1 group-title="Japan TV" tvg-id="116" tvg-logo="https://tinyurl.com/bdf5em9r", KBS KYOTO
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=116
 #EXTINF:-1 group-title="Japan TV" tvg-id="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/640px-Mainichi_Broadcasting_System_logo.svg.png", MBS Mainichi Broadcasting
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=18
 #EXTINF:-1 group-title="Japan TV" tvg-id="322" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/1200px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png", NHK Education OSAKA
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=322
 #EXTINF:-1 group-title="Japan TV" tvg-id="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/1200px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg.png", NHK Educational TV
 https://tiemnhazunn.click/japantv/?id=3
 #EXTINF:-1 group-title="Japan TV" tvg-id="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg/1200px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.svg.png", NHK General Kyoto
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=321
 #EXTINF:-1 group-title="Japan TV" tvg-id="25" tvg-logo="https://tinyurl.com/5n866ary", NHK Osaka
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=25
 #EXTINF:-1 group-title="Japan TV" tvg-id="14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2560px-NHK_logo.svg.png", NHK TV 1 Tokyo
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=14
 #EXTINF:-1 group-title="Japan TV" tvg-id="14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo.svg/2560px-NHK_logo.svg.png", NHK
 http://203.162.235.41:12091/
 #EXTINF:-1 group-title="Japan TV" tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=4
 #EXTINF:-1 group-title="Japan TV" tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1200px-Nippon_TV_logo_2014.svg.png", Nippon TV Luồng 2
 #EXTVLCOPT:http-user-agent="ExoMedia 4.3.0 (43000) / Android 9 / SM-G955N"
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=nope
 #EXTINF:-1 group-title="Japan TV" tvg-id="23" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Sun_TV_logo.svg/1200px-Sun_TV_logo.svg.png", Sun TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=23
 #EXTINF:-1 group-title="Japan TV" tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=5
 #EXTINF:-1 group-title="Japan TV" tvg-id="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1200px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS Luồng 2
 http://203.162.235.41:18097
 #EXTINF:-1 group-title="Japan TV" tvg-id="17" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/client/program_image/1/app_default.png", TOKYO MX1
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=17
 #EXTINF:-1 group-title="Japan TV" tvg-id="17" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/client/program_image/1/app_default.png", TOKYO MX1 Luồng 2
 https://neetball.net/live/neet2.m3u8
 #EXTINF:-1 group-title="Japan TV" tvg-id="9" tvg-logo="https://www.xhzb.tw/uploads/allimg/19/1-1Z2201J1390-L.jpg", TOKYO MX2
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=9
 #EXTINF:-1 group-title="Japan TV" tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png", TV Asahi
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=7
 #EXTINF:-1 group-title="Japan TV" tvg-id="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png", TV Asahi Luồng 2
 http://203.162.235.41:17097/
 #EXTINF:-1 group-title="Japan TV" tvg-id="22" tvg-logo="https://tinyurl.com/39zc7b7t", TV Osaka
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=22
 #EXTINF:-1 group-title="Japan TV" tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=8
 #EXTINF:-1 group-title="Japan TV" tvg-id="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo Luồng 2
 http://203.162.235.41:19098/
 #EXTINF:-1 group-title="Japan TV" tvg-id="100" tvg-logo="https://global.weathernews.com/wp-content/themes/custom-thema/images/common/logo.svg", Weather News
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=100
 #EXTINF:-1 group-title="Japan TV" tvg-id="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/1200px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=21
 #EXTINF:-1 group-title="Japan TV" tvg-id="35" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg", BS Asahi
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=35
 #EXTINF:-1 group-title="Japan TV" tvg-id="35" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg", BS Asahi Luồng 2
 http://203.162.235.41:29108
 #EXTINF:-1 group-title="Japan TV" tvg-id="98" tvg-logo="https://tinyurl.com/c9mc9xm7", BS Fishing
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=98
 #EXTINF:-1 group-title="Japan TV" tvg-id="38" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=38
 #EXTINF:-1 group-title="Japan TV" tvg-id="38" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji Luồng 2
 http://203.162.235.41:22101/
 #EXTINF:-1 group-title="Japan TV" tvg-id="117" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BS-Japanext.svg/revision/latest?cb=20220327032955", BS Japanext
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=117
 #EXTINF:-1 group-title="Japan TV" tvg-id="44" tvg-logo="https://www.bs4.jp/assets/images/meta/ogp.png", BS NTV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=44
 #EXTINF:-1 group-title="Japan TV" tvg-id="44" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png", BS Nippon TV
 http://203.162.235.41:24103/
 #EXTINF:-1 group-title="Japan TV" tvg-id="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/BS_Shochiku_Tokyu_logo.jpg?20230427131830", BS Shochiku Tokyu
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=125
 #EXTINF:-1 group-title="Japan TV" tvg-id="36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png", BS TBS
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=36
 #EXTINF:-1 group-title="Japan TV" tvg-id="36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/2560px-BS-TBS_2020.svg.png", BS TBS Luồng 2
 http://203.162.235.41:26105/
 #EXTINF:-1 group-title="Japan TV" tvg-id="37" tvg-logo="https://www.tv-tokyo.co.jp/images/facebook_icon.jpg", BS TV Tokyo
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=37
 #EXTINF:-1 group-title="Japan TV" tvg-id="37" tvg-logo="https://www.tv-tokyo.co.jp/images/facebook_icon.jpg", BS TV Tokyo Luồng 2
 http://203.162.235.41:23102/
 #EXTINF:-1 group-title="Japan TV" tvg-id="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/BS-Yoshimoto.svg/revision/latest?cb=20220315152056", BS Yoshimoto
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=108
 #EXTINF:-1 group-title="Japan TV" tvg-id="157" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/1200px-BS11_logo.svg.png", BS11
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=157
 #EXTINF:-1 group-title="Japan TV" tvg-id="114" tvg-logo="https://www.twellv.co.jp/assets/common/img/ogp.jpg", BS12 TwellV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=114
 #EXTINF:-1 group-title="Japan TV" tvg-id="140" tvg-logo="https://tinyurl.com/2szxntcd", Dance Channel
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=140
 #EXTINF:-1 group-title="Japan TV" tvg-id="60" tvg-logo="https://tinyurl.com/mu3u9fcx", Green
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=60
 #EXTINF:-1 group-title="Japan TV" tvg-id="110" tvg-logo="https://tinyurl.com/4tkn85ec", Gunma TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=110
 #EXTINF:-1 group-title="Japan TV" tvg-id="33" tvg-logo="https://tinyurl.com/y4yjxvya", NHK BS Premium
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=33
 #EXTINF:-1 group-title="Japan TV" tvg-id="33" tvg-logo="https://tinyurl.com/y4yjxvya", NHK BS Premium Luồng 2
 http://203.162.235.41:25104
 #EXTINF:-1 group-title="Japan TV" tvg-id="32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=32
 #EXTINF:-1 group-title="Japan TV" tvg-id="32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1 Luồng 2
 http://203.162.235.41:20099/
 #EXTINF:-1 group-title="Japan TV" tvg-id="163" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NHK_BS4K_logo_2020.png/800px-NHK_BS4K_logo_2020.png", NHK BS4K
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=163
 #EXTINF:-1 group-title="Japan TV" tvg-id="138" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/TABI_Channel.svg/revision/latest?cb=20151205150819", TABI Channel
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=138
 #EXTINF:-1 group-title="Japan TV" tvg-id="139" tvg-logo="https://www.accs.or.jp/wordpress/wp-content/uploads/2021/07/samurai_bnr.jpg", Fighting TV Samurai
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=139
 #EXTINF:-1 group-title="Japan TV" tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2560px-GAORA_SPORTS_logo.svg.png", GAORA Sports
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=1
 #EXTINF:-1 group-title="Japan TV" tvg-id="67" tvg-logo="https://tinyurl.com/2p89enzt", Golf
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=67
 #EXTINF:-1 group-title="Japan TV" tvg-id="67" tvg-logo="https://tinyurl.com/2p89enzt", Golf Luồng 2
 http://203.162.235.41:28107/
 #EXTINF:-1 group-title="Japan TV" tvg-id="68" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png", J Sports 1
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=68
 #EXTINF:-1 group-title="Japan TV" tvg-id="69" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/758.png", J Sports 2
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=69
 #EXTINF:-1 group-title="Japan TV" tvg-id="70" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-158-400x400.png", J Sports 3
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=70
 #EXTINF:-1 group-title="Japan TV" tvg-id="71" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-132-400x400.png", J Sports 4
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=71
 #EXTINF:-1 group-title="Japan TV" tvg-id="90" tvg-logo="https://tinyurl.com/3a4xp4ts", Nippon Telesitas
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=90
 #EXTINF:-1 group-title="Japan TV" tvg-id="72" tvg-logo="https://tinyurl.com/2dtxr6tj", Sky A
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=72
 #EXTINF:-1 group-title="Japan TV" tvg-id="150" tvg-logo="https://tinyurl.com/bda877eu", Sports Live Plus
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=150
 #EXTINF:-1 group-title="Japan TV" tvg-id="323" tvg-logo="https://www.mystery.co.jp/assets/images/meta/ogp.png", AXN Mystery
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=323
 #EXTINF:-1 group-title="Japan TV" tvg-id="137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png", AXN Japan
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=137
 #EXTINF:-1 group-title="Japan TV" tvg-id="84" tvg-logo="https://i.imgur.com/iNwIAso.png", Eisei Gekijo
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=84
 #EXTINF:-1 group-title="Japan TV" tvg-id="87" tvg-logo="https://tinyurl.com/3e5a2556", Family Theater
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=87
 #EXTINF:-1 group-title="Japan TV" tvg-id="95" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/2560px-FOX_wordmark.svg.png", FOX
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=95
 #EXTINF:-1 group-title="Japan TV" tvg-id="124" tvg-logo="https://tinyurl.com/mr3x3nfk", Galaxy
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=124
 #EXTINF:-1 group-title="Japan TV" tvg-id="88" tvg-logo="https://tinyurl.com/43h7pwv7", Historical Drama
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=88
 #EXTINF:-1 group-title="Japan TV" tvg-id="86" tvg-logo="https://tinyurl.com/mhbatvfs", Home Drama
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=86
 #EXTINF:-1 group-title="Japan TV" tvg-id="57" tvg-logo="https://tinyurl.com/4dbyj7ym", Igasenmon
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=57
 #EXTINF:-1 group-title="Japan TV" tvg-id="235" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png", KBS World
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=235
 #EXTINF:-1 group-title="Japan TV" tvg-id="132" tvg-logo="https://www.lala.tv/assets/images/common/ogp.jpg", LaLaTV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=132
 #EXTINF:-1 group-title="Japan TV" tvg-id="73" tvg-logo="https://tinyurl.com/2p8ssann", Movie Plus
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=73
 #EXTINF:-1 group-title="Japan TV" tvg-id="83" tvg-logo="https://tinyurl.com/2ztvfh38", Neco
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=83
 #EXTINF:-1 group-title="Japan TV" tvg-id="52" tvg-logo="https://tinyurl.com/yc8m36vu", Star 1
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=52
 #EXTINF:-1 group-title="Japan TV" tvg-id="53" tvg-logo="https://tinyurl.com/bdfwey35", Star 2
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=53
 #EXTINF:-1 group-title="Japan TV" tvg-id="54" tvg-logo="https://tinyurl.com/3cnvadda", Star 3
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=54
 #EXTINF:-1 group-title="Japan TV" tvg-id="133" tvg-logo="https://www.superdramatv.com/assets/img/thums_default.jpg", Super! drama TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=133
 #EXTINF:-1 group-title="Japan TV" tvg-id="141" tvg-logo="https://tinyurl.com/2p9sj9z8", The Cinema
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=141
 #EXTINF:-1 group-title="Japan TV" tvg-id="85" tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/408/1020750.jpg", Toei Channel
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=85
 #EXTINF:-1 group-title="Japan TV" tvg-id="41" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/E4c594f6-3687-40d8-b8b7-af85a0378c97.png/revision/latest?cb=20200215065013", Wowow Cinema
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=41
 #EXTINF:-1 group-title="Japan TV" tvg-id="40" tvg-logo="https://image-proxy.wowow.co.jp/uploads/attachment/file/43303/6f9795e0-7713-439e-af43-04809c98c867.png?w=800&h=800", Wowow Live
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=40
 #EXTINF:-1 group-title="Japan TV" tvg-id="55" tvg-logo="https://www.wowowplus.jp/parts/common/img/logo_sp.png?1130", WOWOW plus
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=55
 #EXTINF:-1 group-title="Japan TV" tvg-id="39" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest?cb=20200215064334", Wowow Prime
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=39
 #EXTINF:-1 group-title="Japan TV" tvg-id="39" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest?cb=20200215064334", Wowow Prime Luồng 2
 http://203.162.235.41:27106/
 #EXTINF:-1 group-title="Japan TV" tvg-id="135" tvg-logo="https://tinyurl.com/ynaerbxp", Kayo Pops
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=135
 #EXTINF:-1 group-title="Japan TV" tvg-id="74" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png", MTV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=74
 #EXTINF:-1 group-title="Japan TV" tvg-id="149" tvg-logo="https://tinyurl.com/27sxwsse", Music Air
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=149
 #EXTINF:-1 group-title="Japan TV" tvg-id="156" tvg-logo="https://tinyurl.com/3vu3zj94", music japan
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=156
 #EXTINF:-1 group-title="Japan TV" tvg-id="131" tvg-logo="https://www.m-on.jp/special/images/logo_mon.jpg", Music On TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=131
 #EXTINF:-1 group-title="Japan TV" tvg-id="236" tvg-logo="https://static.wikia.nocookie.net/fishmans/images/7/73/Sstv.jpg", Space Shower TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=236
 #EXTINF:-1 group-title="Japan TV" tvg-id="155" tvg-logo="https://www.spaceshowertvplus.com/images/header/siteid.png", Space Shower TV Plus
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=155
 #EXTINF:-1 group-title="Japan TV" tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/800px-AT-X_logo.svg.png", Anime Theater X
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=107
 #EXTINF:-1 group-title="Japan TV" tvg-id="105" tvg-logo="https://tinyurl.com/nhky2et4", Anime TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=105
 #EXTINF:-1 group-title="Japan TV" tvg-id="109" tvg-logo="https://i0.wp.com/ciptv.org/img/Anime-Zone-TV.png?fit=750%2C422", Anime Zone
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=109
 #EXTINF:-1 group-title="Japan TV" tvg-id="113" tvg-logo="https://animeinasia.files.wordpress.com/2017/04/aniplus.png", ANIPLUS AISA
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=113
 #EXTINF:-1 group-title="Japan TV" tvg-id="56" tvg-logo="https://www.animax.co.jp/assets/img/common/ogp.png", BS Animax
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=56
 #EXTINF:-1 group-title="Japan TV" tvg-id="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", Cartoon Network
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=82
 #EXTINF:-1 group-title="Japan TV" tvg-id="58" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png", Disney Channel
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=58
 #EXTINF:-1 group-title="Japan TV" tvg-id="89" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Disney_Junior.svg", Disney Junior
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=89
 #EXTINF:-1 group-title="Japan TV" tvg-id="81" tvg-logo="https://static.wikia.nocookie.net/pokemon/images/7/79/Kids_Station.png", Kids Station
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=81
 #EXTINF:-1 group-title="Japan TV" tvg-id="336" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/800px-ZooMoo_logo.svg.png", Zoomoo
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=336
 #EXTINF:-1 group-title="Japan TV" tvg-id="76" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg", Animal Planet
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=76
 #EXTINF:-1 group-title="Japan TV" tvg-id="99" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/2/2b/Discovery-Channel.svg/2560px-Discovery-Channel.svg.png", Discovery Channel
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=99
 #EXTINF:-1 group-title="Japan TV" tvg-id="75" tvg-logo="https://i.natgeofe.com/n/4da26b5c-18ee-413f-96dd-4cf3fb4a68a0/2fl-white.png", National Geographic
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=75
 #EXTINF:-1 group-title="Japan TV" tvg-id="309" tvg-logo="https://tinyurl.com/yvbxdzmf", The History Channel Japan
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=309
 #EXTINF:-1 group-title="Japan TV" tvg-id="24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/1200px-ANN_logo.svg.png", ANNnewsCH
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=24
 #EXTINF:-1 group-title="Japan TV" tvg-id="97" tvg-logo="https://tinyurl.com/yn88j79f", BBC NEWS
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=97
 #EXTINF:-1 group-title="Japan TV" tvg-id="96" tvg-logo="https://tinyurl.com/792r5j2h", CNN
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=96
 #EXTINF:-1 group-title="Japan TV" tvg-id="315" tvg-logo="https://tinyurl.com/mwwdv36y", CNNJ
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=315
 #EXTINF:-1 group-title="Japan TV" tvg-id="162" tvg-logo="https://tinyurl.com/4fftxh8n", HTB news
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=162
 #EXTINF:-1 group-title="Japan TV" tvg-id="104" tvg-logo="https://tinyurl.com/49y4phf3", NHK World
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=104
 #EXTINF:-1 group-title="Japan TV" tvg-id="233" tvg-logo="https://tinyurl.com/4xpzy3n7", TBS News
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=233
 #EXTINF:-1 group-title="Japan TV" tvg-id="115" tvg-logo="https://tinyurl.com/285mdrbx", GSTV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=115
 #EXTINF:-1 group-title="Japan TV" tvg-id="102" tvg-logo="https://tinyurl.com/e4a94xha", QVC
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=102
 #EXTINF:-1 group-title="Japan TV" tvg-id="101" tvg-logo="https://tinyurl.com/4bzcvbk4", Shop Channel
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=101
 #EXTINF:-1 group-title="Japan TV" tvg-id="308" tvg-logo="https://tinyurl.com/y7vw2fs7", EntermeiTele
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=308
 #EXTINF:-1 group-title="Japan TV" tvg-id="148" tvg-logo="https://tinyurl.com/3u8hzk4f", Fuji TV Next
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=148
 #EXTINF:-1 group-title="Japan TV" tvg-id="146" tvg-logo="https://tinyurl.com/h25ep9xx", Fuji TV One
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=146
 #EXTINF:-1 group-title="Japan TV" tvg-id="147" tvg-logo="https://tinyurl.com/3jtmne46", Fuji TV Two
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=147
 #EXTINF:-1 group-title="Japan TV" tvg-id="143" tvg-logo="https://tinyurl.com/5ct9apx4", MONDO TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=143
 #EXTINF:-1 group-title="Japan TV" tvg-id="237" tvg-logo="https://tinyurl.com/5h7pec48", NittelePlus
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=237
 #EXTINF:-1 group-title="Japan TV" tvg-id="112" tvg-logo="https://tinyurl.com/yc85fhr6", NTV News 24
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=112
 #EXTINF:-1 group-title="Japan TV" tvg-id="234" tvg-logo="https://tinyurl.com/46c8z4fp", Pigoo
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=234
 #EXTINF:-1 group-title="Japan TV" tvg-id="136" tvg-logo="https://tinyurl.com/5525tzzj", SHOGI CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=136
 #EXTINF:-1 group-title="Japan TV" tvg-id="142" tvg-logo="https://tinyurl.com/3mpsh4vz", Takarazuka Sky Stage
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=142
 #EXTINF:-1 group-title="Japan TV" tvg-id="144" tvg-logo="https://tinyurl.com/5m6fckuf", TBS Channel 1
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=144
 #EXTINF:-1 group-title="Japan TV" tvg-id="145" tvg-logo="https://tinyurl.com/yc7k7ybv", TBS Channel 2
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=145
 #EXTINF:-1 group-title="Japan TV" tvg-id="158" tvg-logo="https://tinyurl.com/5e35m94d", Tetsudo channel jp
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=158
 #EXTINF:-1 group-title="Japan TV" tvg-id="160" tvg-logo="https://tinyurl.com/yatd9vxh", TV Asahi Channel 1
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=160
 #EXTINF:-1 group-title="Japan TV" tvg-id="161" tvg-logo="https://tinyurl.com/2p8zxy6d", TV Asahi Channel 2
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=161
 #EXTINF:-1 group-title="Japan TV" tvg-id="325" tvg-logo="https://tinyurl.com/yf4jda3y", Centimeters Per Second
+#EXTVLCOPT:http-user-agent=ExoPlayer
 https://tiemnhazunn.click/japantv/?id=325
 
 
