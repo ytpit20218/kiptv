@@ -149,13 +149,13 @@ https://fbvip88.com/fptplay/getfpt.php?id=vtv3-hd
 http://live-ali4.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/fptplay/getfpt.php?id=vtv4-hd
+https://tiemnhazunn.click/vieon/vieon.php?id=vtv4-hd
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png",VTV5 HD 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 #EXTINF:0 tvg-id="vtv6hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/zmKpWCv/vtv-can-tho-16650500344341813094040-removebg-preview.png",VTV Cần Thơ 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hqth.me/vtv6360
+http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/J7FX52M/vtv7.png"  tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
 #EXTVLCOPT:http-user-agent="KIIP"
 https://fbvip88.com/fptplay/getfpt.php?id=vtv7-hd
@@ -249,18 +249,15 @@ https://tiemnhazunn.click/vieon/vieon.php?id=vtc16-hd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58
 https://fjp7rl09suliv.vcdn.cloud/channel/antv/channel/antv_1080p/chunks.m3u8
 #EXTINF:0 tvg-id="quochoi" group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/HKT7QyG/QUOCHOI.png", QUỐC HỘI
-https://live-zlr1.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
+https://live-ali2.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="qpvnhd" group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/7WSkk4v/QPVN.png", QUỐC PHÒNG VIỆT NAM
-http://27.76.137.122:1935/standard/smil:standard.smil/playlist.m3u8
+https://live-ali2.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="vovtvhd" group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/B4xVCP0/VOV.png",VOV TV HD
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/JqJd7PY/NHANDAN.png",NHÂN DÂN HD
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/0Yj99ss/VNEWS.png" ,VNews
-https://live-zlr1.tv360.vn/manifest/Vnews/playlist_480p1p6.m3u8
-#EXTINF:-1 tvg-id="antg" group-title="THỜI SỰ - KIPTV" tvg-logo="https://i.ibb.co/tPvj88L/An-ninh-th-gi-i-HD-2015-removebg-preview.png", An Ninh Thế Giới
-#EXTVLCOPT:http-user-agent="KIIP"
-https://tiemnhazunn.click/tv360/tv360.php?id=21
+https://live-ali2.tv360.vn/manifest/Vnews/playlist_480p1p6.m3u8
 
 
 
@@ -712,7 +709,7 @@ https://tiemnhazunn.click/vieon/vieoncab.php?id=vtvcab20-vfamily
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/vieoncab.php?id=vtvcab7
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVCab  - KIPTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ON_Kids_Logo_20231.jpg" ,ON KIDS
-https://tiemnhazunn.click/tv360/tv360.php?id=179
+https://live-ali2.tv360.vn/manifest/VTVCab21/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVCab  - KIPTV" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ONLifeChuan-011.jpg", ON LIFE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtvcab22-life-tv/playlist.m3u8
