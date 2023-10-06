@@ -90,17 +90,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 
 
 
-
-#EXTINF:-1 tvg-id="" group-title="AFC Champions League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0b/AFC_Champions_League_2008_logo.png", Hải Phòng FC - PSM Makassar
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/fptplay/getfpt.php?id=the-thao-14
-#EXTINF:-1 tvg-id="" group-title="AFC Champions League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0b/AFC_Champions_League_2008_logo.png", Hải Phòng FC - PSM Makassar Luồng 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36
-https://tiemnhazunn.click/youtube/youtubelive.php?id=IzoHJOi1KDI
-
-
-
-
 #EXTINF:-1 tvg-id="" group-title="Giải VDQG Ả Râp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/1200px-Roshn_Saudi_League_Logo.svg.png", Al Tai - Al Nassr (Vòng 8 - Giải VĐQG Ả Rập Xê Út 2023/24)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/vieonsukien.php?id=al-tai-al-nassr-vong-8-giai-vdqg-a-rap-xe-ut-2023-24-
@@ -179,8 +168,7 @@ http://live-ali2.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtv2/index.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/fptplay/getfpt.php?id=vtv3-hd
-#https://nvzoftzsvflivcf.vcdn.com.vn/vtv3/index.m3u8
+http://0.tcp.ap.ngrok.io:11632/vtv3/index.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live-ali4.tv360.vn/manifest/VTV3/playlist_720p.m3u8
@@ -195,13 +183,13 @@ http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65
 http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/J7FX52M/vtv7.png"  tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
 #EXTVLCOPT:http-user-agent="KIIP"
-https://fbvip88.com/fptplay/getfpt.php?id=vtv7-hd
+http://0.tcp.ap.ngrok.io:11632/vtv7/index.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/vsQPSYQ/vtv8.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
 #EXTVLCOPT:http-user-agent="KIIP"
-https://fbvip88.com/fptplay/getfpt.php?id=vtv8-hd
+http://0.tcp.ap.ngrok.io:11632/vtv8/index.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
 #EXTVLCOPT:http-user-agent="KIIP"
-https://fbvip88.com/fptplay/getfpt.php?id=vtv9-hd
+http://0.tcp.ap.ngrok.io:11632/vtv9/index.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/1RxT5jp/VTV5-TNB.png",VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://tiemnhazunn.click/tv360/tv360.php?id=157
