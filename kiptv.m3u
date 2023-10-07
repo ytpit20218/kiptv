@@ -553,7 +553,9 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv5monde" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/R9P4G9X/TV5-Monde.png", TV5MONDE
-https://fbvip88.com/fptplay/getfpt.php?id=tv5-monde
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://qnetlive.nethubtv.vn/live/tv5mondeasie.smil/chunklist_b1628000_sleng.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
@@ -754,20 +756,22 @@ http://live-ali4.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
 #EXTVLCOPT:http-user-agent="KIIP"
 http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="binhduong1"group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/q5C5Fb9/BTV1.png",BTV 1
-https://fbvip88.com/fptplay/getfpt2.php?id=binh-duong-1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott3.nethubtv.vn/live/btv1/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="binhduong2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/2yj1PqC/BTV2.png",BTV 2
 https://tiemnhazunn.click/btv/getlink.php?id=btv2011220
 #EXTINF:-1 tvg-id="btv3hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ftgpmMb/BTV3.png",BTV 3
-https://fbvip88.com/fptplay/getfpt2.php?id=binh-duong-3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott3.nethubtv.vn/live/btv3/chunklist_1.m3u8
 #EXTINF:-1  tvg-id="binhduong4" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/4gjgSKS/BTV4.png",BTV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tiemnhazunn.click/vieon/vieon.php?id=binh-duong-4
+https://ott3.nethubtv.vn/live/btv4-movie/playlist.m3u8
 #EXTINF:-1 tvg-id="btv6" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/w0MCp0P/BTV6.png",BTV6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tiemnhazunn.click/vieon/vieon.php?id=btv6
+https://ott4.nethubtv.vn/live/btv6/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/SVCkt5L/BTV9.png",BTV9 - An Viên TV
-#EXTVLCOPT:http-user-agent="KIIP"
-https://tiemnhazunn.click/vieon/vieon.php?id=an-vien-hd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott3.nethubtv.vn/live/anvien/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="binhduong11" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cdn.hqth.me/logo/thumbs/121.png", BTV11
 https://tiemnhazunn.click/btv/getlink.php?id=btv11011220
 #EXTINF:-1 tvg-id="HANOITV 1" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/syY6gFH/HANOI1-TV.png",Hà Nội 1 HD
@@ -851,7 +855,8 @@ https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/x3NCYs4/HATINH.png", Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/chunklist_w1879127949.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Hrx6TH1/quangbinhtv.png",Quảng Bình
-https://fbvip88.com/fptplay/getfpt2.php?id=quang-binh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ott4.nethubtv.vn/live/quangbinhtv/chunklist_1.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/qyqvp1L/quangngaitv.png",Quảng Ngãi
 http://118.107.85.5:1935/live/smil:PTQ.smil/chunklist_w1747857222_b1384000.m3u8
 #EXTINF:-1 tvg-id=" "group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/7gnRxCj/QUANGNAM.png",Quảng Nam
@@ -893,7 +898,8 @@ http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/MDzhFJb/LONGAN.png", Long An
 https://la34.vncdn.vn/live/LA34AAA/chunklist_w740481754.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/4WWTF6k/An-Giang.png", An Giang
-https://fbvip88.com/fptplay/getfpt2.php?id=an-giang
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://ott3.nethubtv.vn/live/angiangtv/playlist.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/k8fpzyc/TIENGIANG.png", Tiền Giang
 http://thtg.vn:8001/stream_hi.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/KVFRMKw/Hau-Giang.png", Hậu Giang
