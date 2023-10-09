@@ -418,11 +418,18 @@ https://tiemnhazunn.click/tv360/tv360.php?id=235
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/hbo.php
 https://akavnpt.kplus.vn/msky-live/live_kplus/hbo.smil/manifest.mpd
 
+#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc Tế",HBO HD
+http://vthanhtivi.pw:5000/hbo/index.m3u8
+
+
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Quốc Tế", CINEMAX HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/cinemax.php
 https://akavnpt.kplus.vn/msky-live/live_kplus/max.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Quốc Tế", CINEMAX HD
+http://vthanhtivi.pw:5000/cinemax/index.m3u8
 
 
 
@@ -461,7 +468,8 @@ https://code.vthanhtivi.pw/getlink/tvfree/boomerang/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc tế" tvg-logo="https://i.ibb.co/pJcF0Ym/Cartoon-Network.png", Cartoon network
-http://live-vnp.vthanhtivi.pw:18001/CARTOON_NETWORK_HD/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/getlink/tvfree/cartoon/playlist.m3u8
 
 #EXTINF:-1 group-title="Quốc Tế" tvg-id="zoomoo.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/572px-ZooMoo_logo.svg.png",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -476,7 +484,7 @@ https://sglive.akamaized.net/bpk-tv/prod_history/default/index.mpd
 
 
 #EXTINF:0 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://www.historyplay.tv/images/logo.png?_v=1.5.90",History Luồng 2
-http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
+http://vthanhtivi.pw:5000/history/index.m3u8
 
 #EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/KrdzC6y/CBeebies.png",Cbeebies
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -485,7 +493,7 @@ http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 
 #EXTINF:0 tvg-id="animaxhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/MCD31Zy/Animax.png",Animax
-http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
+http://vthanhtivi.pw:5000/animax/index.m3u8
 
 
 #EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/gjfHJCH/Animal-Planet.png",Animal Planet
