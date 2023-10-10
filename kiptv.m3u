@@ -5,90 +5,6 @@ https://hqth.me/gioithieukiptv
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Thông báo" , Tham gia Zalo KIPTV: http://hqth.me/kiptvzalo
 http://jackmavietnam.ga/live/testyt
 
-#--*.*--KIPTV ASIAD 19--*.*--#
-#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Channel 5 Mediacorp 
-http://0.tcp.ap.ngrok.io:14488/3999/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", RCTI
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://tiemnhazunn.click/rctikiptv/test.php?id=1
-#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", MNC TV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://tiemnhazunn.click/rctikiptv/test.php?id=2
-#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 1
-http://0.tcp.ap.ngrok.io:14488/4006/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 2
-http://0.tcp.ap.ngrok.io:14488/4007/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 3
-http://0.tcp.ap.ngrok.io:14488/4009/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 4
-http://0.tcp.ap.ngrok.io:14488/4004/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 5
-http://0.tcp.ap.ngrok.io:14488/4010/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", Asiad 19 Live 6
-http://0.tcp.ap.ngrok.io:14488/4011/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", TV9 Mông Cổ
-http://20.2.70.178:1700/asiad19/tv9
-#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", PPTV 36
-http://20.2.70.178:1700/asiad19/pptv
-#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", CCTV5
-http://1.85.0.62:808/hls/503/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", CCTV5 +
-https://iptv.luas.edu.cn/liverespath/7b02d30e42de3c0078c158ce81421accad3a8400/503cc020ac-0-0-1302b6eda0d18832e18611c25ddded2d/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", HOY TV Live 1
-https://tiemnhazunn.click/hoitvkiptv/hoitv.php?id=4
-#EXTINF:-1 tvg-id="" group-title="Asiad 19 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png", HOY TV Live 2
-https://tiemnhazunn.click/hoitvkiptv/hoitv.php?id=5
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 7 (Server 01)
-http://asiad2.cvmtv.site:8002/EV07?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 7 (Server 02)
-http://asiad1.cvmtv.site:8002/EV07?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 8 (Server 01)
-http://asiad2.cvmtv.site:8002/EV08?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 8 (Server 02)
-http://asiad1.cvmtv.site:8002/EV08?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 9 (Server 01)
-http://asiad2.cvmtv.site:8002/EV09?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 9 (Server 02)
-http://asiad1.cvmtv.site:8002/EV09?token=asiad
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 group-title="ASIAD 19" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg",MNC Sports 1
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 group-title="ASIAD 19" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",MNC Sports 2
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 group-title="ASIAD 19" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",MNC Sports 3
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/soccer-channel-id.png" group-title="ASIAD 19",Soccer Channel
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://static.mncnow.id/images/channel/4f4a02c0/c9b7_r32.jpg" group-title="ASIAD 19",OKTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:0 tvg-logo="https://static.mncnow.id/images/channel/4f4a02c0/c9b7_r32.jpg" group-title="ASIAD 19",Music TV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
-
-
 
 #EXTINF:-1 tvg-id="" group-title="Giải VDQG Ả Râp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/1200px-Roshn_Saudi_League_Logo.svg.png", Al Nassr - Abha (Vòng 9 - Giải VĐQG Ả Rập Xê Út 2023/24)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -99,7 +15,6 @@ https://tiemnhazunn.click/vieon/al-ittihad-al-ahli-vong-9-giai-vdqg-a-rap-xe-ut-
 #EXTINF:-1 tvg-id="" group-title="Giải VDQG Ả Râp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/1200px-Roshn_Saudi_League_Logo.svg.png", Al Okhdoud - Al Hilal (Vòng 9 - Giải VĐQG Ả Rập Xê Út 2023/24)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/al-okhdoud-al-hilal-vong-9-giai-vdqg-a-rap-xe-ut-2023-24-/index2.m3u8
-
 
 
 
