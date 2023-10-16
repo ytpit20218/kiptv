@@ -75,9 +75,6 @@ http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 #https://nvzoftzsvflivcf.vcdn.com.vn/vtv2/index.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://0.tcp.ap.ngrok.io:11632/vtv3/index.m3u8
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV - KIPTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -776,18 +773,19 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist_w508825293.m3u8
 #EXTVLCOPT:http-user-agent="KIIP"
 https://live.bacgiangtv.vn/bgtvlive/tv1live.m3u8
 #EXTINF:0 tvg-id="phutho" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/QX35Py1/Phu-Tho.png", Phú Thọ
-http://0.tcp.ap.ngrok.io:11632/phutho/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://tiemnhazunn.click/vieon/phu-tho/index3.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/4PjmtVk/phuyentv.png", Phú Yên
-http://0.tcp.ap.ngrok.io:11632/phuyen/index.m3u8
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/X8Gq6kK/Ha-Giang.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/hagiang_2000.stream/chunks_dvr_range-${start}-10800.m3u8", Hà Giang
-http://0.tcp.ap.ngrok.io:11632/hagiang/index.m3u8
+https://tiemnhazunn.click/diaphuong/hagiang/index.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/9V7DygN/hanam.png", Hà Nam
 https://mediatech.vncdn.vn/thhnlive/tv1live.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/v1GfS0k/NINHBINH.png", Ninh Bình
 https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="TH THANH HOA" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/r5wyK3R/THANHHOA.png", Thanh Hóa
-#http://687642383.r.vietnamcdn.net/687642383/_definst_/mystream/chunklist_w1674349754.m3u8
-http://0.tcp.ap.ngrok.io:11632/thanhhoa/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://tiemnhazunn.click/vieon/thanh-hoa-48/index3.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ZLzCLxs/NGHEAN.png", Nghệ An
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/x3NCYs4/HATINH.png", Hà Tĩnh
@@ -822,7 +820,8 @@ http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/XpSqbcw/baclieutv.png", Bạc Liêu
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/wS4K17b/BENTRE.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/bentre_2000.stream/chunks_dvr_range-${start}-10800.m3u8", Bến Tre
-http://0.tcp.ap.ngrok.io:11632/bentre/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://tiemnhazunn.click/vieon/ben-tre-1-2/index3.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/6nLxkjW/KHANHHOA.png", Khánh Hòa
 http://210.245.20.94/hls/ktv1.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/XL4F8yN/CANTHO.png", Cần Thơ
