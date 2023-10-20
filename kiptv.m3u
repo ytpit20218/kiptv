@@ -27,9 +27,6 @@ https://tiemnhazunn.click/kartina/989/index.m3u8
 https://tiemnhazunn.click/kartina/1261/index.m3u8
 
 
-#EXTINF:-1 group-title="Mytv Event" tvg-logo="https://play-lh.googleusercontent.com/6H5TQl3eTUfhQLsdF9Aq9yIOrOZxypmQyEqMj9WFUhtjVjj4Ngyup4WR6quBwJf6Qg=w600-h300-pc0xffffff-pd", Mytv Event 803
-
-
 
 
 #--*.*--Bếp Live X KIPTV--*.*--#
@@ -84,7 +81,7 @@ https://tiemnhazunn.click/vieon/vtv4-hd/index.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/njbWnFT/vtv5-tay-nguyen.png",VTV5 HD 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-t#EXTINF:0 tvg-id="vtv6hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/zmKpWCv/vtv-can-tho-16650500344341813094040-removebg-preview.png",VTV Cần Thơ 
+#EXTINF:0 tvg-id="vtv6hd"group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/zmKpWCv/vtv-can-tho-16650500344341813094040-removebg-preview.png",VTV Cần Thơ 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV - KIPTV" tvg-logo="https://i.ibb.co/J7FX52M/vtv7.png"  tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
