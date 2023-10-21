@@ -582,7 +582,10 @@ https://nxanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMo
 
 #EXTINF:0 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies
 http://210.210.155.37/dr9445/h/h14/index.m3u8
-
+#EXTINF:0 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/FO4fcopEHDsl56maYwAcrZAOYu907Wgt0FQUrkYLDQnWtuJ9rQDkKTo6nTrPNXk1GX70" group-title="Quốc Tế", Rakuten TV Movies
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="Quốc Tế",Star Movies Select
+http://195.26.87.217/live?channelId=199&deviceMac=00:1A:79:33:E9:41
 #EXTINF:0 tvg-id="" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png" group-title="Quốc Tế", Clubbingtv
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/4IkIBkIFApQMYml2sW7XAV21mye06E_X5HssA-WsCRYBHIxWP5BQFzq79t0P5T8MrVs" group-title="Quốc Tế", Filmbox
